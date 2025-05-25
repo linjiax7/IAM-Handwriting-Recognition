@@ -1,0 +1,6008 @@
+Evaluation Summary
+=================
+Total images processed: 1000
+Average CER: 0.7556
+Average WER: 0.8472
+
+Detailed Results
+===============
+
+Image: lines/g01/g01-012/g01-012-03.png
+Prediction: eeu dopied Pete. The 'ribold' Lououon
+Ground Truth: even despised failure . The ' ribald ' Londoners , who
+CER: 0.5000
+WER: 0.9091
+
+Image: lines/b01/b01-073/b01-073-09.png
+Prediction: nore  logicaltoseudiu  woremeu.	0.8043034076690674
+Ground Truth: more logical to send in more men ,
+CER: 0.9118
+WER: 1.0000
+
+Image: lines/f02/f02-030/f02-030-04.png
+Prediction: Workiug out luis ideas
+Ground Truth: working out his ideas , either through the company's
+CER: 0.6731
+WER: 0.7778
+
+Image: lines/a01/a01-026u/a01-026u-07.png
+Prediction: Pahy.But nepueaeulatiues of Sir Roy	0.8667455315589905
+Ground Truth: Party . But representatives of Sir Roy
+CER: 0.7632
+WER: 0.7143
+
+Image: lines/a02/a02-024/a02-024-07.png
+Prediction: treIthelagotintun.	0.7946275472640991
+Ground Truth: Stores , the largest in town .
+CER: 1.1000
+WER: 1.0000
+
+Image: lines/m06/m06-056/m06-056-05.png
+Prediction: QS we ae. Sone uay be born ngWt.	0.934323787689209
+Ground Truth: as we are . Some may be born right . '
+CER: 0.7105
+WER: 0.7273
+
+Image: lines/c03/c03-087e/c03-087e-04.png
+Prediction: Oroune! hin in complele wreeleenable ole	0.8712829351425171
+Ground Truth: around him in complete , unredeemable de-
+CER: 0.8049
+WER: 0.8571
+
+Image: lines/j04/j04-039/j04-039-05.png
+Prediction: staud for sereralolaysbeforeHheadolitiou of lead	0.8942360877990723
+Ground Truth: stand for several days before the addition of lead
+CER: 0.6000
+WER: 0.7778
+
+Image: lines/g06/g06-037j/g06-037j-01.png
+Prediction: Proghe+ & tqI q1 n9y J wel.Sr R.Ree	0.7829024195671082
+Ground Truth: prophet & that all may go well . Sir R. Peel
+CER: 0.8636
+WER: 0.9091
+
+Image: lines/a02/a02-017/a02-017-02.png
+Prediction: Crell-Bane
+Ground Truth: Corell-Barnes ( Colonial Office ) , Mr. G. R. Bell
+CER: 0.8000
+WER: 1.0000
+
+Image: lines/c03/c03-021b/c03-021b-02.png
+Prediction: vtmu huh ylwrrdby a strony wakral wihicl	0.6227926015853882
+Ground Truth: women but yet moved by a strong maternal instinct to
+CER: 0.8269
+WER: 0.9000
+
+Image: lines/g06/g06-047h/g06-047h-06.png
+Prediction: WhaAng(esey Cony1td in May 1834	0.7832818627357483
+Ground Truth: whom Anglesey consulted in May 1834 .
+CER: 0.7568
+WER: 0.5714
+
+Image: lines/m02/m02-112/m02-112-03.png
+Prediction: these young ones
+Ground Truth: these young ones , on parade for jobs which they
+CER: 0.6667
+WER: 0.7000
+
+Image: lines/a02/a02-024/a02-024-05.png
+Prediction: attin thi mminyhundned aflneitant	0.7113620042800903
+Ground Truth: at Accra this morning , hundreds of shop assistants
+CER: 0.8627
+WER: 1.0000
+
+Image: lines/k07/k07-185/k07-185-01.png
+Prediction: ne Hachomiyhehad oncetreated	0.8377429246902466
+Ground Truth: her reactions if he had once treated
+CER: 0.8889
+WER: 1.0000
+
+Image: lines/n03/n03-126/n03-126-03.png
+Prediction: few momuh lkr the yawl worypare	0.6711836457252502
+Ground Truth: few moments later the yawl was upside
+CER: 0.8649
+WER: 0.5714
+
+Image: lines/a06/a06-020/a06-020-00.png
+Prediction: He was announcinq his execuHive's rejecFion of Hie u?HimaFum Fo Hts	0.8940491080284119
+Ground Truth: He was announcing his executive's rejection of the ultimatum to the
+CER: 0.4478
+WER: 0.7273
+
+Image: lines/a04/a04-000/a04-000-00.png
+Prediction: PRES1DENT KENNEDy xeywwed his pWswu	0.8705575466156006
+Ground Truth: PRESIDENT KENNEDY renewed his pressure
+CER: 0.7105
+WER: 1.0000
+
+Image: lines/e07/e07-072/e07-072-09.png
+Prediction: DStouned at a courparahl price
+Ground Truth: obtained at a comparable price , except the
+CER: 0.4884
+WER: 0.6250
+
+Image: lines/m02/m02-087/m02-087-02.png
+Prediction: openross and frahness
+Ground Truth: openness and freshness , though perhaps not the same
+CER: 0.6538
+WER: 0.8889
+
+Image: lines/e07/e07-083/e07-083-09.png
+Prediction: whirar onlager wtalirhmint the pot	0.772803783416748
+Ground Truth: whereas on larger establishments the pots
+CER: 0.7073
+WER: 1.0000
+
+Image: lines/c04/c04-089/c04-089-03.png
+Prediction: I had oyly oue box of ta<Ks -it might have beey so	0.9426981210708618
+Ground Truth: I had only one box of tacks - it might have been so
+CER: 0.4902
+WER: 0.5385
+
+Image: lines/h07/h07-037/h07-037-02.png
+Prediction: bring custom to the shops ono the	0.9548590779304504
+Ground Truth: bring custom to the shops and the
+CER: 0.6364
+WER: 0.2857
+
+Image: lines/h07/h07-030a/h07-030a-04.png
+Prediction: oytahn the huiCliny cnd leting M	0.7751773595809937
+Ground Truth: undertaken the building and letting of the
+CER: 0.7857
+WER: 0.8571
+
+Image: lines/g06/g06-042p/g06-042p-01.png
+Prediction: 1960s
+Ground Truth: 1960s , no cure has been found for the 6tic douloureux .
+CER: 0.9107
+WER: 0.9167
+
+Image: lines/c02/c02-012/c02-012-02.png
+Prediction: nant the accwacy of z police photogi2ph	0.8471000790596008
+Ground Truth: want the accuracy of a police photograph ,
+CER: 0.5952
+WER: 0.6250
+
+Image: lines/r03/r03-050/r03-050-01.png
+Prediction: Jroru dusty Lcir ou He olusty slouicies of luis 61ack	0.8601694107055664
+Ground Truth: from dusty hair on the dusty shoulders of his black
+CER: 0.7451
+WER: 0.9000
+
+Image: lines/a01/a01-014/a01-014-03.png
+Prediction: IWe want to disun thst todo if the	0.8486013412475586
+Ground Truth: " We want to discuss what to do if the
+CER: 0.7105
+WER: 0.7000
+
+Image: lines/b05/b05-074/b05-074-07.png
+Prediction: HWus:" Wether uahous live iv prspevity or sharv?	0.8581869006156921
+Ground Truth: thus : " Whether nations live in prosperity or starve
+CER: 0.6226
+WER: 0.9000
+
+Image: lines/p01/p01-155/p01-155-04.png
+Prediction: buyplim occord'y lo tho gcf hus pceuf hllogef fc	0.7087005972862244
+Ground Truth: baptism according to the sect his parents belonged to .
+CER: 0.7818
+WER: 1.0000
+
+Image: lines/h07/h07-025/h07-025-01.png
+Prediction: where the prime needcofar has	0.9098586440086365
+Ground Truth: ( where the prime need so far has
+CER: 0.7273
+WER: 0.6250
+
+Image: lines/f07/f07-084b/f07-084b-02.png
+Prediction: prepered xt least once a week in every bourgeois	0.9340408444404602
+Ground Truth: prepared at least once a week in every bourgeois
+CER: 0.4375
+WER: 0.3333
+
+Image: lines/g06/g06-045n/g06-045n-07.png
+Prediction: MnHdsm n HirWhhhil	0.4468807578086853
+Ground Truth: treated under a doctor who had
+CER: 1.2000
+WER: 1.0000
+
+Image: lines/a06/a06-157/a06-157-00.png
+Prediction: TWs Fnn Lt1 Seu nrparnd ouly M Hu cve cf He	0.7975775003433228
+Ground Truth: This figure has been surpassed only on the eve of the
+CER: 0.9057
+WER: 1.0909
+
+Image: lines/a03/a03-034/a03-034-05.png
+Prediction: iMluston fn Me Corsenvahine ParKy fhaf Helr	0.7547258734703064
+Ground Truth: illusion in the Conservative Party that their
+CER: 0.7556
+WER: 1.1429
+
+Image: lines/r06/r06-106/r06-106-06.png
+Prediction: hair hxd just Soer done.She looked	0.8909645676612854
+Ground Truth: hair had just been done . She looked
+CER: 0.6944
+WER: 0.7500
+
+Image: lines/n06/n06-163/n06-163-08.png
+Prediction: sweetenedwithmolassesfor ollandfer us	0.784762442111969
+Ground Truth: sweetened with molasses for all and for us
+CER: 0.5952
+WER: 1.0000
+
+Image: lines/k07/k07-125/k07-125-01.png
+Prediction: a Cigarele. H's a wow! he said.Se kised	0.8525673151016235
+Ground Truth: a cigarette . It 's a wow ! he said . She kissed
+CER: 0.6458
+WER: 0.7692
+
+Image: lines/a03/a03-023/a03-023-05.png
+Prediction: factically usefe( Plen of Jars houeve-	0.8803832530975342
+Ground Truth: tactically useful Plain of Jars , however ,
+CER: 0.6512
+WER: 0.7500
+
+Image: lines/d06/d06-086/d06-086-02.png
+Prediction: rolp thon Titir? jirom on thig h th nud.	0.666959285736084
+Ground Truth: rather than getting from one thing to the next .
+CER: 0.7917
+WER: 1.0000
+
+Image: lines/n04/n04-183/n04-183-05.png
+Prediction: fohueyed hinsteadily."St's tu Puncifal	0.8017929196357727
+Ground Truth: John eyed him steadily . " It 's the Parcifal
+CER: 0.7333
+WER: 1.0000
+
+Image: lines/b01/b01-094/b01-094-05.png
+Prediction: Hhe Arst Hue
+Ground Truth: the first time , in Malagasy ( formerly
+CER: 0.7949
+WER: 1.0000
+
+Image: lines/b05/b05-074/b05-074-04.png
+Prediction: Hhem that they were being "eucirld" They really	0.8715651631355286
+Ground Truth: them that they were being " encircled . " They really
+CER: 0.5094
+WER: 0.5455
+
+Image: lines/e04/e04-099/e04-099-01.png
+Prediction: Plan measurenets bt leae sufhiciel mugin far	0.787710964679718
+Ground Truth: plan measurements but leave sufficient margin for
+CER: 0.5918
+WER: 1.1429
+
+Image: lines/e04/e04-095/e04-095-00.png
+Prediction: The skelchon f He boaf wil now lake Shape.	0.865402340888977
+Ground Truth: The skeleton of the boat will now take shape ,
+CER: 0.6087
+WER: 0.8000
+
+Image: lines/n04/n04-100/n04-100-01.png
+Prediction: Check and wunt-cheek - nothiny but the truth.	0.9393959045410156
+Ground Truth: Check and counter-check - nothing but the truth .
+CER: 0.5102
+WER: 0.4444
+
+Image: lines/c04/c04-144/c04-144-02.png
+Prediction: oHairs.TWe Wesker~ futewview will Ge Seey st a batey	0.8290624618530273
+Ground Truth: affairs . The Wesker interview will be seen at a later
+CER: 0.6481
+WER: 0.9091
+
+Image: lines/p03/p03-047/p03-047-05.png
+Prediction: Young Julbin ohrugged.
+Ground Truth: Young Gubbins shrugged . " I didn't see his
+CER: 0.5581
+WER: 0.8889
+
+Image: lines/h07/h07-040b/h07-040b-02.png
+Prediction: fhe small shoe-mabr iitl bauhs specally	0.7432022094726562
+Ground Truth: the small shoe-mender , with banks specially
+CER: 0.7045
+WER: 0.8571
+
+Image: lines/e01/e01-102/e01-102-02.png
+Prediction: are more effechive for te delicake designs used Ar	0.9120834469795227
+Ground Truth: are more effective for the delicate designs used for
+CER: 0.4615
+WER: 0.5556
+
+Image: lines/g07/g07-044/g07-044-04.png
+Prediction: be nenleo aolrankageoulyan life .slu haol livea	0.7094817757606506
+Ground Truth: be settled advantageously in life . She had lived
+CER: 0.7551
+WER: 0.7778
+
+Image: lines/g03/g03-000/g03-000-06.png
+Prediction: feorfe won mouy Sr'zes
+Ground Truth: George won many prizes , and though some people
+CER: 0.6596
+WER: 0.8889
+
+Image: lines/a05/a05-053/a05-053-05.png
+Prediction: acccupaiwcnu ohQsweasweso8 a wuulay
+Ground Truth: accompanied by other measures of a military ,
+CER: 0.5556
+WER: 0.8750
+
+Image: lines/p02/p02-131/p02-131-05.png
+Prediction: So Lind aud nice and she hoped that one	0.9703369140625
+Ground Truth: so kind and nice and she hoped that one
+CER: 0.4872
+WER: 0.4444
+
+Image: lines/a02/a02-072/a02-072-07.png
+Prediction: was planned but police turned up.	0.9233086705207825
+Ground Truth: was planned but police turned up .
+CER: 0.5588
+WER: 0.2857
+
+Image: lines/e07/e07-105/e07-105-03.png
+Prediction: buying small pot! to inpvove fheiv Composts.	0.8910297751426697
+Ground Truth: buying small pots to improve their composts .
+CER: 0.5556
+WER: 0.6250
+
+Image: lines/m04/m04-216/m04-216-01.png
+Prediction: position
+Ground Truth: position , " he said , " is somewhat analogous to
+CER: 0.8367
+WER: 0.9091
+
+Image: lines/n04/n04-092/n04-092-07.png
+Prediction: all else. We pricle ourselrs cbout aecwrnty on	0.8532853126525879
+Ground Truth: all else . We pride ourselves about accuracy on
+CER: 0.6170
+WER: 0.7778
+
+Image: lines/n03/n03-064/n03-064-03.png
+Prediction: Hhiauyh hil
+Ground Truth: triangular sail , and to the judge's frightened eyes , so
+CER: 0.8947
+WER: 1.0000
+
+Image: lines/g06/g06-026d/g06-026d-00.png
+Prediction: A plassart life +uf tuly! ...II so hagppens Hhaf 1 haw.	0.8094759583473206
+Ground Truth: A pleasant life # truly ! ... It so happens that I have
+CER: 0.6364
+WER: 0.8462
+
+Image: lines/l01/l01-187/l01-187-08.png
+Prediction: foselle he olln explanecl all our asaii	0.8980323672294617
+Ground Truth: together he often explained all over again
+CER: 0.8095
+WER: 0.8571
+
+Image: lines/m03/m03-114/m03-114-03.png
+Prediction: Hcughhl 6ut lot was his haGit.Indee.	0.7299181222915649
+Ground Truth: thoughtful , but that was his habit . Indeed
+CER: 0.7955
+WER: 0.7778
+
+Image: lines/e07/e07-086/e07-086-07.png
+Prediction: ar not unattractirr and
+Ground Truth: are not unattractive and , in spite of
+CER: 0.4474
+WER: 0.7500
+
+Image: lines/e04/e04-124/e04-124-02.png
+Prediction: With verhca1 menbers as shavn in He plons.Hake A	0.8705469965934753
+Ground Truth: with vertical members as shown in the plans . Make the
+CER: 0.6111
+WER: 0.8182
+
+Image: lines/g03/g03-052/g03-052-04.png
+Prediction: wued awd obdwakiu their atitudeHat	0.7793490290641785
+Ground Truth: mined and obdurate in their attitude that
+CER: 0.7805
+WER: 0.8571
+
+Image: lines/h07/h07-044a/h07-044a-04.png
+Prediction: Commererzolevelopment thzt the	0.8740317821502686
+Ground Truth: commercial development that the
+CER: 0.8710
+WER: 1.0000
+
+Image: lines/m01/m01-125/m01-125-07.png
+Prediction: fo offe auy qreLi-g.tk unc oaply	0.800424337387085
+Ground Truth: to offer any greeting . He was deeply
+CER: 0.9459
+WER: 1.0000
+
+Image: lines/j01/j01-042/j01-042-05.png
+Prediction: oxyg Cohhial He nhuce ebck.de colo R helo	0.6769126057624817
+Ground Truth: oxygen potential the reference electrode could be held
+CER: 0.8333
+WER: 1.1250
+
+Image: lines/c06/c06-043/c06-043-00.png
+Prediction: And he Suffered an alcoholic	0.7799006700515747
+Ground Truth: And he suffered an alcoholic
+CER: 0.7143
+WER: 0.4000
+
+Image: lines/e07/e07-098/e07-098-01.png
+Prediction: M fhe novmu( lay1 fhe ou1y veal clifkeveuce	0.7695083022117615
+Ground Truth: in the normal way , the only real difference
+CER: 0.8409
+WER: 1.0000
+
+Image: lines/f02/f02-017/f02-017-07.png
+Prediction: 3.Wok ond leisue 4. Kiinyamgernh	0.732913076877594
+Ground Truth: 3 . Work and leisure 4 . Living arrangements
+CER: 0.7500
+WER: 1.0000
+
+Image: lines/d04/d04-050/d04-050-03.png
+Prediction: grafity selfish aims
+Ground Truth: gratify selfish aims , then each man will gather-in
+CER: 0.6471
+WER: 0.7778
+
+Image: lines/f02/f02-030/f02-030-06.png
+Prediction: menlersf te pouel xspone Rle for tie sleue.	0.8070331811904907
+Ground Truth: members of the panel responsible for the scheme .
+CER: 0.7143
+WER: 0.8889
+
+Image: lines/n06/n06-175/n06-175-01.png
+Prediction: Affer you d leff the meehng  msier"-L	0.8943054676055908
+Ground Truth: After you 'd left the meeting , mister " - I
+CER: 0.6818
+WER: 0.8182
+
+Image: lines/e06/e06-037/e06-037-02.png
+Prediction: Summerfisheries. There is the'Swim	0.9793904423713684
+Ground Truth: summer fisheries . There is the " swim "
+CER: 0.6500
+WER: 0.7778
+
+Image: lines/d07/d07-082/d07-082-05.png
+Prediction: necessary to prove the point uake by	0.9071505069732666
+Ground Truth: necessary to prove the point made by
+CER: 0.5833
+WER: 0.2857
+
+Image: lines/r06/r06-111/r06-111-04.png
+Prediction: she RedF shal Pats were alogehher uor	0.8301937580108643
+Ground Truth: she felt small flats were altogether more
+CER: 0.7073
+WER: 0.8571
+
+Image: lines/h07/h07-066b/h07-066b-00.png
+Prediction: loco1 office of He Hinicry f lasous
+Ground Truth: Local offices of the Ministry of Labour , Ministry of
+CER: 0.4906
+WER: 0.9000
+
+Image: lines/e04/e04-004/e04-004-02.png
+Prediction: beeu udchine ploned
+Ground Truth: been machine planed , remember to go over each piece with
+CER: 0.7368
+WER: 1.0000
+
+Image: lines/r03/r03-084/r03-084-08.png
+Prediction: R bicilding seciches
+Ground Truth: or building societies , for that matter , will
+CER: 0.7174
+WER: 1.0000
+
+Image: lines/l04/l04-012/l04-012-00.png
+Prediction: Awo
+Ground Truth: ' Aw , forget it ' , she said cheerfully . ' I 'll sting
+CER: 0.9464
+WER: 1.0000
+
+Image: lines/g01/g01-070/g01-070-03.png
+Prediction: n Hhe lonowing yeav
+Ground Truth: In the following year , 1380 , the last and
+CER: 0.6512
+WER: 1.0000
+
+Image: lines/k07/k07-152/k07-152-04.png
+Prediction: of her maniage andl aohed ne why	0.847689688205719
+Ground Truth: of her marriage and asked her why
+CER: 0.7576
+WER: 0.7143
+
+Image: lines/h04/h04-028/h04-028-03.png
+Prediction: Fod. yomyr childln coupls paid	0.7043523192405701
+Ground Truth: foods younger childless couples paid
+CER: 0.8333
+WER: 1.0000
+
+Image: lines/c03/c03-016b/c03-016b-03.png
+Prediction: prmruous uothe.In such rurrncinysh	0.6845716834068298
+Ground Truth: promiscuous mother . In such surroundings she
+CER: 0.7333
+WER: 0.8571
+
+Image: lines/f04/f04-096/f04-096-02.png
+Prediction: some couple sihing lore togher in	0.8805532455444336
+Ground Truth: same couple sitting close together in
+CER: 0.7027
+WER: 0.8333
+
+Image: lines/g06/g06-018n/g06-018n-06.png
+Prediction: Wi piau Ayhu wilh m MM.	0.6518977880477905
+Ground Truth: this place agree with me better
+CER: 1.1290
+WER: 1.1667
+
+Image: lines/k04/k04-103/k04-103-07.png
+Prediction: OJ travellers in the district.	0.939884603023529
+Ground Truth: of travellers in the district .
+CER: 0.6452
+WER: 0.5000
+
+Image: lines/h07/h07-040/h07-040-00.png
+Prediction: AlFypes ofHader have been enegregedl.	0.8472805023193359
+Ground Truth: All types of trader have been encouraged ,
+CER: 0.7381
+WER: 0.7500
+
+Image: lines/p02/p02-076/p02-076-04.png
+Prediction: Hu cagltlt bseate a cold Raud	0.7055296301841736
+Ground Truth: then caught her breath , a cold hand
+CER: 0.9722
+WER: 0.8750
+
+Image: lines/c06/c06-043/c06-043-01.png
+Prediction: SeiZure Gno was Or0vey ill i'm	0.7850668430328369
+Ground Truth: seizure and was gravely ill in
+CER: 0.9333
+WER: 0.8333
+
+Image: lines/k04/k04-010/k04-010-08.png
+Prediction: mntchi'yhw ntnhylond taming	0.7134909629821777
+Ground Truth: watching her intently , and turning
+CER: 1.0571
+WER: 1.0000
+
+Image: lines/b05/b05-079/b05-079-06.png
+Prediction: sCq1 uituaf ion c-qIv for qn zxcep+iomq	0.8030205965042114
+Ground Truth: local situation calls for an exceptional
+CER: 0.9000
+WER: 1.1667
+
+Image: lines/p03/p03-040/p03-040-04.png
+Prediction: 'u je you avig O.K.?" O.K.
+Ground Truth: I 'll give you a ring , O.K. ? " O.K. , " she had
+CER: 0.5306
+WER: 0.8667
+
+Image: lines/h07/h07-020/h07-020-06.png
+Prediction: lNqst firms and abotl3pe out ly Hhe rexF	0.7420316934585571
+Ground Truth: largest firms and about 23 per cent by the next
+CER: 0.7447
+WER: 0.8000
+
+Image: lines/n03/n03-082/n03-082-00.png
+Prediction: 3' Bow Ake Lull. Hay5e ly md 5	0.7221992015838623
+Ground Truth: 3" Blow like hell . Maybe by and by
+CER: 0.9143
+WER: 1.0000
+
+Image: lines/g06/g06-045h/g06-045h-03.png
+Prediction: Haf it aas beiny cu/hiqkd wiH exnaordinary	0.8491738438606262
+Ground Truth: that it was being cultivated with extraordinary
+CER: 0.7234
+WER: 1.0000
+
+Image: lines/c04/c04-170/c04-170-01.png
+Prediction: equ cation. It was lelt to reporter Sevareid	0.9326382279396057
+Ground Truth: education . It was left to reporter Sevareid
+CER: 0.5227
+WER: 0.5000
+
+Image: lines/g06/g06-045n/g06-045n-01.png
+Prediction: hrVhir-in-1n
+Ground Truth: brother-in-law , the diplomatist Lord
+CER: 0.8108
+WER: 1.0000
+
+Image: lines/b06/b06-087/b06-087-00.png
+Prediction: Tlan is edy cne ncy d olveky unny Oud	0.7440956234931946
+Ground Truth: There is only one way to develop unity and
+CER: 0.9524
+WER: 1.0000
+
+Image: lines/g06/g06-047j/g06-047j-08.png
+Prediction: consulled in 1qy Ag3g	0.7434102892875671
+Ground Truth: consulted in May 1834 .
+CER: 1.0435
+WER: 0.8000
+
+Image: lines/p06/p06-052/p06-052-01.png
+Prediction: uiM a deadly final'ty.NathiJ	0.7539631724357605
+Ground Truth: with a deadly finality . Watching
+CER: 0.8485
+WER: 0.6667
+
+Image: lines/g07/g07-038/g07-038-03.png
+Prediction: cousAawky refenreol to luiiu -fuere wee a	0.7563520669937134
+Ground Truth: constantly referred to him - there were a
+CER: 0.8537
+WER: 0.8750
+
+Image: lines/a01/a01-063/a01-063-02.png
+Prediction: wepl. The Frniluf rill prohlg	0.7466230988502502
+Ground Truth: useful . The President will probably
+CER: 0.9722
+WER: 1.0000
+
+Image: lines/c03/c03-096a/c03-096a-08.png
+Prediction: hadi hon.	0.925926923751831
+Ground Truth: tradition .
+CER: 2.0000
+WER: 1.5000
+
+Image: lines/b01/b01-113/b01-113-07.png
+Prediction: conpe! url prmih ecikace	0.6913310885429382
+Ground Truth: cramped and primitive existence .
+CER: 1.0303
+WER: 1.0000
+
+Image: lines/a01/a01-128/a01-128-01.png
+Prediction: a Jull mirule - ond even hi's biteest oyponerns	0.8560054302215576
+Ground Truth: a full minute - and even his bitterest opponents
+CER: 0.6042
+WER: 0.7778
+
+Image: lines/d06/d06-082/d06-082-04.png
+Prediction: he a lill mort c
+Ground Truth: be a little more orderly for we so frequently just muddle
+CER: 0.7719
+WER: 0.9091
+
+Image: lines/b06/b06-064/b06-064-00.png
+Prediction: Powefi nnits have stacl ftn.	0.7497562766075134
+Ground Truth: Powerful units have stood firm .
+CER: 0.8750
+WER: 0.8333
+
+Image: lines/m06/m06-048/m06-048-04.png
+Prediction: Young
+Ground Truth: young , ' said the Chief Captive . ' You begin newly here .
+CER: 0.9322
+WER: 1.0000
+
+Image: lines/k04/k04-085/k04-085-03.png
+Prediction: olarm. LooG
+Ground Truth: alarm . ' Look , madonna , we are surrounded ! ' It was true .
+CER: 0.8548
+WER: 1.0000
+
+Image: lines/c03/c03-007c/c03-007c-01.png
+Prediction: a toun an the indunhial Horh of England	0.8610383868217468
+Ground Truth: a town in the industrial North of England
+CER: 0.6341
+WER: 0.6250
+
+Image: lines/h07/h07-051b/h07-051b-05.png
+Prediction: Administzhve oonAresesrch estallshmonts	0.7681217193603516
+Ground Truth: administrative and research establishments
+CER: 0.7619
+WER: 1.0000
+
+Image: lines/n06/n06-186/n06-186-06.png
+Prediction: af gan point ether. They've done if befere	0.8804680705070496
+Ground Truth: at gun point either . They 've done it before
+CER: 0.5778
+WER: 0.9000
+
+Image: lines/p06/p06-096/p06-096-05.png
+Prediction: Hen Philp wa
+Ground Truth: then Philip was so certain that Nicholas
+CER: 0.7250
+WER: 1.0000
+
+Image: lines/e04/e04-015/e04-015-02.png
+Prediction: chair.The seat rests across the upper two	0.9445466995239258
+Ground Truth: chair . The seat rests across the upper two
+CER: 0.4884
+WER: 0.4444
+
+Image: lines/h07/h07-028a/h07-028a-05.png
+Prediction: Cmtus C) up to flrty 0r men shops	0.7708687782287598
+Ground Truth: centres of up to thirty or more shops
+CER: 0.8919
+WER: 0.7500
+
+Image: lines/m04/m04-019/m04-019-00.png
+Prediction: Bcf l'n oLty going fiffen niles anay
+Ground Truth: " But I 'm only going fifteen miles away , "
+CER: 0.3864
+WER: 0.9091
+
+Image: lines/f04/f04-039/f04-039-08.png
+Prediction: andqtop-hat	0.8648084402084351
+Ground Truth: and a top-hat .
+CER: 1.4000
+WER: 1.0000
+
+Image: lines/g06/g06-047d/g06-047d-06.png
+Prediction: COnshlkd m 7ay A839.	0.8048763275146484
+Ground Truth: consulted in May 1834 .
+CER: 1.2609
+WER: 1.0000
+
+Image: lines/b01/b01-113/b01-113-02.png
+Prediction: phy f yw! rughonas" M ny l sur Hh!	0.6206890940666199
+Ground Truth: policy of good neighbourliness . " We may be sure that
+CER: 0.8889
+WER: 1.0000
+
+Image: lines/f07/f07-088b/f07-088b-00.png
+Prediction: A ong  ao  ug  th	0.5659008026123047
+Ground Truth: A fascinating study also opens up in the dietary
+CER: 0.8542
+WER: 0.8889
+
+Image: lines/g06/g06-011m/g06-011m-02.png
+Prediction: mu! ar lis halh permihd him so erjoy onyhiy	0.8138794898986816
+Ground Truth: much as his health permitted him to enjoy anything .
+CER: 0.6154
+WER: 0.9000
+
+Image: lines/a01/a01-053u/a01-053u-07.png
+Prediction: mhispost.SouancrRoletsau's ccuuuuee	0.7739267349243164
+Ground Truth: in his post . Senator Robertson's committee
+CER: 0.9302
+WER: 1.0000
+
+Image: lines/h07/h07-030/h07-030-01.png
+Prediction: hawe sought to atractprivate	0.8918686509132385
+Ground Truth: have sought to attract private
+CER: 0.7333
+WER: 0.6000
+
+Image: lines/f02/f02-038/f02-038-03.png
+Prediction: L ll pollen.Lnen ordaromen rearirn	0.6780104041099548
+Ground Truth: of the problems of men and women nearing
+CER: 0.9750
+WER: 1.0000
+
+Image: lines/j01/j01-049/j01-049-02.png
+Prediction: oulahle shapu nmpuiou Ao qasus and	0.8331332802772522
+Ground Truth: suitable shapes impervious to gases and
+CER: 0.8462
+WER: 1.0000
+
+Image: lines/k07/k07-146/k07-146-00.png
+Prediction: Shey'd jut hed sineAo nipinto fle	0.8062731027603149
+Ground Truth: They 'd just had time to nip into the
+CER: 0.8108
+WER: 1.0000
+
+Image: lines/k01/k01-051/k01-051-06.png
+Prediction: nawe - bf nmaned her nuvat. Theyhad	0.8094727993011475
+Ground Truth: names - but remained their servant . They had
+CER: 0.7556
+WER: 0.8889
+
+Image: lines/j06/j06-056/j06-056-07.png
+Prediction: and clecfCy cxglont(tnj a	0.7353672981262207
+Ground Truth: and select by exploration , a
+CER: 1.1034
+WER: 0.8333
+
+Image: lines/p02/p02-076/p02-076-07.png
+Prediction: cOne talliuq oinakdly to siow	0.6965471506118774
+Ground Truth: corner talking animatedly to Simone .
+CER: 0.8649
+WER: 0.8333
+
+Image: lines/f02/f02-036/f02-036-03.png
+Prediction: Chegw anl wunkd pnh tdy
+Ground Truth: Glasgow and warranted further study , set an informal
+CER: 0.7170
+WER: 1.0000
+
+Image: lines/g06/g06-037c/g06-037c-03.png
+Prediction: f yserday.	0.7698017358779907
+Ground Truth: off yesterday . '
+CER: 1.3529
+WER: 1.0000
+
+Image: lines/p06/p06-248/p06-248-01.png
+Prediction: Aos crucifyny.He faHer's commowf nusd h a	0.7955954670906067
+Ground Truth: loss crucifying . Her father's comment roused her as
+CER: 0.6923
+WER: 1.0000
+
+Image: lines/f07/f07-019a/f07-019a-08.png
+Prediction: monstrcos.	0.8322307467460632
+Ground Truth: monstrous .
+CER: 1.9091
+WER: 1.0000
+
+Image: lines/f07/f07-076a/f07-076a-10.png
+Prediction: essentiallgticnch
+Ground Truth: essentially French , and , irrespective of
+CER: 0.6905
+WER: 1.0000
+
+Image: lines/n02/n02-151/n02-151-06.png
+Prediction: in Peirs' direction. What a fuss-box the	0.936602771282196
+Ground Truth: in Piers' direction . What a fuss-box the
+CER: 0.5122
+WER: 0.5000
+
+Image: lines/k03/k03-117/k03-117-03.png
+Prediction: Gibous caruig arov]HeHrepbee
+Ground Truth: Gibbons carving around the fireplace , rose
+CER: 0.5116
+WER: 1.0000
+
+Image: lines/b06/b06-068/b06-068-08.png
+Prediction: Scarborough is to expose Britain and her	0.9866323471069336
+Ground Truth: Scarborough is to expose Britain and her
+CER: 0.4750
+WER: 0.1429
+
+Image: lines/h02/h02-043/h02-043-01.png
+Prediction: daLiaus ei 1926 au Lesynly Fcunplie	0.7634530663490295
+Ground Truth: dations in 1926 on the supply of morphine
+CER: 0.9268
+WER: 0.8750
+
+Image: lines/k04/k04-017/k04-017-05.png
+Prediction: watchng her tR1k wiyl Orsin.8urely she	0.8271269798278809
+Ground Truth: watching her talk with Orsini . Surely she
+CER: 0.6667
+WER: 0.8750
+
+Image: lines/h07/h07-028/h07-028-02.png
+Prediction: towns tending to rely mainly	0.9065443277359009
+Ground Truth: towns tending to rely mainly
+CER: 0.6786
+WER: 0.2000
+
+Image: lines/m04/m04-231/m04-231-00.png
+Prediction: Oo os J ray
+Ground Truth: " Do as I say , driver . " Very stern , the reverend
+CER: 0.8654
+WER: 1.0000
+
+Image: lines/b05/b05-074/b05-074-00.png
+Prediction: they really believed that the Treqty of Versailes	0.9219815135002136
+Ground Truth: They really believed that the Treaty of Versailles
+CER: 0.4400
+WER: 0.5000
+
+Image: lines/a02/a02-037/a02-037-07.png
+Prediction: becomes eufeuce pomshelole with iuprisounent	0.8272712826728821
+Ground Truth: becomes an offence punishable with imprisonment
+CER: 0.7234
+WER: 0.8333
+
+Image: lines/n02/n02-151/n02-151-05.png
+Prediction: madle her senc( a complacent glance	0.9686807990074158
+Ground Truth: made her send a complacent glance
+CER: 0.6667
+WER: 0.5000
+
+Image: lines/n06/n06-082/n06-082-06.png
+Prediction: uo t 5oh wh hLe coa ay He lo4ls	0.7036561369895935
+Ground Truth: us to bother with the coach and the folks
+CER: 0.9268
+WER: 1.1111
+
+Image: lines/j04/j04-111/j04-111-00.png
+Prediction: Teble I suows the decoutawinatiou factors	0.8964388966560364
+Ground Truth: Table 1 shows the decontamination factors
+CER: 0.6098
+WER: 0.8333
+
+Image: lines/g06/g06-037r/g06-037r-06.png
+Prediction: the nuwerous conventional Qwediesto whichhe had	0.9178181886672974
+Ground Truth: the numerous conventional remedies to which he had
+CER: 0.5000
+WER: 0.7500
+
+Image: lines/j07/j07-015/j07-015-01.png
+Prediction: exhemly Alexible. Figure 3 ilustrates the	0.9189212918281555
+Ground Truth: extremely flexible . Figure 3 illustrates the
+CER: 0.5556
+WER: 0.7143
+
+Image: lines/c04/c04-080/c04-080-03.png
+Prediction: lape went to the Philips company. WiHin two	0.9478445053100586
+Ground Truth: tape went to the Philips company . Within two
+CER: 0.5111
+WER: 0.5556
+
+Image: lines/b06/b06-036/b06-036-05.png
+Prediction: ysin
+Ground Truth: again , she has a key role . Let her tell men like Strauss
+CER: 0.9655
+WER: 1.0000
+
+Image: lines/g06/g06-011g/g06-011g-07.png
+Prediction: lowourable chane in my ey
+Ground Truth: favourable change in my eye , particularly as the troops
+CER: 0.6071
+WER: 0.8000
+
+Image: lines/l07/l07-080/l07-080-06.png
+Prediction: me
+Ground Truth: me , reminding myself that he could
+CER: 0.9429
+WER: 0.8571
+
+Image: lines/g01/g01-034/g01-034-06.png
+Prediction: the  unsuccessfuI.But theCommons werenot	0.932547390460968
+Ground Truth: the unsuccessful . But the Commons were not
+CER: 0.5581
+WER: 0.8750
+
+Image: lines/g06/g06-018f/g06-018f-00.png
+Prediction: When Jhe naling neason was pasl
+Ground Truth: When the sailing season was past , he sent Pearl back to
+CER: 0.5000
+WER: 0.8333
+
+Image: lines/g06/g06-037d/g06-037d-07.png
+Prediction: k whch hc had Lun suljechd cusr snce He symp	0.8860118389129639
+Ground Truth: to which he had been subjected ever since the symp-
+CER: 0.6863
+WER: 1.0000
+
+Image: lines/r06/r06-121/r06-121-05.png
+Prediction: oWan[s eacL oer as Pey h{kec\.L	0.7991138100624084
+Ground Truth: towards each other as they talked . In
+CER: 0.8947
+WER: 0.8750
+
+Image: lines/b04/b04-154/b04-154-03.png
+Prediction: glly houelHe mngs to pngenr fderalia	0.6610816121101379
+Ground Truth: " jelly-boned . " He promises to preserve federation
+CER: 0.9038
+WER: 1.0000
+
+Image: lines/b04/b04-000/b04-000-00.png
+Prediction: A BAffleD aud Geei:Jenod 1iHe cesuhy	0.782074511051178
+Ground Truth: A BAFFLED and bewildered little country
+CER: 0.9487
+WER: 1.0000
+
+Image: lines/e06/e06-041/e06-041-02.png
+Prediction: Sends before it a kind of Scaring effect
+Ground Truth: sends before it a kind of scaring effect ,
+CER: 0.0952
+WER: 0.3333
+
+Image: lines/l04/l04-082/l04-082-03.png
+Prediction: way cud beum +o undess sluering will le	0.7772537469863892
+Ground Truth: away and begun to undress , shivering with the
+CER: 0.7609
+WER: 1.0000
+
+Image: lines/h01/h01-024/h01-024-03.png
+Prediction: e^phyment or ns pert of business premises; ruked	0.8834164142608643
+Ground Truth: employment or as part of business premises ; rented
+CER: 0.5490
+WER: 0.6667
+
+Image: lines/j06/j06-022/j06-022-03.png
+Prediction: f He nhu. Anmg oM opepol.	0.7480917572975159
+Ground Truth: at the surface . Among other copepods
+CER: 1.0541
+WER: 1.0000
+
+Image: lines/g06/g06-031d/g06-031d-05.png
+Prediction: Hof H Commms Hous upon a dissoluhm
+Ground Truth: that the Commons House upon a dissolution , which must
+CER: 0.4630
+WER: 0.8000
+
+Image: lines/n02/n02-033/n02-033-07.png
+Prediction: hee>plmchns 9s 7ogL Le wve	0.6409643888473511
+Ground Truth: her explanations as though he were
+CER: 1.0294
+WER: 1.0000
+
+Image: lines/r06/r06-097/r06-097-06.png
+Prediction: a wonan's. I belonged to a Madlane	0.838530957698822
+Ground Truth: a woman's . It belonged to a Madame
+CER: 0.6571
+WER: 0.6250
+
+Image: lines/r02/r02-060/r02-060-02.png
+Prediction: paper-clips. Afler a Rw scons	0.7743014097213745
+Ground Truth: paper-clips . After a few seconds
+CER: 0.7576
+WER: 1.0000
+
+Image: lines/g06/g06-011a/g06-011a-05.png
+Prediction: t hu is goiny ouhfast.. Whaf a gry
+Ground Truth: # he is going out fast ... . What a gay , lively
+CER: 0.4167
+WER: 0.8462
+
+Image: lines/c04/c04-013/c04-013-05.png
+Prediction: Oest momen+s vre when he Swirgs breezilyiuto the	0.927807629108429
+Ground Truth: best moments are when he swings breezily into the
+CER: 0.5102
+WER: 0.7778
+
+Image: lines/l07/l07-176/l07-176-01.png
+Prediction: hw.I usedto play obwt in thesethuugs	0.8794663548469543
+Ground Truth: him . " I used to play about in these things
+CER: 0.7273
+WER: 0.8182
+
+Image: lines/a03/a03-027/a03-027-01.png
+Prediction: a Aw mk g by Vey wus td by ficeu thal	0.7203570604324341
+Ground Truth: a few miles of Vang Vieng was told by officers that
+CER: 0.8235
+WER: 0.9091
+
+Image: lines/g06/g06-037p/g06-037p-03.png
+Prediction: Whilt ht was in Naplts thert had opened a new chaptr	0.9240230917930603
+Ground Truth: While he was in Naples there had opened a new chapter
+CER: 0.4528
+WER: 0.5455
+
+Image: lines/a02/a02-106/a02-106-03.png
+Prediction: Uganda Cnsritutinal cmferene opens nex1 Monday.	0.8671877384185791
+Ground Truth: Uganda Constitutional conference opens next Monday .
+CER: 0.5000
+WER: 0.7143
+
+Image: lines/g06/g06-011h/g06-011h-03.png
+Prediction: Peas1'
+Ground Truth: Pearl ' , he wrote , ' is arrived , which is a great
+CER: 0.9231
+WER: 1.0000
+
+Image: lines/g06/g06-042e/g06-042e-02.png
+Prediction: dowoweux. As early as l83o
+Ground Truth: douloureux . As early as 1830 , when Anglesey believed
+CER: 0.5926
+WER: 0.7000
+
+Image: lines/n03/n03-066/n03-066-00.png
+Prediction: 'Thel boy! Thot dannd fool boy! whal doe h mcan	0.8383046388626099
+Ground Truth: " That boy ! That damned fool boy ! What does he mean
+CER: 0.6226
+WER: 0.9231
+
+Image: lines/r02/r02-060/r02-060-05.png
+Prediction: K0o3Qcl il ouound vigorousCy	0.7766591310501099
+Ground Truth: waggled it around vigorously .
+CER: 0.9667
+WER: 1.0000
+
+Image: lines/b05/b05-042/b05-042-00.png
+Prediction: What happens is thet the uussrilleJ wruer	0.8612142205238342
+Ground Truth: What happens is that the unskilled worker
+CER: 0.6341
+WER: 0.5714
+
+Image: lines/g06/g06-096/g06-096-06.png
+Prediction: yufou4he ol-  fs dechine if.	0.6812821626663208
+Ground Truth: you for the offer & to decline it .
+CER: 0.9429
+WER: 1.0000
+
+Image: lines/b01/b01-079/b01-079-01.png
+Prediction: Hawuarskjold aud tLe ON's sesvauts. Tue	0.9240843057632446
+Ground Truth: Hammarskjold and the UN's servants . The
+CER: 0.7000
+WER: 1.0000
+
+Image: lines/a01/a01-020x/a01-020x-06.png
+Prediction: SYudying Hem Today. The conferene will meer	0.9076554179191589
+Ground Truth: studying them today . The conference will meet
+CER: 0.5870
+WER: 0.8750
+
+Image: lines/l01/l01-023/l01-023-01.png
+Prediction: peausible story Or other and threw himself on	0.9304512143135071
+Ground Truth: plausible story or other and threw himself on
+CER: 0.4667
+WER: 0.3750
+
+Image: lines/p03/p03-057/p03-057-09.png
+Prediction: all important.	0.935998797416687
+Ground Truth: all important . "
+CER: 1.0588
+WER: 0.7500
+
+Image: lines/h07/h07-013/h07-013-07.png
+Prediction: nauf-dur of food
+Ground Truth: manufacture of food # and drink , tobacco , clothing
+CER: 0.7500
+WER: 0.8000
+
+Image: lines/j04/j04-035/j04-035-06.png
+Prediction: Complete chemcal exchangeketween the	0.9428536295890808
+Ground Truth: Complete chemical exchange between the
+CER: 0.5789
+WER: 0.8000
+
+Image: lines/e06/e06-070/e06-070-00.png
+Prediction: Adtwaly the seine net has utte or nocove.	0.9088866114616394
+Ground Truth: Actually the seine net has little or no cover .
+CER: 0.5532
+WER: 0.5000
+
+Image: lines/n02/n02-104/n02-104-02.png
+Prediction: fou imu fo soall fly
+Ground Truth: from him to fondle Judy , who , sensing something
+CER: 0.7755
+WER: 1.0000
+
+Image: lines/a03/a03-011/a03-011-01.png
+Prediction: sifuqHou 9nd espec;a1ly in v1Ew of fresh problams fcing	0.8497231006622314
+Ground Truth: situation and especially in view of fresh problems facing
+CER: 0.5439
+WER: 0.7778
+
+Image: lines/g04/g04-026/g04-026-00.png
+Prediction: 0.4850066006183624
+Ground Truth: First of all simple part-songs : I found only one member who had
+CER: 1.0000
+WER: 1.0000
+
+Image: lines/n01/n01-000/n01-000-03.png
+Prediction: ner. Kon hu rdi'rd ths n as entuosting no cnh	0.5869868993759155
+Ground Truth: career . Now he realised that he was entrusting not only
+CER: 0.7500
+WER: 1.0000
+
+Image: lines/d06/d06-063/d06-063-09.png
+Prediction: Jleep 12 kLirufu1 iguorchce ofwhat uight	0.7181157469749451
+Ground Truth: sleep in blissful ignorance of what might
+CER: 0.7805
+WER: 1.0000
+
+Image: lines/r02/r02-089/r02-089-08.png
+Prediction: tuy hul once oairnl as a pu gf in echorge	0.7438532114028931
+Ground Truth: they had once obtained as a free gift in exchange
+CER: 0.7551
+WER: 0.7000
+
+Image: lines/j06/j06-030/j06-030-06.png
+Prediction: moun h mabe oayRme	0.8080030679702759
+Ground Truth: known to make daytime
+CER: 1.3333
+WER: 1.2500
+
+Image: lines/g06/g06-037c/g06-037c-07.png
+Prediction: None of He nwmeros Convenhonc1 remedies + whid	0.8530845642089844
+Ground Truth: None of the numerous conventional remedies to which
+CER: 0.6078
+WER: 0.7500
+
+Image: lines/a06/a06-025/a06-025-04.png
+Prediction: Hsbqud intei C1gys.These fhe5TU	0.6568505764007568
+Ground Truth: disband in ten days . These the ETU
+CER: 0.9429
+WER: 1.0000
+
+Image: lines/a01/a01-082u/a01-082u-03.png
+Prediction: Icchineos iuMeEaeuhoueedouwolctey	0.6616190671920776
+Ground Truth: slackness in the Eisenhower Administration
+CER: 1.0000
+WER: 1.0000
+
+Image: lines/j04/j04-065/j04-065-04.png
+Prediction: of resia used is also fixed.All available evidence indicates	0.9507818222045898
+Ground Truth: of resin used is also fixed . All available evidence indicates
+CER: 0.3548
+WER: 0.4545
+
+Image: lines/f04/f04-049/f04-049-05.png
+Prediction: Jon the Army (presuwobly feeling that o mowtoche wight cnhonce	0.9178335070610046
+Ground Truth: join the Army ( presumably feeling that a moustache might enhance
+CER: 0.4769
+WER: 0.7273
+
+Image: lines/j04/j04-080/j04-080-07.png
+Prediction: hour aud a hadt days it ifis	0.9109403491020203
+Ground Truth: hour and a half days if it is
+CER: 0.8621
+WER: 0.6250
+
+Image: lines/h06/h06-089/h06-089-02.png
+Prediction: it into contact with the rollers on the ugpir	0.8884546756744385
+Ground Truth: it into contact with the rollers on the upper
+CER: 0.4667
+WER: 0.2222
+
+Image: lines/k02/k02-112/k02-112-02.png
+Prediction: Suppoe te euh're fuwishiugs
+Ground Truth: suppose the entire furnishings , had been se-
+CER: 0.5333
+WER: 1.0000
+
+Image: lines/j04/j04-076/j04-076-04.png
+Prediction: From Lead-91o and the agha particfes From	0.9404979944229126
+Ground Truth: from lead-210 and the alpha particles from
+CER: 0.6429
+WER: 0.8571
+
+Image: lines/c02/c02-022/c02-022-06.png
+Prediction: p1nys
+Ground Truth: prays , and in a second miracle the
+CER: 0.9143
+WER: 1.0000
+
+Image: lines/c03/c03-094f/c03-094f-02.png
+Prediction: dwoys pely sppeaing
+Ground Truth: always palely appealing , Mr. James Maxwell ,
+CER: 0.6444
+WER: 1.0000
+
+Image: lines/f04/f04-087/f04-087-00.png
+Prediction: Ou tne Suuday
+Ground Truth: On the Sunday , the day of her death , she had gone out in the
+CER: 0.8387
+WER: 1.0000
+
+Image: lines/f07/f07-076a/f07-076a-00.png
+Prediction: The Czechoslooak kitchen
+Ground Truth: The Czechoslovak kitchen , again , is
+CER: 0.3784
+WER: 0.7143
+
+Image: lines/c02/c02-026/c02-026-04.png
+Prediction: WiH endl Lowity
+Ground Truth: with brutal honesty , building up to a
+CER: 0.8158
+WER: 1.0000
+
+Image: lines/d07/d07-093/d07-093-08.png
+Prediction: fow texts guoted in Hre Hishual.	0.902661919593811
+Ground Truth: four texts quoted in the Mishnah .
+CER: 0.7647
+WER: 0.7143
+
+Image: lines/g06/g06-047i/g06-047i-03.png
+Prediction: Qn increasing nunso of Aisciples among movH
+Ground Truth: an increasing number of disciples among unorthodox
+CER: 0.3000
+WER: 0.5714
+
+Image: lines/g06/g06-026p/g06-026p-02.png
+Prediction: that evev was. But he nas not one word of English.	0.9750099182128906
+Ground Truth: that ever was . But he has not one word of English . '
+CER: 0.4074
+WER: 0.5000
+
+Image: lines/e07/e07-101/e07-101-10.png
+Prediction: PoHed	0.918038547039032
+Ground Truth: potted .
+CER: 2.5000
+WER: 1.0000
+
+Image: lines/a03/a03-023/a03-023-03.png
+Prediction: of fhe pro-communists
+Ground Truth: of the pro-communists . Most of the
+CER: 0.4286
+WER: 0.7143
+
+Image: lines/a06/a06-114/a06-114-08.png
+Prediction: Hhe shendintg shuree xs at a neew	0.8367502093315125
+Ground Truth: the spending spree is at a new
+CER: 0.8667
+WER: 0.8571
+
+Image: lines/b06/b06-008/b06-008-02.png
+Prediction: Defenee Wnsk
+Ground Truth: Defence Minister , Mr. Watkinson . Their talks
+CER: 0.7391
+WER: 1.0000
+
+Image: lines/r06/r06-007/r06-007-01.png
+Prediction: a grd ouWes." Now
+Ground Truth: a good address . ' Now , after a woman's radar look ,
+CER: 0.7736
+WER: 0.8462
+
+Image: lines/h01/h01-014/h01-014-04.png
+Prediction: SoUenmeut aucd bo Cocal autloribas.As 5ebr
+Ground Truth: Government and to local authorities . As before , the record
+CER: 0.5167
+WER: 1.0000
+
+Image: lines/e04/e04-034/e04-034-06.png
+Prediction: fozlhe seatand the back which can be decouted wit.	0.8728561997413635
+Ground Truth: for the seat and the back which can be decorated with
+CER: 0.4906
+WER: 0.6364
+
+Image: lines/b04/b04-054/b04-054-03.png
+Prediction: Io subsidise and defend the Cypnofs. They wll eyjoy	0.9209175109863281
+Ground Truth: to subsidise and defend the Cypriots . They will enjoy
+CER: 0.4815
+WER: 0.6000
+
+Image: lines/h06/h06-085/h06-085-07.png
+Prediction: 6n a slding feed tray outide the	0.9495678544044495
+Ground Truth: on a sliding feed tray outside the
+CER: 0.6471
+WER: 0.5714
+
+Image: lines/d06/d06-076/d06-076-00.png
+Prediction: Gn m Hhern frame sme 'ruk'wich my erabh u k lin lf	0.8362472057342529
+Ground Truth: Can we then frame some ' rules ' which may enable us to live life
+CER: 0.6615
+WER: 0.9333
+
+Image: lines/f07/f07-019b/f07-019b-09.png
+Prediction: smplicite Hhough nowadary dhei.	0.7618592381477356
+Ground Truth: simplicity , though nowadays their
+CER: 0.8235
+WER: 1.0000
+
+Image: lines/b01/b01-057/b01-057-09.png
+Prediction: mshuuenh 0f denocracy
+Ground Truth: instruments of democracy , such as trade unions
+CER: 0.6809
+WER: 1.0000
+
+Image: lines/m02/m02-055/m02-055-05.png
+Prediction: hd eon|oclS in peitical eircRe;a sdool-	0.7938318848609924
+Ground Truth: had contacts in political circles , a school-
+CER: 0.7778
+WER: 0.8750
+
+Image: lines/k02/k02-112/k02-112-06.png
+Prediction: kave Halayg
+Ground Truth: leave Malaya , even when he retires .
+CER: 0.7838
+WER: 1.0000
+
+Image: lines/n02/n02-120/n02-120-00.png
+Prediction: He5 yu:k cupx5k of klh-y Ser Jes ks lk	0.7220374941825867
+Ground Truth: He 's quite capable of telling Sir John to take
+CER: 0.9574
+WER: 1.0000
+
+Image: lines/b04/b04-181/b04-181-07.png
+Prediction: 74.	0.636854887008667
+Ground Truth: it .
+CER: 5.0000
+WER: 1.0000
+
+Image: lines/n02/n02-004/n02-004-01.png
+Prediction: Ue^geane. SWe nad expec+d tobc met wit uioWt	0.8584895730018616
+Ground Truth: vengeance . She had expected to be met with violent
+CER: 0.6471
+WER: 1.0000
+
+Image: lines/g02/g02-062/g02-062-08.png
+Prediction: and of the artery-like vein
+Ground Truth: and of the artery-like vein , and expulsion of the
+CER: 0.4600
+WER: 0.5000
+
+Image: lines/f07/f07-021a/f07-021a-03.png
+Prediction: becausetheir Pots wocld not stand fire;butJaceb	0.923708975315094
+Ground Truth: because their pots would not stand fire ; but Jacob
+CER: 0.4902
+WER: 0.8000
+
+Image: lines/f04/f04-083/f04-083-04.png
+Prediction: Circulated
+Ground Truth: circulated , and a Mr Robert Money came forward to
+CER: 0.8200
+WER: 1.0000
+
+Image: lines/b06/b06-032/b06-032-02.png
+Prediction: play! nf only ly lhe Brlih 9psenaurf l]	0.6810711622238159
+Ground Truth: played not only by the British Government but
+CER: 0.8444
+WER: 1.0000
+
+Image: lines/r06/r06-049/r06-049-07.png
+Prediction: Jxprthed
+Ground Truth: expressed , but Monsieur V ( this was
+CER: 0.8649
+WER: 1.0000
+
+Image: lines/c04/c04-170/c04-170-03.png
+Prediction: thot in the rece ofthe modern notios.	0.9350111484527588
+Ground Truth: that in the race of the modern nations ,
+CER: 0.6250
+WER: 0.6667
+
+Image: lines/h06/h06-000/h06-000-05.png
+Prediction: SicejFljuvej ofdayerou)OccueucesLepovtecl in	0.6957194805145264
+Ground Truth: gives figures of dangerous occurrences reported in
+CER: 0.8400
+WER: 1.0000
+
+Image: lines/p01/p01-168/p01-168-01.png
+Prediction: Wos Mv. Copthorne oll vight. Perhops he hod	0.9545711278915405
+Ground Truth: was Mr. Copthorne all right . Perhaps he had
+CER: 0.6136
+WER: 0.8889
+
+Image: lines/g06/g06-047b/g06-047b-06.png
+Prediction: Was +he Neapolifan
+Ground Truth: was the Neapolitan , Dr Giuseppe Mauro ,
+CER: 0.6250
+WER: 1.0000
+
+Image: lines/g07/g07-028b/g07-028b-03.png
+Prediction: He heoc(3hoy fellg tof Hmpte1 hin fc	0.7276704907417297
+Ground Truth: the headstrong folly that tempted him to
+CER: 0.9750
+WER: 1.1429
+
+Image: lines/c02/c02-012/c02-012-04.png
+Prediction: Wuy inslant."The chillirg horror of "HaIz-	0.8546950817108154
+Ground Truth: every instant . " The chilling horror of " Mala-
+CER: 0.6667
+WER: 0.8000
+
+Image: lines/a04/a04-003/a04-003-05.png
+Prediction: Common Hoxket only if ther wwre mo wonolition.	0.8715226650238037
+Ground Truth: Common Market only if there were no conditions
+CER: 0.6304
+WER: 0.7500
+
+Image: lines/a05/a05-000/a05-000-03.png
+Prediction: Seoiceolo ci wiuBRlo pvooucr oupeewy	0.6612321138381958
+Ground Truth: Services . Its aim will be to produce superbly
+CER: 0.9565
+WER: 1.0000
+
+Image: lines/n02/n02-004/n02-004-02.png
+Prediction: Hpnades- a^d hwe he was bland and suiliug.	0.8840035796165466
+Ground Truth: reproaches - and here he was bland and smiling .
+CER: 0.6458
+WER: 0.6000
+
+Image: lines/f02/f02-017/f02-017-04.png
+Prediction: fone-ond-a-haly houn (earh hell halyin	0.8344410061836243
+Ground Truth: of one-and-a-half hours ( each held half in
+CER: 0.6977
+WER: 1.0000
+
+Image: lines/p03/p03-173/p03-173-00.png
+Prediction: Almost in olespea+ion SLe appealed
+Ground Truth: Almost in desperation she appealed , " Will you meet
+CER: 0.4615
+WER: 0.7000
+
+Image: lines/r06/r06-143/r06-143-00.png
+Prediction: h H #r g^y hnU+ 4no 1sdf	0.7884567379951477
+Ground Truth: In the train going back to London I sat
+CER: 1.0000
+WER: 1.0000
+
+Image: lines/h07/h07-063a/h07-063a-06.png
+Prediction: tvy aI HovIow1
+Ground Truth: tory at Harlow ) , the General Post Office and the Ministry of
+CER: 0.8710
+WER: 1.0000
+
+Image: lines/n03/n03-113/n03-113-03.png
+Prediction: hes oes.She hor aSsff	0.7419152855873108
+Ground Truth: her over . She has a foot of
+CER: 1.0357
+WER: 1.0000
+
+Image: lines/e07/e07-101/e07-101-01.png
+Prediction: Oue : thl Cost of c pof of any cleicriphion issaved	0.844677746295929
+Ground Truth: one : the cost of a pot of any description is saved
+CER: 0.5686
+WER: 0.6667
+
+Image: lines/r02/r02-006/r02-006-04.png
+Prediction: HheLesCereer.Aekeusfirely
+Ground Truth: ther her career . Alternatively , it
+CER: 0.6111
+WER: 1.0000
+
+Image: lines/j04/j04-076/j04-076-00.png
+Prediction: At the end oF Five days
+Ground Truth: At the end of five days , bismuth-210 will have
+CER: 0.5532
+WER: 0.6000
+
+Image: lines/a01/a01-117u/a01-117u-08.png
+Prediction: pauiewtsMr.Poweuyuaulotawe ruhuleos	0.6854445934295654
+Ground Truth: patients Mr. Powell should take ruthless
+CER: 0.8750
+WER: 1.0000
+
+Image: lines/m03/m03-062/m03-062-08.png
+Prediction: C0mje1s ne fo ueafoi i'f	0.6967938542366028
+Ground Truth: compels me to mention it .
+CER: 1.1923
+WER: 1.0000
+
+Image: lines/c06/c06-091/c06-091-02.png
+Prediction: in pace ord has o line or ho of poipl hone toulh.	0.8063015937805176
+Ground Truth: in places and has a line or two of painful home truths
+CER: 0.6296
+WER: 0.6667
+
+Image: lines/e04/e04-008/e04-008-00.png
+Prediction: All the jouts ore sunple halvog joiuts gled aud pouyed	0.8998093605041504
+Ground Truth: All the joints are simple halving joints glued and pinned ,
+CER: 0.5424
+WER: 0.8182
+
+Image: lines/m06/m06-076/m06-076-05.png
+Prediction: ating Wis perpetual GHle gestue of prokest	0.8644376397132874
+Ground Truth: making his perpetual little gesture of protest ,
+CER: 0.5833
+WER: 0.7500
+
+Image: lines/n06/n06-148/n06-148-03.png
+Prediction: shcd
+Ground Truth: shack , his rifle at the ready , I saw it was Nick
+CER: 0.9200
+WER: 1.0000
+
+Image: lines/a01/a01-113/a01-113-05.png
+Prediction: Ceiling on hath spuding nd shoted chrge.H.Bw	0.7183817625045776
+Ground Truth: ceiling on health spending and started charges , Mr. Brown
+CER: 0.5690
+WER: 0.9000
+
+Image: lines/a02/a02-067/a02-067-01.png
+Prediction: sblould uot be bowd ooer for oushrbiug	0.8346394300460815
+Ground Truth: should not be bound over for disturbing
+CER: 0.7692
+WER: 0.8571
+
+Image: lines/m01/m01-012/m01-012-02.png
+Prediction: ly dogrees the rotating olject	0.90700763463974
+Ground Truth: by degrees the rotating objects
+CER: 0.6452
+WER: 0.8000
+
+Image: lines/g01/g01-027/g01-027-01.png
+Prediction: Leptions of govevnmnen+a1 cuties must 5e	0.8542067408561707
+Ground Truth: ceptions of governmental duties must be
+CER: 0.6667
+WER: 0.8333
+
+Image: lines/c03/c03-007d/c03-007d-05.png
+Prediction: Therbbishstrenncanals-eurnthe	0.8783395886421204
+Ground Truth: the rubbish strewn canals - even the
+CER: 0.8333
+WER: 1.0000
+
+Image: lines/b06/b06-110/b06-110-01.png
+Prediction: prfS unsild jbs. Countls nunks whs want triniy	0.79179847240448
+Ground Truth: prefer unskilled jobs . Countless numbers who want training
+CER: 0.5763
+WER: 1.0000
+
+Image: lines/c03/c03-003e/c03-003e-01.png
+Prediction: ceived Hhraughout in kens ofMe eieme	0.8519960641860962
+Ground Truth: ceived throughout in terms of the cinema ,
+CER: 0.7143
+WER: 0.7500
+
+Image: lines/j06/j06-008/j06-008-06.png
+Prediction: of mignhonal howicur
+Ground Truth: of migrational behavior , some kinds
+CER: 0.6111
+WER: 0.8333
+
+Image: lines/p03/p03-135/p03-135-02.png
+Prediction: regord fiust. " I wouc! mird ijf you didn'? "he toc he	0.8261587619781494
+Ground Truth: regard first . " I would mind if you didn't " he told her
+CER: 0.5263
+WER: 0.7857
+
+Image: lines/k07/k07-158/k07-158-03.png
+Prediction: Mot!AlouehimJor whathe 	0.8290143013000488
+Ground Truth: not ! I love him for what he is
+CER: 0.9355
+WER: 1.0000
+
+Image: lines/m04/m04-190/m04-190-03.png
+Prediction: remained empty. Ano so did the arms of Dai	0.9378058314323425
+Ground Truth: remained empty . And so did the arms of Dai
+CER: 0.4884
+WER: 0.4000
+
+Image: lines/b04/b04-107/b04-107-03.png
+Prediction: Fedeal govemment wee geaing valua5le expeuence in	0.8766350150108337
+Ground Truth: Federal Government were getting valuable experience in
+CER: 0.5370
+WER: 1.0000
+
+Image: lines/e06/e06-000/e06-000-03.png
+Prediction: is caused Heirg Ve daghine
+Ground Truth: is caused during the daytime , and that
+CER: 0.5128
+WER: 0.7500
+
+Image: lines/n04/n04-183/n04-183-02.png
+Prediction: you ?""Watis thor to writ up I"scil	0.7652571797370911
+Ground Truth: you ? " " What is there to write up ? " said
+CER: 0.7273
+WER: 0.7692
+
+Image: lines/c04/c04-039/c04-039-01.png
+Prediction: Doncld Xourtm hod R hig nuwsn it Ju'	0.7338907718658447
+Ground Truth: DONALD HOUSTON had a big success on A T V's
+CER: 1.0233
+WER: 1.0000
+
+Image: lines/e01/e01-022/e01-022-00.png
+Prediction: ucy indeeol are He fanilies that	0.8162318468093872
+Ground Truth: Lucky indeed are the families that
+CER: 0.7647
+WER: 0.8333
+
+Image: lines/a05/a05-053/a05-053-03.png
+Prediction: 4afluescehesicrahu iLe siucelon	0.5477408766746521
+Ground Truth: if a further deterioration in the situation
+CER: 1.0233
+WER: 1.0000
+
+Image: lines/e07/e07-061/e07-061-05.png
+Prediction: at owy rute
+Ground Truth: at any rate , are light brown in colour .
+CER: 0.8049
+WER: 0.9000
+
+Image: lines/k04/k04-014/k04-014-01.png
+Prediction: assichuiy ofa Inc
+Ground Truth: assiduity of a lover , but the girl appeared to be more
+CER: 0.8000
+WER: 1.0000
+
+Image: lines/g02/g02-073/g02-073-00.png
+Prediction: And while Lhe neart is s1owly dyng.	0.9009261131286621
+Ground Truth: ' And while the heart is slowly dying ,
+CER: 0.6667
+WER: 0.6667
+
+Image: lines/d04/d04-058/d04-058-00.png
+Prediction: And you setve Mammon owd Cod. And ypu connot seeve	0.9075976610183716
+Ground Truth: And you serve Mammon and God . And you cannot serve
+CER: 0.5294
+WER: 0.7273
+
+Image: lines/f07/f07-032b/f07-032b-03.png
+Prediction: moe exquisik aud eHereal eujoymeut #o	0.915002167224884
+Ground Truth: more exquisite and ethereal enjoyment to
+CER: 0.6750
+WER: 1.1667
+
+Image: lines/c02/c02-059/c02-059-06.png
+Prediction: enthusiashc when one Miss Anm Cenmq wnsselected	0.8711847066879272
+Ground Truth: enthusiastic when one Miss Anna Kerima was selected
+CER: 0.5686
+WER: 0.6250
+
+Image: lines/r03/r03-030/r03-030-00.png
+Prediction: The nest thing that Seena duscovered waslat	0.8543058037757874
+Ground Truth: The next thing that Serena discovered was that
+CER: 0.5217
+WER: 0.6250
+
+Image: lines/n06/n06-111/n06-111-06.png
+Prediction: tp ysu coId ke xnetj f +e wId ul	0.7305874824523926
+Ground Truth: top you could see something of the wild hill
+CER: 0.8864
+WER: 1.1111
+
+Image: lines/b06/b06-093/b06-093-10.png
+Prediction: Hou a hondul of new qypruticehyp	0.7272282838821411
+Ground Truth: than a handful of new apprenticeships
+CER: 0.8378
+WER: 0.6667
+
+Image: lines/k04/k04-005/k04-005-05.png
+Prediction: wearied efnis tog and was pocking i toway in its pounte	0.8944294452667236
+Ground Truth: wearied of his toy and was packing it away in its painted
+CER: 0.5088
+WER: 0.6667
+
+Image: lines/b04/b04-081/b04-081-06.png
+Prediction: q ou shike.	0.8264837861061096
+Ground Truth: go on strike .
+CER: 1.7143
+WER: 1.0000
+
+Image: lines/a03/a03-054/a03-054-02.png
+Prediction: much less!y trounced byXu. Jiefen.	0.8781235218048096
+Ground Truth: much lessly trounced by Mr. Diefen-
+CER: 0.7143
+WER: 0.6667
+
+Image: lines/r03/r03-002/r03-002-01.png
+Prediction: She was endowe1 w;K by Ler pohers	0.7905112504959106
+Ground Truth: she was endowed with by her patients ,
+CER: 0.7895
+WER: 0.7500
+
+Image: lines/g07/g07-000a/g07-000a-03.png
+Prediction: HADN SOCWERHEADDTROn COUNT6ANRA AND	0.7669243216514587
+Ground Truth: HAD NO SOONER HEARD FROM COUNT GAMBA AND
+CER: 0.8000
+WER: 1.0000
+
+Image: lines/b04/b04-162/b04-162-01.png
+Prediction: w;K wUat Las Luppeued iu He Cnugo.Tuer	0.8275191187858582
+Ground Truth: with what has happened in the Congo . There
+CER: 0.8140
+WER: 1.0000
+
+Image: lines/c03/c03-084a/c03-084a-03.png
+Prediction: Hhem. Last night's play in the "Plag of the	0.8775535225868225
+Ground Truth: them . Last night's play in the " Play of the
+CER: 0.5111
+WER: 0.4545
+
+Image: lines/l04/l04-102/l04-102-02.png
+Prediction: above fis head liks a hidlae Cavicatuve.The	0.7962971329689026
+Ground Truth: above his head like a hideous caricature . The
+CER: 0.6522
+WER: 0.6667
+
+Image: lines/b04/b04-147/b04-147-05.png
+Prediction: fat gt.Spluddh. Bg showing coucern	0.7330597043037415
+Ground Truth: front gates . Splendid . By showing concern
+CER: 0.7674
+WER: 1.0000
+
+Image: lines/g02/g02-059/g02-059-02.png
+Prediction: ment3 alternate nith rest3 and ase seen best in cold animals	0.8983217477798462
+Ground Truth: ments alternate with rests and are seen best in cold animals
+CER: 0.3833
+WER: 0.4545
+
+Image: lines/k03/k03-164/k03-164-05.png
+Prediction: ofwodaatiou.adommonoeHeuena	0.7269982099533081
+Ground Truth: of moderation and common sense . Melville has
+CER: 0.7333
+WER: 1.0000
+
+Image: lines/h06/h06-082/h06-082-04.png
+Prediction: ynchice to kecp the waker qway Krom	0.9106682538986206
+Ground Truth: practice to keep the worker away from
+CER: 0.7568
+WER: 0.8571
+
+Image: lines/h01/h01-018/h01-018-04.png
+Prediction: huubs of Lousholds will sole occupahon or sharing	0.8644815683364868
+Ground Truth: number of households with sole occupation or sharing
+CER: 0.5577
+WER: 0.6250
+
+Image: lines/m04/m04-180/m04-180-04.png
+Prediction: su'L
+Ground Truth: isn't , " he ended sadly . " I tried to read the
+CER: 0.9583
+WER: 1.0000
+
+Image: lines/f07/f07-009/f07-009-07.png
+Prediction: Auyolaut Ha. Hhn cacuat muhogy oT Hh prsn	0.7159903645515442
+Ground Truth: important than the casual meetings of the present
+CER: 0.8776
+WER: 1.1250
+
+Image: lines/b04/b04-107/b04-107-06.png
+Prediction: Srapped .The ill- conceived MomckTou Comm ssom was	0.8694561123847961
+Ground Truth: scrapped . The ill-conceived Monckton Commission was
+CER: 0.5577
+WER: 1.1429
+
+Image: lines/a05/a05-009/a05-009-00.png
+Prediction: He has had numerous meetings with the Service	0.9897316694259644
+Ground Truth: He has had numerous meetings with the Service
+CER: 0.4222
+WER: 0.1250
+
+Image: lines/g06/g06-045e/g06-045e-04.png
+Prediction: and Huat he Luusely wa3 being Heatedl uud a doctor	0.8419853448867798
+Ground Truth: and that he himself was being treated under a doctor
+CER: 0.6154
+WER: 0.6000
+
+Image: lines/n01/n01-045/n01-045-04.png
+Prediction: befne cmigHt neo4 aA 5
+Ground Truth: before coming to rest at 5.0 . " We 're a bit
+CER: 0.6444
+WER: 1.0000
+
+Image: lines/k04/k04-106/k04-106-02.png
+Prediction: gyysy encamgmcut aud a few totterdlemalion creatures	0.8840860724449158
+Ground Truth: gypsy encampment and a few tatterdemalion creatures
+CER: 0.5098
+WER: 0.7143
+
+Image: lines/h07/h07-040/h07-040-06.png
+Prediction: Sitesthe corpoaHions"Poleyhas Seen	0.8293575644493103
+Ground Truth: sites , the corporations' policy has been
+CER: 0.7805
+WER: 1.0000
+
+Image: lines/n02/n02-109/n02-109-05.png
+Prediction: or0ly Soye Spo&r ciIs wore csnkupf	0.6116427779197693
+Ground Truth: hardly have spoken with more contempt .
+CER: 0.9487
+WER: 1.0000
+
+Image: lines/p03/p03-185/p03-185-03.png
+Prediction: docHv wou(d be free duvinj He duy; +ea was 8erved	0.8305671811103821
+Ground Truth: doctor would be free during the day ; tea was served
+CER: 0.5962
+WER: 0.8182
+
+Image: lines/a04/a04-050/a04-050-00.png
+Prediction: Hh Cahl soid Hat a mmle fan allenu coul!	0.7775084376335144
+Ground Truth: Mr Gaitskell said that a member of an alliance could
+CER: 0.7885
+WER: 0.9000
+
+Image: lines/a05/a05-116/a05-116-06.png
+Prediction: anhculanie is WuiLe
+Ground Truth: articulation is limited , we are told , to a
+CER: 0.7273
+WER: 0.9000
+
+Image: lines/b04/b04-169/b04-169-06.png
+Prediction: He baulk is nowk of bcy oud qirls ayecI 1s	0.8292708396911621
+Ground Truth: the bank is made of boys and girls aged 15
+CER: 0.8571
+WER: 0.9000
+
+Image: lines/r02/r02-010/r02-010-02.png
+Prediction: Hiss Ceescale bspndalthe moreywhih	0.7865199446678162
+Ground Truth: Miss Cheesecake to spend all the money which
+CER: 0.7500
+WER: 1.0000
+
+Image: lines/p03/p03-012/p03-012-08.png
+Prediction: Se a dochr
+Ground Truth: be a doctor , and I already know
+CER: 0.7500
+WER: 0.8750
+
+Image: lines/g06/g06-011n/g06-011n-02.png
+Prediction: lNw1 h ihy tyl k1m hmch m Hi	0.5819445848464966
+Ground Truth: that he enjoyed it as much as his
+CER: 1.2424
+WER: 1.1250
+
+Image: lines/m01/m01-131/m01-131-01.png
+Prediction: qawe the impressicn af haing been thought cut and	0.8601691722869873
+Ground Truth: gave the impression of having been thought out and
+CER: 0.5000
+WER: 0.6667
+
+Image: lines/l04/l04-141/l04-141-03.png
+Prediction: with the money Somewhere.'Huyh nodded.I realred thot	0.9208282828330994
+Ground Truth: with the money somewhere . ' Hugh nodded . ' I realized that
+CER: 0.5167
+WER: 0.7692
+
+Image: lines/p01/p01-147/p01-147-10.png
+Prediction: lfe came up Acfr hil in $ome annetic	0.7403066158294678
+Ground Truth: life came up before him in some cinematic
+CER: 0.7317
+WER: 0.7500
+
+Image: lines/n01/n01-020/n01-020-00.png
+Prediction: Frr oone reason Ahe nderher hadfnglpr	0.8551648855209351
+Ground Truth: For some reason the orderlies had forgotten
+CER: 0.7674
+WER: 0.8571
+
+Image: lines/j04/j04-024/j04-024-02.png
+Prediction: tiom by coprecipitading the lod witha stronbiuy	0.9012157917022705
+Ground Truth: tion by coprecipitating the lead with a strontium
+CER: 0.5306
+WER: 0.7500
+
+Image: lines/p06/p06-248/p06-248-02.png
+Prediction: e saL
+Ground Truth: he said , ' I was not talking of a carnival . But I
+CER: 0.9216
+WER: 1.0000
+
+Image: lines/b05/b05-088/b05-088-01.png
+Prediction: huc1oring
+Ground Truth: hectoring , out-of-date language , but in spite of all
+CER: 0.8704
+WER: 1.0000
+
+Image: lines/c04/c04-122/c04-122-06.png
+Prediction: dreded "Six-Five Specol
+Ground Truth: directed " Six-Five Special , " Turner is aiming to go into free-lance
+CER: 0.6857
+WER: 1.0000
+
+Image: lines/p03/p03-087/p03-087-09.png
+Prediction: itwas your car I suppose he	0.9013301730155945
+Ground Truth: it was your car I suppose he
+CER: 0.7143
+WER: 0.4286
+
+Image: lines/p02/p02-144/p02-144-05.png
+Prediction: With al ber parly. That was why	0.8815755248069763
+Ground Truth: with at her party . That was why
+CER: 0.7500
+WER: 0.7500
+
+Image: lines/j07/j07-012/j07-012-04.png
+Prediction: duly aud nrssure losses.The nronerhes of	0.916800320148468
+Ground Truth: duty and pressure losses . The properties of
+CER: 0.6364
+WER: 1.0000
+
+Image: lines/g05/g05-094/g05-094-05.png
+Prediction: Joclka. Aud the eHect ou the German peple	0.852636456489563
+Ground Truth: vodka . And the effect on the German people
+CER: 0.6279
+WER: 0.7778
+
+Image: lines/c03/c03-016d/c03-016d-02.png
+Prediction: girl lives in asingle dingy noom nih	0.8916422724723816
+Ground Truth: girl lives in a single dingy room with
+CER: 0.6053
+WER: 0.6250
+
+Image: lines/c02/c02-007/c02-007-02.png
+Prediction: America. An exhibiHen of these worus whieh	0.9357702136039734
+Ground Truth: America . An exhibition of these works which
+CER: 0.5682
+WER: 0.7500
+
+Image: lines/f02/f02-038/f02-038-08.png
+Prediction: olaguakeJrorionLlalilsfr	0.6198868751525879
+Ground Truth: adequate provision of facilities for
+CER: 1.0000
+WER: 1.0000
+
+Image: lines/e07/e07-105/e07-105-02.png
+Prediction: block makev Qud use the money Saved Ou	0.8925493955612183
+Ground Truth: block maker and use the money saved on
+CER: 0.6579
+WER: 0.6250
+
+Image: lines/l01/l01-173/l01-173-06.png
+Prediction: you stick it out up here ano1 we all get	0.9106699824333191
+Ground Truth: you stick it out up here and we all get
+CER: 0.5385
+WER: 0.2000
+
+Image: lines/l04/l04-082/l04-082-06.png
+Prediction: Secrel freasure. For au instant le stood	0.9211066365242004
+Ground Truth: secret treasure . For an instant he stood
+CER: 0.6098
+WER: 0.7500
+
+Image: lines/a04/a04-043/a04-043-04.png
+Prediction: hoops. #is ncu Heue was Hat ucclea.	0.8883505463600159
+Ground Truth: troops . His main theme was that nuclear
+CER: 0.8750
+WER: 1.0000
+
+Image: lines/g03/g03-040/g03-040-00.png
+Prediction: Os Nhey hucone known Mechour vint so xorkug.	0.7996516823768616
+Ground Truth: As they became known the Choir went to working-
+CER: 0.7872
+WER: 0.8889
+
+Image: lines/f07/f07-021b/f07-021b-02.png
+Prediction: Brituns
+Ground Truth: Britons , I believe , used to make water hot
+CER: 0.8636
+WER: 1.0000
+
+Image: lines/a06/a06-000/a06-000-07.png
+Prediction: some pnoll whid now ecope tx	0.8196526169776917
+Ground Truth: some profits which now escape tax .
+CER: 0.8000
+WER: 0.7143
+
+Image: lines/g07/g07-071a/g07-071a-01.png
+Prediction: Gife
+Ground Truth: life , full of calamities though it was , that
+CER: 0.9348
+WER: 1.0000
+
+Image: lines/c03/c03-016a/c03-016a-02.png
+Prediction: qirl Logs in a single clingg room wil.	0.902360737323761
+Ground Truth: girl lives in a single dingy room with
+CER: 0.7368
+WER: 0.6250
+
+Image: lines/h02/h02-004/h02-004-03.png
+Prediction: h the queshon before us ancl afa later staye we	0.8724290728569031
+Ground Truth: in the questions before us and at a later stage we
+CER: 0.5800
+WER: 0.6364
+
+Image: lines/n06/n06-182/n06-182-04.png
+Prediction: Whes if came tc clealing xith owlhooters and	0.8706619739532471
+Ground Truth: when it came to dealing with owlhooters and
+CER: 0.6047
+WER: 0.7500
+
+Image: lines/p03/p03-009/p03-009-02.png
+Prediction: War  ofHereadWis Reedou of decsieu
+Ground Truth: man of the road his freedom of decision , and
+CER: 0.4889
+WER: 0.9000
+
+Image: lines/b04/b04-054/b04-054-05.png
+Prediction: Safe bel Hhat at He end of fve years Mahanos anc	0.9127056002616882
+Ground Truth: safe bet that at the end of five years Makarios and
+CER: 0.5686
+WER: 0.7273
+
+Image: lines/c04/c04-105/c04-105-03.png
+Prediction: Mouty saw hin lu Roubay
+Ground Truth: Monty saw him in Bombay , became his manager .
+CER: 0.6304
+WER: 0.9000
+
+Image: lines/j01/j01-063/j01-063-07.png
+Prediction: Wakr eoole fcge G	0.8289560079574585
+Ground Truth: water cooled flange G .
+CER: 1.1304
+WER: 0.8000
+
+Image: lines/e07/e07-072/e07-072-11.png
+Prediction: Cowmevcia uuvseries fo gvour'y foualoes	0.733798623085022
+Ground Truth: commercial nurseries for growing tomatoes
+CER: 0.8049
+WER: 1.2000
+
+Image: lines/d01/d01-016/d01-016-02.png
+Prediction: Pn ond   he! palle h
+Ground Truth: plan and to the different public for which , or against which , the author wrote .
+CER: 0.8293
+WER: 1.0000
+
+Image: lines/g07/g07-074a/g07-074a-10.png
+Prediction: Wickedness.	0.9803155660629272
+Ground Truth: wickedness .
+CER: 1.6667
+WER: 1.0000
+
+Image: lines/e02/e02-025/e02-025-09.png
+Prediction: exac4y dowu to He Hopro Gwe
+Ground Truth: exactly down to the taper line ,
+CER: 0.4375
+WER: 0.8571
+
+Image: lines/e02/e02-086/e02-086-08.png
+Prediction: Which incleascs the range of things that can be	0.8399357199668884
+Ground Truth: which increases the range of things that can be
+CER: 0.4681
+WER: 0.3333
+
+Image: lines/b03/b03-104/b03-104-08.png
+Prediction: any reason why Hhe cenhigrade counhie.	0.8461532592773438
+Ground Truth: any reason why the centigrade countries
+CER: 0.6154
+WER: 0.6667
+
+Image: lines/n06/n06-169/n06-169-05.png
+Prediction: we.APinished omolL'o rollecle cigarete	0.8484988212585449
+Ground Truth: we 'd finished and I 'd rolled a cigarette
+CER: 0.8333
+WER: 1.0000
+
+Image: lines/g06/g06-031f/g06-031f-02.png
+Prediction: e molahen
+Ground Truth: be mistaken , 1tho' I cannot but fear that the exasperation of the
+CER: 0.8788
+WER: 1.0000
+
+Image: lines/k04/k04-000/k04-000-00.png
+Prediction: As he surned aside his head
+Ground Truth: As he turned aside his head , since he could not
+CER: 0.4583
+WER: 0.5455
+
+Image: lines/j04/j04-094/j04-094-04.png
+Prediction: mH the 6isuuth -Z1o prior to the secoud iou	0.815618097782135
+Ground Truth: with the bismuth-210 prior to the second ion
+CER: 0.6591
+WER: 0.7500
+
+Image: lines/c03/c03-087e/c03-087e-00.png
+Prediction: lf went
+Ground Truth: It went , perhaps , some distance beyond most
+CER: 0.8889
+WER: 0.8889
+
+Image: lines/a01/a01-096u/a01-096u-00.png
+Prediction: The Pueo
+Ground Truth: The Press , many doctors and public were
+CER: 0.8250
+WER: 0.8750
+
+Image: lines/n04/n04-171/n04-171-03.png
+Prediction: Not in Periks
+Ground Truth: " Not in Pericles , old man . " " Why not ? "
+CER: 0.7333
+WER: 0.8571
+
+Image: lines/d07/d07-102/d07-102-07.png
+Prediction: deals wita siuilar Heue	0.9358280301094055
+Ground Truth: deals with a similar theme .
+CER: 0.8571
+WER: 0.8333
+
+Image: lines/e06/e06-033/e06-033-07.png
+Prediction: to thc mah ef a great co\mn river
+Ground Truth: to the mouth of a great salmon river , has
+CER: 0.3571
+WER: 0.6000
+
+Image: lines/f04/f04-100/f04-100-01.png
+Prediction: Money hod been clead for alaut ai	0.859698474407196
+Ground Truth: Money had been dead for about an
+CER: 0.7500
+WER: 0.7143
+
+Image: lines/g06/g06-037k/g06-037k-08.png
+Prediction: first shown Hhemselves sevenkengcors befare	0.8481376767158508
+Ground Truth: first shown themselves seventeen years before
+CER: 0.6000
+WER: 0.6667
+
+Image: lines/g06/g06-011j/g06-011j-07.png
+Prediction: At Fome
+Ground Truth: At Rome , every other man was a priest :
+CER: 0.8500
+WER: 0.9000
+
+Image: lines/k07/k07-067a/k07-067a-01.png
+Prediction: shqkng hanols. She sat calmly on He becl smoUng	0.9211334586143494
+Ground Truth: shaking hands . She sat calmly on the bed smoking
+CER: 0.6122
+WER: 0.7000
+
+Image: lines/b05/b05-074/b05-074-10.png
+Prediction: fis of uo interest te me.	0.884690523147583
+Ground Truth: it is of no interest to me .
+CER: 0.8214
+WER: 0.7500
+
+Image: lines/m02/m02-048/m02-048-01.png
+Prediction: Iea1 days and woufd refur fo New yoeK in lafc	0.784796416759491
+Ground Truth: real days and would return to New York in late
+CER: 0.6304
+WER: 0.7000
+
+Image: lines/a05/a05-029/a05-029-08.png
+Prediction: tccio slcyeol cu
+Ground Truth: Francis stayed on , and # sacrificed
+CER: 0.7500
+WER: 1.0000
+
+Image: lines/g07/g07-065/g07-065-00.png
+Prediction: Hanson
+Ground Truth: Hanson , the solicitor , was naturally remunerated
+CER: 0.8800
+WER: 0.8750
+
+Image: lines/g06/g06-018c/g06-018c-01.png
+Prediction: h EnjlaJ
+Ground Truth: to England , and returned to Rome for the winter . In
+CER: 0.9057
+WER: 1.0000
+
+Image: lines/g06/g06-011r/g06-011r-08.png
+Prediction: particurarRy as the troope qre very fine.	0.9183142781257629
+Ground Truth: particularly as the troops are very fine . '
+CER: 0.5227
+WER: 0.6667
+
+Image: lines/h01/h01-018/h01-018-02.png
+Prediction: Seprale occupabon andl Bcning a privake and shuchraly	0.8490234017372131
+Ground Truth: separate occupation and forming a private and structurally
+CER: 0.6034
+WER: 0.8750
+
+Image: lines/b06/b06-097/b06-097-05.png
+Prediction: Bnghton's sewis or balloon asceuk over	0.9010857939720154
+Ground Truth: Brighton's sewers or balloon ascents over
+CER: 0.6341
+WER: 0.6667
+
+Image: lines/a01/a01-132/a01-132-01.png
+Prediction: developmwlbewg limkd er on	0.7902107238769531
+Ground Truth: development being limited or an
+CER: 0.9677
+WER: 1.0000
+
+Image: lines/m01/m01-060/m01-060-05.png
+Prediction: Mind is ot hond!" He turned beaming eyes	0.936852753162384
+Ground Truth: Mind is at hand ! " He turned beaming eyes
+CER: 0.5238
+WER: 0.5000
+
+Image: lines/g06/g06-026m/g06-026m-03.png
+Prediction: no1 onu wod of Cnglid'Nhli de nar n+ihy	0.7945751547813416
+Ground Truth: not one word of English . ' While he was writing
+CER: 0.7708
+WER: 0.9091
+
+Image: lines/g05/g05-098/g05-098-06.png
+Prediction: reL
+Ground Truth: men , women and children , old and young alike .
+CER: 0.9583
+WER: 1.0000
+
+Image: lines/g06/g06-011i/g06-011i-01.png
+Prediction: He to1 C1onCury Hhal he enjoyed if aj mvc4 as hi	0.8253807425498962
+Ground Truth: He told Cloncurry that he enjoyed it as much as his
+CER: 0.5882
+WER: 0.7273
+
+Image: lines/d06/d06-020/d06-020-06.png
+Prediction: Bualydefeat ur. More Hay tet
+Ground Truth: finally defeat us . More than that , that God
+CER: 0.5111
+WER: 0.9000
+
+Image: lines/a04/a04-066/a04-066-04.png
+Prediction: necrmudrg th syrtasf uu'bt! xuhe	0.7064522504806519
+Ground Truth: recommending the supporters of unilateral nuclear
+CER: 0.8776
+WER: 1.0000
+
+Image: lines/n04/n04-060/n04-060-00.png
+Prediction: Make ita lary one casling. I know thr nasnl	0.8876769542694092
+Ground Truth: " Make it a large one , darling . I know the naval
+CER: 0.6400
+WER: 0.7692
+
+Image: lines/a02/a02-004/a02-004-03.png
+Prediction: hond-pick ed Tecm undsthe 2eade shipof	0.8981286883354187
+Ground Truth: hand-picked team under the leadership of
+CER: 0.7250
+WER: 1.1667
+
+Image: lines/r02/r02-070/r02-070-01.png
+Prediction: printing to find no Govr. no Lomru.y infait no Lire pounel notes	0.9251241683959961
+Ground Truth: printing to find no Govr. , no Compa. , in fact no five pound notes
+CER: 0.4776
+WER: 0.5333
+
+Image: lines/b06/b06-023/b06-023-01.png
+Prediction: sharpigutn pnviclel by due auericaus io growing	0.8111368417739868
+Ground Truth: Starfighters provided by the Americans is growing
+CER: 0.7551
+WER: 0.8571
+
+Image: lines/n02/n02-037/n02-037-05.png
+Prediction: fofw
+Ground Truth: to find , if possible , Hubert and his
+CER: 0.9474
+WER: 1.0000
+
+Image: lines/r06/r06-062/r06-062-00.png
+Prediction: Tlere iS a curd cf noming suoke cud	0.8629475831985474
+Ground Truth: There is a curd of morning smoke and
+CER: 0.7778
+WER: 0.8750
+
+Image: lines/k02/k02-076/k02-076-07.png
+Prediction: Atthifiltartnofr	0.6676197648048401
+Ground Truth: At this , I felt a return of the
+CER: 0.9375
+WER: 1.0000
+
+Image: lines/g06/g06-011b/g06-011b-07.png
+Prediction: peobe
+Ground Truth: people , and what a busy town . At Rome ,
+CER: 0.8780
+WER: 1.0000
+
+Image: lines/g06/g06-042n/g06-042n-02.png
+Prediction: fmmfr 1H bhi Mumhk l lhmy	0.5605340003967285
+Ground Truth: found for the 6tic douloureux . As early
+CER: 0.9750
+WER: 1.0000
+
+Image: lines/n06/n06-140/n06-140-04.png
+Prediction: Houyh Hhey're expectj +ouyl
+Ground Truth: though they 're expecting trouble , " I said . " Where
+CER: 0.6111
+WER: 1.0000
+
+Image: lines/a03/a03-066/a03-066-07.png
+Prediction: to contomplate in qn ehcton yea	0.900471031665802
+Ground Truth: to contemplate in an election year .
+CER: 0.6111
+WER: 0.7143
+
+Image: lines/e06/e06-000/e06-000-05.png
+Prediction: lxJroucl as wele as in nuidwale auc	0.7903280258178711
+Ground Truth: the ground as well as in midwater and
+CER: 0.8919
+WER: 0.7500
+
+Image: lines/g07/g07-007a/g07-007a-06.png
+Prediction: TOHAUETOUNDEVERYTHINGiNUTTEDnOST	0.8179689049720764
+Ground Truth: TO HAVE FOUND EVERYTHING IN UTTERMOST
+CER: 0.7838
+WER: 1.0000
+
+Image: lines/g04/g04-022/g04-022-03.png
+Prediction: Towards the eud Puy five andsholfyess	0.7890870571136475
+Ground Truth: Towards the end of my five and a half years'
+CER: 0.7045
+WER: 0.7000
+
+Image: lines/m06/m06-031/m06-031-04.png
+Prediction: He Heavy World becone changed. Sore die. Mcst live	0.9439994096755981
+Ground Truth: the Heavy World become changed . Some die . Most live
+CER: 0.4906
+WER: 0.8182
+
+Image: lines/g07/g07-079a/g07-079a-08.png
+Prediction: and it cawe as au appallinyAurpris o	0.8672419786453247
+Ground Truth: and it came as an appalling surprise to
+CER: 0.6667
+WER: 0.6250
+
+Image: lines/g04/g04-014/g04-014-00.png
+Prediction: 1 hune wes 4 Somewhet nhocheI cdmophere in	0.7043766379356384
+Ground Truth: There was a somewhat shocked atmosphere in
+CER: 0.7857
+WER: 1.1429
+
+Image: lines/g07/g07-050/g07-050-07.png
+Prediction: Dolle! Coulo anysuiig k in wrone tase?	0.8216881155967712
+Ground Truth: Dallas ! Could anything be in worse taste ?
+CER: 0.7907
+WER: 0.8889
+
+Image: lines/c03/c03-003b/c03-003b-00.png
+Prediction: Thi is nt a flmelplay. 14 fur ben corcveo!	0.7725071907043457
+Ground Truth: This is not a filmed play . It has been conceived
+CER: 0.7143
+WER: 0.8182
+
+Image: lines/g06/g06-050j/g06-050j-02.png
+Prediction: Odvjg. In deing S he cscrited his ditnguishid	0.7078624367713928
+Ground Truth: advice . In doing so he described his distinguished
+CER: 0.6471
+WER: 0.7778
+
+Image: lines/p03/p03-080/p03-080-01.png
+Prediction: Though Diana hnen Hhe nane oJ evey	0.7731500864028931
+Ground Truth: Though Diana knew the name of every
+CER: 0.7143
+WER: 0.8571
+
+Image: lines/f04/f04-028/f04-028-09.png
+Prediction: disquied ano+her motive and a thorough chec	0.7659973502159119
+Ground Truth: disguised another motive , and a thorough check
+CER: 0.5106
+WER: 0.6250
+
+Image: lines/f01/f01-143/f01-143-02.png
+Prediction: persou they clserve hisvisible belaviour aud theutry	0.9075936675071716
+Ground Truth: person they observe his visible behaviour and then try
+CER: 0.5000
+WER: 0.8889
+
+Image: lines/f07/f07-076a/f07-076a-08.png
+Prediction: Specifi<ally nationa!. The an and	0.8831152319908142
+Ground Truth: specifically national . The art and
+CER: 0.7143
+WER: 0.8333
+
+Image: lines/a05/a05-062/a05-062-05.png
+Prediction: LuatpesuaapreaSRuewlOuRBeicculcl	0.6235838532447815
+Ground Truth: that # appeasement over Berlin could
+CER: 1.1667
+WER: 1.0000
+
+Image: lines/m04/m04-024/m04-024-07.png
+Prediction: fo offv. TLe conJicfov vang Lis bM	0.7949654459953308
+Ground Truth: to offer . The conductor rang his bell .
+CER: 0.7750
+WER: 1.0000
+
+Image: lines/f07/f07-028a/f07-028a-08.png
+Prediction: they broke fresh ground ano called anather sense	0.9474741816520691
+Ground Truth: they broke fresh ground and called another sense
+CER: 0.4375
+WER: 0.3750
+
+Image: lines/f01/f01-075/f01-075-06.png
+Prediction: But this view led to too many difbiculbieo and	0.9599706530570984
+Ground Truth: But this view led to too many difficulties and
+CER: 0.4783
+WER: 0.2222
+
+Image: lines/l03/l03-008/l03-008-06.png
+Prediction: Shed the chon as if it hod been ploshc.	0.9077032208442688
+Ground Truth: shed the chain as if it had been plastic ,
+CER: 0.6429
+WER: 0.5000
+
+Image: lines/c03/c03-081d/c03-081d-08.png
+Prediction: coeachingrote
+Ground Truth: exacting role , that of the sergeant , gives
+CER: 0.8182
+WER: 1.0000
+
+Image: lines/m06/m06-056/m06-056-00.png
+Prediction: Haris kod tranpled sn Wis. lF was untlinkable!	0.8752971887588501
+Ground Truth: Haris had trampled on his . It was unthinkable !
+CER: 0.6042
+WER: 0.8000
+
+Image: lines/n04/n04-009/n04-009-00.png
+Prediction: thal l+l basl Robie Hnya~d opin1 nix	0.6990563273429871
+Ground Truth: " That little beast Robbie Munyard spent six
+CER: 0.8409
+WER: 1.0000
+
+Image: lines/g06/g06-050f/g06-050f-03.png
+Prediction: Yound Qngeay a Mong
+Ground Truth: found Anglesey a strong , energetic man with a gentle and charming
+CER: 0.7727
+WER: 0.9167
+
+Image: lines/a05/a05-089/a05-089-01.png
+Prediction: 9eOR5Wy vaRotLeJpReouofw5 pueaeeRoCr	0.595350980758667
+Ground Truth: severely rated the speech of his predecessor .
+CER: 0.9783
+WER: 1.0000
+
+Image: lines/e04/e04-026/e04-026-00.png
+Prediction: Fimully athch +he bou Aruly to fhe sides wH	0.8359183669090271
+Ground Truth: Finally attach the back firmly to the sides with
+CER: 0.6667
+WER: 0.8889
+
+Image: lines/k04/k04-017/k04-017-04.png
+Prediction: nhc aondening ahenHhe Olinfia haL bee	0.7225893139839172
+Ground Truth: was wondering whether Olimpia had been
+CER: 0.8158
+WER: 1.1667
+
+Image: lines/n02/n02-114/n02-114-01.png
+Prediction: fxi<ceRy F&e nueR sC Sxc0 uocb fc 6uy	0.6988798975944519
+Ground Truth: precisely the remark she had made to Guy .
+CER: 1.0952
+WER: 1.0000
+
+Image: lines/j04/j04-070/j04-070-00.png
+Prediction: Poonium-g10 remains on the Column and does not	0.9798312783241272
+Ground Truth: Polonium-210 remains on the column and does not
+CER: 0.4681
+WER: 0.3750
+
+Image: lines/j04/j04-046/j04-046-09.png
+Prediction: Chosen after experiments with lead tracer	0.9547871947288513
+Ground Truth: chosen after experiments with lead tracer
+CER: 0.4878
+WER: 0.3333
+
+Image: lines/c03/c03-087f/c03-087f-03.png
+Prediction: whch Ief its cental dhaacter ond the	0.842765212059021
+Ground Truth: which left its central character and the
+CER: 0.6250
+WER: 0.8571
+
+Image: lines/g01/g01-034/g01-034-05.png
+Prediction: accounts
+Ground Truth: accounts , and even at times the impeachment of
+CER: 0.8298
+WER: 0.8889
+
+Image: lines/g06/g06-031e/g06-031e-02.png
+Prediction: fur wy cowtry! Iway be wistaheu
+Ground Truth: for my country ! I may be mistaken , 1tho' I cannot
+CER: 0.5294
+WER: 0.9167
+
+Image: lines/g07/g07-028b/g07-028b-05.png
+Prediction: Ke horlot t pess hhet ieptntoee cio.	0.6924588680267334
+Ground Truth: the world to guess what repentance and
+CER: 1.0000
+WER: 1.1429
+
+Image: lines/g06/g06-037o/g06-037o-02.png
+Prediction: lir R. Beel wo
+Ground Truth: Sir R. Peel was here , I understand , but
+CER: 0.7317
+WER: 0.9000
+
+Image: lines/g07/g07-022a/g07-022a-00.png
+Prediction: Augoc+q Leigh toe war foxourgbly imprered.	0.8898702263832092
+Ground Truth: Augusta Leigh too was favourably impressed ,
+CER: 0.7045
+WER: 0.8571
+
+Image: lines/g06/g06-011l/g06-011l-03.png
+Prediction: is annko!
+Ground Truth: ' is arrived , which is a great resource . Vesuvius seems
+CER: 0.9123
+WER: 0.9167
+
+Image: lines/b04/b04-096/b04-096-01.png
+Prediction: werionel ou was span seid cuis.l	0.6178741455078125
+Ground Truth: national income was spent on social services . The
+CER: 0.7600
+WER: 0.8889
+
+Image: lines/e04/e04-119/e04-119-02.png
+Prediction: He molls. You won't want tem agaun fou his boat se	0.8533025979995728
+Ground Truth: the moulds . You won't want them again for this boat , so
+CER: 0.5263
+WER: 0.6923
+
+Image: lines/f07/f07-092a/f07-092a-04.png
+Prediction: in the clish in which if was seiued.He	0.9322832822799683
+Ground Truth: in the dish in which it was served . He
+CER: 0.6667
+WER: 0.5000
+
+Image: lines/a03/a03-006/a03-006-02.png
+Prediction: Forign Minister. Ir fact such yugo lav activily has	0.8758112788200378
+Ground Truth: Foreign Minister . In fact such Yugoslav activity has
+CER: 0.4717
+WER: 0.8889
+
+Image: lines/g04/g04-068/g04-068-05.png
+Prediction: wives and relotons of the soldiers to qet their Sepotation	0.9099916815757751
+Ground Truth: wives and relations of the soldiers to get their ' Separation '
+CER: 0.4127
+WER: 0.4167
+
+Image: lines/e07/e07-076/e07-076-09.png
+Prediction: almnt in guit th nam say.	0.7750265598297119
+Ground Truth: about in quite the same way .
+CER: 0.9655
+WER: 0.8571
+
+Image: lines/c03/c03-096b/c03-096b-06.png
+Prediction: becase ofAhei oill occnh
+Ground Truth: because of their odd accents , they act oddly
+CER: 0.6000
+WER: 1.0000
+
+Image: lines/a02/a02-017/a02-017-07.png
+Prediction: negtintiar shuld he Lil	0.7253136038780212
+Ground Truth: negotiations should be held .
+CER: 0.9310
+WER: 1.0000
+
+Image: lines/e01/e01-050/e01-050-00.png
+Prediction: Dacing Ha sixkeenfha ceaswya cousidwable	0.807584285736084
+Ground Truth: During the sixteenth century a considerable
+CER: 0.7907
+WER: 1.0000
+
+Image: lines/h07/h07-025a/h07-025a-07.png
+Prediction: lonnded sffairt to allow p shoprs	0.7560269832611084
+Ground Truth: considered sufficient to allow for shoppers
+CER: 0.7907
+WER: 0.8333
+
+Image: lines/l01/l01-187/l01-187-06.png
+Prediction: licle.N bi hec he utr. well salishiclf	0.7289009094238281
+Ground Truth: tidier . In his heart he was well satisfied to
+CER: 0.8913
+WER: 0.8000
+
+Image: lines/g06/g06-037l/g06-037l-01.png
+Prediction: 4ll nsy go uell. Sir l. 7ec1 wss lec
+Ground Truth: all may go well . Sir R. Peel was here , I understand ,
+CER: 0.5455
+WER: 0.8571
+
+Image: lines/k03/k03-117/k03-117-01.png
+Prediction: Jrwnlchllren wbo pacl saf
+Ground Truth: grandchildren who had sat , rather intimidated
+CER: 0.6739
+WER: 1.0000
+
+Image: lines/f04/f04-064/f04-064-00.png
+Prediction: The mete thoght of Subtezzanean tzvel	0.9367265701293945
+Ground Truth: The mere thought of subterranean travel
+CER: 0.6667
+WER: 0.8333
+
+Image: lines/f07/f07-000b/f07-000b-04.png
+Prediction: nusic H wl g H Ren.chnan would nol danu
+Ground Truth: music to which the Frenchman would not dance ;
+CER: 0.4130
+WER: 1.0000
+
+Image: lines/a02/a02-072/a02-072-04.png
+Prediction: the Press conference
+Ground Truth: the Press conference , Mr. Clark said two committee
+CER: 0.6078
+WER: 0.6667
+
+Image: lines/c04/c04-089/c04-089-04.png
+Prediction: dit lereut...." Move news fron the ivory-thumpiyg dlept...	0.9175297021865845
+Ground Truth: different ... . " More news from the ivory-thumping dept. ...
+CER: 0.4918
+WER: 0.8182
+
+Image: lines/a02/a02-093/a02-093-01.png
+Prediction: priorily to the closh ouer Northtm Rhooesie on hus	0.8811817765235901
+Ground Truth: priority to the clash over Northern Rhodesia on his
+CER: 0.5490
+WER: 0.7778
+
+Image: lines/c04/c04-139/c04-139-00.png
+Prediction: Thty uill be asled to couueyt oy Hhe design of everyolny ortide	0.8807219862937927
+Ground Truth: They will be asked to comment on the design of everyday articles
+CER: 0.5156
+WER: 0.7500
+
+Image: lines/f01/f01-075/f01-075-00.png
+Prediction: At one tine ib was thougt that mind could indeed	0.966719388961792
+Ground Truth: At one time it was thought that mind could indeed
+CER: 0.4286
+WER: 0.4000
+
+Image: lines/a02/a02-020/a02-020-05.png
+Prediction: the rict in htanbl whicl enlirened the NAT0	0.8019576668739319
+Ground Truth: the riots in Istanbul , which enlivened the NATO
+CER: 0.6042
+WER: 0.7778
+
+Image: lines/h04/h04-000/h04-000-01.png
+Prediction: wao afpreciaby highev in Fanilis wit.	0.8243891596794128
+Ground Truth: was appreciably higher in families with
+CER: 0.6923
+WER: 1.0000
+
+Image: lines/a04/a04-031/a04-031-03.png
+Prediction: Keuuedy
+Ground Truth: Kennedy , writes Dennis Ogden from Moscow . The
+CER: 0.8936
+WER: 1.0000
+
+Image: lines/b05/b05-045/b05-045-08.png
+Prediction: tho tws Sides cmustuy of eleven playes	0.860011875629425
+Ground Truth: # two sides consisting of eleven players
+CER: 0.7750
+WER: 0.8571
+
+Image: lines/c03/c03-084b/c03-084b-00.png
+Prediction: M. Bryanbnhouse's pnduchois yuielly	0.7831221222877502
+Ground Truth: Mr. Bryan Stonehouse's production is quietly
+CER: 0.7500
+WER: 1.0000
+
+Image: lines/h07/h07-040/h07-040-04.png
+Prediction: H zroiel breahing hfo the shopprgfontage	0.8006577491760254
+Ground Truth: to avoid breaking into the shopping frontage .
+CER: 0.6957
+WER: 0.8750
+
+Image: lines/p03/p03-087/p03-087-06.png
+Prediction: the ofhes arm. te woould hae told	0.9050215482711792
+Ground Truth: the other arm . He would have told
+CER: 0.7353
+WER: 0.8750
+
+Image: lines/n04/n04-009/n04-009-01.png
+Prediction: mmR ahm whib 9enlf nm rfThng LiR	0.6345730423927307
+Ground Truth: months ashore while Pericles was refitting in the
+CER: 0.8980
+WER: 1.0000
+
+Image: lines/n04/n04-044/n04-044-08.png
+Prediction: plain-clolhes ongh previous night
+Ground Truth: plain-clothes on the previous night , but ways
+CER: 0.3261
+WER: 0.7500
+
+Image: lines/l04/l04-005/l04-005-02.png
+Prediction: He could horelly bel'eve it omnd blmled severol lnues.	0.9018974900245667
+Ground Truth: He could hardly believe it and blinked several times .
+CER: 0.5926
+WER: 0.7000
+
+Image: lines/n03/n03-097/n03-097-08.png
+Prediction: yast recoves	0.9065372347831726
+Ground Truth: yawl recover .
+CER: 1.5000
+WER: 1.0000
+
+Image: lines/a02/a02-098/a02-098-03.png
+Prediction: Suggeshon Hhct Hhere moy ke frem con&ssiou fo th	0.8848313689231873
+Ground Truth: suggestion that there may be fresh concessions to the
+CER: 0.6415
+WER: 1.1111
+
+Image: lines/b05/b05-032/b05-032-10.png
+Prediction: the theonctical luddih haumer again	0.8391494750976562
+Ground Truth: the theoretical Luddite hammer again .
+CER: 0.6316
+WER: 0.6667
+
+Image: lines/f07/f07-092b/f07-092b-05.png
+Prediction: nlt goy logl M full flng h tub	0.5828590989112854
+Ground Truth: without going through the formality of having his turbot
+CER: 0.8571
+WER: 1.0000
+
+Image: lines/b01/b01-033/b01-033-02.png
+Prediction: Paliskan are Nafpy mumories. WeT geR/aNy- polowel	0.7704508304595947
+Ground Truth: Pakistan are happy memories . WEST GERMANY - followed
+CER: 0.6792
+WER: 0.8889
+
+Image: lines/d06/d06-067/d06-067-08.png
+Prediction: Pipeline of Hhu ralway on which Hhy	0.9059551954269409
+Ground Truth: pipeline of the railway on which they
+CER: 0.6757
+WER: 0.7143
+
+Image: lines/g02/g02-059/g02-059-07.png
+Prediction: Such as serpent3
+Ground Truth: such as serpents , frogs , and the like .
+CER: 0.6585
+WER: 0.9000
+
+Image: lines/a04/a04-069/a04-069-01.png
+Prediction: niw nusta shnll hegi t th.	0.8209625482559204
+Ground Truth: Prime Minister should begin to take
+CER: 1.0286
+WER: 1.1667
+
+Image: lines/g04/g04-068/g04-068-09.png
+Prediction: of the Commitie in Gulsdon and Purley	0.8852982521057129
+Ground Truth: of the Committee in Coulsdon and Purley .
+CER: 0.5366
+WER: 0.3750
+
+Image: lines/a01/a01-053u/a01-053u-01.png
+Prediction: aQ gedass Oci aicu wi M orgauusalicus B1acu -	0.7553754448890686
+Ground Truth: alleged association with organisations black-
+CER: 0.8889
+WER: 2.0000
+
+Image: lines/e01/e01-050/e01-050-05.png
+Prediction: focm wih rose#s
+Ground Truth: form with rosettes , leaves and lace fillings . During
+CER: 0.7593
+WER: 1.0000
+
+Image: lines/g06/g06-018f/g06-018f-02.png
+Prediction: was'nuHening a wsual'.bul hoped
+Ground Truth: was ' suffering as usual ' , but hoped , he told Arthur , ' to find this
+CER: 0.6528
+WER: 0.9444
+
+Image: lines/g06/g06-031f/g06-031f-00.png
+Prediction: Whal a Hniqdfd went! Su wrd.'I Wcmte! Whal inlaunhion!	0.6660640239715576
+Ground Truth: ' What a frightful event ! ' he wrote . ' I tremble ! What infatuation !
+CER: 0.7500
+WER: 0.9412
+
+Image: lines/a02/a02-090/a02-090-01.png
+Prediction: from Northerm Rhoolesie when hu's fllwevs heve	0.8640090823173523
+Ground Truth: from Northern Rhodesia when his followers have
+CER: 0.6304
+WER: 0.8571
+
+Image: lines/h07/h07-011/h07-011-04.png
+Prediction: vrrus lon about 30 necent in Welwyn t8s ner cent in	0.8296293616294861
+Ground Truth: varies from about 30 per cent in Welwyn to 85 per cent in
+CER: 0.5614
+WER: 0.6154
+
+Image: lines/g06/g06-031n/g06-031n-04.png
+Prediction: 1imo-IlhmnhrfinnNhirM	0.4714602828025818
+Ground Truth: 1tho' I cannot but fear that the
+CER: 1.1250
+WER: 1.0000
+
+Image: lines/p02/p02-139/p02-139-02.png
+Prediction: and Rave been oven to sit wth Ren fathen and do what	0.9330284595489502
+Ground Truth: and have been over to sit with her father and do what
+CER: 0.4717
+WER: 0.5000
+
+Image: lines/l04/l04-141/l04-141-05.png
+Prediction: where a man could easily hide up and change the money	0.9569060802459717
+Ground Truth: where a man could easily hide up and change the money
+CER: 0.3585
+WER: 0.0909
+
+Image: lines/j07/j07-000/j07-000-03.png
+Prediction: for lightweight coupact heat exchaugers. During the 1930's
+Ground Truth: for lightweight compact heat exchangers . During the 1930's ,
+CER: 0.0820
+WER: 0.4000
+
+Image: lines/m04/m04-180/m04-180-05.png
+Prediction: Fgishahin nung
+Ground Truth: registration number , sir . But it was getting dark . "
+CER: 0.8000
+WER: 1.0000
+
+Image: lines/l01/l01-199/l01-199-07.png
+Prediction: nnkhrgafhepropholelinyMekaykes	0.6327623128890991
+Ground Truth: snatching at the prop holding the barge's
+CER: 1.0000
+WER: 1.0000
+
+Image: lines/k04/k04-110/k04-110-04.png
+Prediction: Ketw exallrwhstShe walted
+Ground Truth: knew exactly what she wanted , and
+CER: 0.5000
+WER: 1.0000
+
+Image: lines/a04/a04-069/a04-069-04.png
+Prediction: t ncnuMon t+ h shold pex thop.	0.732204794883728
+Ground Truth: to Macmillan that he should press , I hope
+CER: 0.9286
+WER: 1.0000
+
+Image: lines/g04/g04-108/g04-108-00.png
+Prediction: I could I oue uoha fe Suat aufagowsu	0.7667407393455505
+Ground Truth: I could at once notice the great antagonism
+CER: 0.8837
+WER: 0.8750
+
+Image: lines/k04/k04-075/k04-075-04.png
+Prediction: indeed
+Ground Truth: indeed , match his . Every instinct urged her to
+CER: 0.8750
+WER: 0.9000
+
+Image: lines/p02/p02-027/p02-027-00.png
+Prediction: Oll Aha! was port f ARe poes
+Ground Truth: All that was part of the past , she would put it behind her . She
+CER: 0.6769
+WER: 0.9375
+
+Image: lines/c03/c03-094a/c03-094a-03.png
+Prediction: Whe editor
+Ground Truth: the editor , always comically abashed by the
+CER: 0.7955
+WER: 0.8750
+
+Image: lines/g06/g06-047e/g06-047e-00.png
+Prediction: This tuashamu wau of wedliciwe
+Ground Truth: This remarkable man of medicine , whom Sir Francis Burdett
+CER: 0.6724
+WER: 0.8000
+
+Image: lines/m01/m01-115/m01-115-01.png
+Prediction: couse f acton shold he.Frt
+Ground Truth: course of action should be . First , to avoid the
+CER: 0.4898
+WER: 1.0000
+
+Image: lines/d06/d06-063/d06-063-06.png
+Prediction: When hesr frou tue CrtZent tct dayy	0.8049840331077576
+Ground Truth: When news from the Continent took days ,
+CER: 0.8000
+WER: 0.8750
+
+Image: lines/g04/g04-022/g04-022-07.png
+Prediction: nte ih	0.5755868554115295
+Ground Truth: into it .
+CER: 2.3333
+WER: 1.0000
+
+Image: lines/a01/a01-003u/a01-003u-05.png
+Prediction: Gooeryuewt Biu wieu bouql uife peor	0.7547369599342346
+Ground Truth: Government Bill which brought life peers
+CER: 0.8500
+WER: 1.1667
+
+Image: lines/g06/g06-050p/g06-050p-05.png
+Prediction: Sedate
+Ground Truth: sedate , not easily irritated , patient and persevering ,
+CER: 0.9123
+WER: 1.0000
+
+Image: lines/e07/e07-108/e07-108-10.png
+Prediction: poti	0.7481709718704224
+Ground Truth: pots .
+CER: 3.1667
+WER: 1.0000
+
+Image: lines/b06/b06-032/b06-032-01.png
+Prediction: lmeriar leackenhy. B) o Ly rl lie
+Ground Truth: American leadership . But a big role has been
+CER: 0.5556
+WER: 1.0000
+
+Image: lines/d06/d06-076/d06-076-04.png
+Prediction: Ahr fime we Fget nmeHing and han p y bac	0.7267546653747559
+Ground Truth: after time we forget something and have to go back
+CER: 0.7400
+WER: 0.9000
+
+Image: lines/m02/m02-055/m02-055-04.png
+Prediction: fornitore in the seod yrar
+Ground Truth: furniture in the second year , " she moaned . She
+CER: 0.5306
+WER: 0.8182
+
+Image: lines/k03/k03-117/k03-117-00.png
+Prediction: Af% lunch FwrIthe Pne Tirsk/ s	0.7629112005233765
+Ground Truth: After lunch two of the Prime Minister's
+CER: 0.9231
+WER: 0.8571
+
+Image: lines/a01/a01-053u/a01-053u-04.png
+Prediction: DayigHueHeoQalBwRau os hushgahc had	0.7419069409370422
+Ground Truth: saying the Federal Bureau of Investigation had
+CER: 0.9565
+WER: 1.0000
+
+Image: lines/l01/l01-007/l01-007-01.png
+Prediction: used to have their holidays there. Starmouth went	0.924910306930542
+Ground Truth: used to have their holidays there . Starmouth went
+CER: 0.3800
+WER: 0.3333
+
+Image: lines/j04/j04-103/j04-103-02.png
+Prediction: couvenient wethod of hextmg the dissoWeA chwo-	0.8690775036811829
+Ground Truth: convenient method of heating the dissolved chro-
+CER: 0.5833
+WER: 0.8571
+
+Image: lines/m06/m06-083/m06-083-04.png
+Prediction: command He kniues of ollers. 'No hurt nil	0.8683715462684631
+Ground Truth: command the knives of others . ' ' No hurt will
+CER: 0.6170
+WER: 0.8182
+
+Image: lines/a04/a04-027/a04-027-05.png
+Prediction: lut no big chauges slould be expectel iu the folitiul situctou	0.8924253582954407
+Ground Truth: but no big changes should be expected in the political situation .
+CER: 0.4394
+WER: 0.6667
+
+Image: lines/h02/h02-043/h02-043-06.png
+Prediction: Re Dauyerour Irug. Xcl Qucl Reykl:ou.	0.749610424041748
+Ground Truth: the Dangerous Drugs Act and Regulations
+CER: 0.9487
+WER: 1.1667
+
+Image: lines/n01/n01-000/n01-000-01.png
+Prediction: Run wicired t igend rominos semithing	0.7741389274597168
+Ground Truth: been inclined to regard women as something
+CER: 0.8810
+WER: 1.0000
+
+Image: lines/d06/d06-046/d06-046-03.png
+Prediction: Kicd/uevc - fuch ac when your wife wcutdN	0.7774706482887268
+Ground Truth: tiredness - such as when your wife mentions
+CER: 0.7674
+WER: 0.6250
+
+Image: lines/a03/a03-006/a03-006-01.png
+Prediction: Rsia arnied in Belgracle o1 theJuest0f the yigoulav	0.8497048020362854
+Ground Truth: nesia arrived in Belgrade as the guest of the Yugoslav
+CER: 0.6296
+WER: 0.9000
+
+Image: lines/b04/b04-040/b04-040-04.png
+Prediction: ft lacliry in ofuIdm. MR. HeMRy NEwToN of nctn	0.7244073748588562
+Ground Truth: often lacking in officialdom . MR. HENRY NEWTON of Acton
+CER: 0.7143
+WER: 0.8000
+
+Image: lines/f02/f02-044/f02-044-10.png
+Prediction: ns the pahupauts.	0.7904180288314819
+Ground Truth: as the participants .
+CER: 1.2381
+WER: 0.7500
+
+Image: lines/d06/d06-037/d06-037-06.png
+Prediction: the mind. Vey tew pxeple
+Ground Truth: the mind . Very few people , under normal
+CER: 0.4878
+WER: 0.8889
+
+Image: lines/n06/n06-133/n06-133-01.png
+Prediction: f ne cufoy tnu wa3 a roufW7-biU	0.6415677666664124
+Ground Truth: of the diggings there was a roughly-built
+CER: 1.0000
+WER: 1.0000
+
+Image: lines/b01/b01-127/b01-127-03.png
+Prediction: shat
+Ground Truth: what , in fact , can the other Commonwealth countries
+CER: 0.9434
+WER: 1.0000
+
+Image: lines/g06/g06-050c/g06-050c-05.png
+Prediction: wHh aJenhe and charniny caracter
+Ground Truth: with a gentle and charming character , even-tempered
+CER: 0.4808
+WER: 0.8750
+
+Image: lines/k04/k04-149/k04-149-01.png
+Prediction: Speech.He tuzned to Vittozia
+Ground Truth: speech . He turned to Vittoria , sitting erect ,
+CER: 0.4792
+WER: 0.9000
+
+Image: lines/l04/l04-066/l04-066-01.png
+Prediction: t beside the Fire in tle Lving-room
+Ground Truth: it beside the fire in the living-room , his thoughts once
+CER: 0.4386
+WER: 0.7273
+
+Image: lines/b06/b06-071/b06-071-07.png
+Prediction: a Aignting policy
+Ground Truth: a fighting policy , based on Scarborough .
+CER: 0.6429
+WER: 0.7500
+
+Image: lines/d01/d01-049/d01-049-03.png
+Prediction: how this enlargement was efeckd nor has he	0.9246071577072144
+Ground Truth: how this enlargement was effected nor has he
+CER: 0.5000
+WER: 0.2500
+
+Image: lines/m04/m04-216/m04-216-00.png
+Prediction: Well
+Ground Truth: Well , the Rev. Edwards had taken command . " Our
+CER: 0.9184
+WER: 0.9091
+
+Image: lines/a01/a01-063/a01-063-03.png
+Prediction: hiwn %e prifha
+Ground Truth: discuss the problem with Dr. Brentano ,
+CER: 0.7692
+WER: 1.0000
+
+Image: lines/a05/a05-053/a05-053-09.png
+Prediction: G9 pcyto accepws cs a waveop	0.7008198499679565
+Ground Truth: be party to accepting as a matter of
+CER: 0.9722
+WER: 0.8750
+
+Image: lines/a01/a01-014/a01-014-05.png
+Prediction: the tolles fall thmuh.There are bound	0.8306677937507629
+Ground Truth: the talks fall through . There are bound
+CER: 0.6750
+WER: 0.6250
+
+Image: lines/h01/h01-007/h01-007-02.png
+Prediction: fle questiors
+Ground Truth: the question , was the date of termination
+CER: 0.7619
+WER: 1.0000
+
+Image: lines/h07/h07-003/h07-003-05.png
+Prediction: esnorationin nass.apte collating tenliessron hty-egn	0.6609423756599426
+Ground Truth: Corporation in 1958 , after collating replies from fifty-eight
+CER: 0.6935
+WER: 0.8889
+
+Image: lines/b05/b05-083/b05-083-07.png
+Prediction: Ao Aher cusomer-who ingideutally	0.8809338808059692
+Ground Truth: to their customers - who incidentally
+CER: 0.7568
+WER: 1.0000
+
+Image: lines/h07/h07-025/h07-025-02.png
+Prediction: per toprovide employmentfo	0.881903350353241
+Ground Truth: been to provide employment for
+CER: 0.7667
+WER: 1.0000
+
+Image: lines/p03/p03-158/p03-158-06.png
+Prediction: We1 fyou dcu't wear it jr a bit
+Ground Truth: well if you don't wear it for a bit , Di , " he
+CER: 0.4468
+WER: 0.7143
+
+Image: lines/a02/a02-032/a02-032-03.png
+Prediction: ty +ell. Orlay's Ghnnninn Time
+Ground Truth: to tell . Today's Ghanaian Times ( motto : " The welfare
+CER: 0.6071
+WER: 1.0000
+
+Image: lines/b05/b05-074/b05-074-09.png
+Prediction: wed thew an slaves fo4 our Kulfurj oHerwise	0.8247575163841248
+Ground Truth: need them as slaves to # our Kultur ; otherwise
+CER: 0.6596
+WER: 0.8000
+
+Image: lines/b06/b06-049/b06-049-09.png
+Prediction: of the uniOn Wou|d he<ome Qa5ier in the Context	0.8499298691749573
+Ground Truth: of the union would become easier in the context
+CER: 0.5745
+WER: 0.6667
+
+Image: lines/g01/g01-016/g01-016-00.png
+Prediction: These crery yeuo of iueflechre Fighhig pronide	0.8471121788024902
+Ground Truth: These dreary years of ineffective fighting provide
+CER: 0.6600
+WER: 0.8571
+
+Image: lines/a06/a06-141/a06-141-05.png
+Prediction: eye there Was spny p a unleu ouy Leu 5y hrun Nan	0.7488324046134949
+Ground Truth: eyes there has sprung up a regular army led by former Nazi
+CER: 0.7414
+WER: 0.9167
+
+Image: lines/f07/f07-019b/f07-019b-02.png
+Prediction: mamoth litdems of the 18h <entuo-	0.788981020450592
+Ground Truth: mammoth kitchens of the 18th century -
+CER: 0.7105
+WER: 0.7143
+
+Image: lines/a01/a01-113/a01-113-02.png
+Prediction: Wuld ponide on ambulance srice pr Hhe aboltly	0.760200560092926
+Ground Truth: would provide an ambulance service for the absolutely
+CER: 0.5849
+WER: 1.0000
+
+Image: lines/d04/d04-047/d04-047-05.png
+Prediction: the wish of the Lord
+Ground Truth: the wish of the Lord , failing to serve the
+CER: 0.5349
+WER: 0.5000
+
+Image: lines/g06/g06-018j/g06-018j-04.png
+Prediction: This F!4ce gee win me tHes Th9n Ngks	0.7498469352722168
+Ground Truth: this place agree with me better than Naples .
+CER: 0.8000
+WER: 0.8889
+
+Image: lines/a05/a05-080/a05-080-05.png
+Prediction: cuto afuy ackuefcouus.Thal	0.5855244398117065
+Ground Truth: on to a fully active footing . That
+CER: 1.0571
+WER: 1.0000
+
+Image: lines/g06/g06-031d/g06-031d-01.png
+Prediction: Mfahuahor! Parsgnaly 1 an nehffrent
+Ground Truth: infatuation ! Personally I am indifferent , but I really
+CER: 0.5536
+WER: 1.0000
+
+Image: lines/d06/d06-020/d06-020-02.png
+Prediction: the way to fce Lfe. To Re allHe lcleut	0.7210016846656799
+Ground Truth: the way to face life . To see all the latent
+CER: 0.7045
+WER: 0.6364
+
+Image: lines/r06/r06-041/r06-041-07.png
+Prediction: Ingenious
+Ground Truth: ingenious , but mad film director of the
+CER: 0.8000
+WER: 1.0000
+
+Image: lines/j06/j06-005/j06-005-05.png
+Prediction: Trom 22o0 - 0200 hr j Qhd 1st
+Ground Truth: from 2200-0200 hr ; and 1st , from 0200-0600 hr .
+CER: 0.5918
+WER: 1.0000
+
+Image: lines/g06/g06-037i/g06-037i-02.png
+Prediction: Lt qn express Hook Lim off yesteroay.	0.8596664071083069
+Ground Truth: but an express took him off yesterday . '
+CER: 0.6098
+WER: 0.7778
+
+Image: lines/a03/a03-040/a03-040-01.png
+Prediction: a public poll showcd Hhal for Hhe Fint time aince	0.7800984382629395
+Ground Truth: a public poll showed that for the first time since
+CER: 0.5400
+WER: 0.6000
+
+Image: lines/n02/n02-120/n02-120-06.png
+Prediction: ISxf To
+Ground Truth: But Forrest might at least have tried . He 's
+CER: 0.9778
+WER: 1.0000
+
+Image: lines/a01/a01-102/a01-102-06.png
+Prediction: hud au riuagiuA've aclifecf f	0.7481280565261841
+Ground Truth: needs an imaginative architect to
+CER: 1.0606
+WER: 1.2000
+
+Image: lines/g03/g03-058/g03-058-07.png
+Prediction: people .	0.7739877104759216
+Ground Truth: people .
+CER: 2.3750
+WER: 0.5000
+
+Image: lines/h01/h01-027/h01-027-09.png
+Prediction: hao! become mor inportunf by 1961
+Ground Truth: had become more important by 1961 , and
+CER: 0.3077
+WER: 0.6250
+
+Image: lines/d04/d04-012/d04-012-01.png
+Prediction: personol name (Git. 68a ).The Hebew	0.934758186340332
+Ground Truth: personal name ( Git. 68a ) . The Hebrew
+CER: 0.5897
+WER: 0.7778
+
+Image: lines/a06/a06-051/a06-051-00.png
+Prediction: Iher wer loud cries f "hme"fom	0.8921483159065247
+Ground Truth: There were loud cries of " shame " from
+CER: 0.7436
+WER: 0.7778
+
+Image: lines/g07/g07-022a/g07-022a-08.png
+Prediction: Con foc on 	0.7657344341278076
+Ground Truth: confusion .
+CER: 2.0909
+WER: 2.0000
+
+Image: lines/p03/p03-121/p03-121-03.png
+Prediction: don'+ keep hintng
+Ground Truth: don't keep hinting , then . You wish you could
+CER: 0.6522
+WER: 0.9000
+
+Image: lines/k02/k02-093/k02-093-02.png
+Prediction: himgelf he Knew well now fo enlertain hio bachelor	0.9193373322486877
+Ground Truth: himself , he knew well how to entertain his bachelor
+CER: 0.5192
+WER: 0.8000
+
+Image: lines/h01/h01-010/h01-010-06.png
+Prediction: previously. Tu. queshou was Krst oshed ic A8U
+Ground Truth: previously . The question was first asked in 1891 , and
+CER: 0.3636
+WER: 0.9091
+
+Image: lines/e04/e04-114/e04-114-02.png
+Prediction: tify
+Ground Truth: trifle ; this can be cleaned up later . As you are
+CER: 0.9200
+WER: 1.0000
+
+Image: lines/c02/c02-030/c02-030-08.png
+Prediction: la
+Ground Truth: last days of a sick society .
+CER: 0.9310
+WER: 1.0000
+
+Image: lines/a05/a05-099/a05-099-02.png
+Prediction: Rou  W. wio Suiku ( Lab.
+Ground Truth: from Mr. Ellis Smith ( Lab. , Stoke on Trent S. ) .
+CER: 0.7059
+WER: 0.8462
+
+Image: lines/e07/e07-072/e07-072-02.png
+Prediction: AHill in yreofest o1econol. l+i5 mosHly	0.7926620841026306
+Ground Truth: still in greatest demand . It is mostly
+CER: 0.8974
+WER: 0.8750
+
+Image: lines/b04/b04-096/b04-096-04.png
+Prediction: 4o ai af Hle wong ow! TRs. nARcrA PowER	0.7185477614402771
+Ground Truth: to aim at the wrong one ! MRS. MARCIA POWER ,
+CER: 0.7778
+WER: 1.0000
+
+Image: lines/k03/k03-138/k03-138-00.png
+Prediction: du't uns Jot Ow Cit ulhy cosh.I'	0.7216687202453613
+Ground Truth: I don't mean just our direct military costs . I 'm
+CER: 0.9200
+WER: 1.0000
+
+Image: lines/n06/n06-201/n06-201-03.png
+Prediction: hanclsome cffer so L chined in too. That	0.8242746591567993
+Ground Truth: handsome offer so I chimed in too . " That
+CER: 0.6429
+WER: 0.8000
+
+Image: lines/l04/l04-153/l04-153-03.png
+Prediction: their point of view the en'dence for suicide is	0.9718988537788391
+Ground Truth: their point of view the evidence for suicide is
+CER: 0.4468
+WER: 0.2222
+
+Image: lines/g06/g06-018a/g06-018a-03.png
+Prediction: nsua1) buf hope
+Ground Truth: usual ' , but hoped , he told Arthur , ' to find
+CER: 0.7708
+WER: 1.0000
+
+Image: lines/h07/h07-051b/h07-051b-07.png
+Prediction: ment and other pofle ofries "on the	0.8615464568138123
+Ground Truth: ments and other public offices " on the
+CER: 0.6923
+WER: 0.7500
+
+Image: lines/a03/a03-030/a03-030-09.png
+Prediction: qwofelextoralexpeetancy.	0.9004831910133362
+Ground Truth: air of electoral expectancy .
+CER: 0.9310
+WER: 1.0000
+
+Image: lines/e01/e01-014/e01-014-06.png
+Prediction: Io have her gown laced.	0.9579218029975891
+Ground Truth: to have her gown laced . '
+CER: 0.7692
+WER: 0.5714
+
+Image: lines/p03/p03-057/p03-057-00.png
+Prediction: ' Neither Can NigeL
+Ground Truth: " Neither can Nigel , " smiled Diana .
+CER: 0.5789
+WER: 0.8889
+
+Image: lines/c04/c04-098/c04-098-01.png
+Prediction: Gnway is a pionist who colls himself cRAzY oTTO.But	0.8985806703567505
+Ground Truth: Conway is a pianist who calls himself CRAZY OTTO . But
+CER: 0.5185
+WER: 0.6364
+
+Image: lines/c02/c02-059/c02-059-08.png
+Prediction: hIw. Gifked wiHan intereshing facealthougl QiHQ	0.8144384622573853
+Ground Truth: film . Gifted with an interesting face , although little
+CER: 0.6429
+WER: 1.0000
+
+Image: lines/g06/g06-047j/g06-047j-06.png
+Prediction: oF Encpe. One cf Fher nss the Neygohhn	0.702431321144104
+Ground Truth: of Europe . One of these was the Neapolitan ,
+CER: 0.7556
+WER: 0.8000
+
+Image: lines/k04/k04-142/k04-142-00.png
+Prediction: The Ozsini give that to tzaifas.Tneze is	0.9231634140014648
+Ground Truth: The Orsini give that to traitors . There is
+CER: 0.6512
+WER: 0.5556
+
+Image: lines/j06/j06-014/j06-014-02.png
+Prediction: couchii
+Ground Truth: couchii , Evadne sp. , Oithona nana , Daphnia
+CER: 0.8444
+WER: 0.8889
+
+Image: lines/g06/g06-026k/g06-026k-00.png
+Prediction: A peasant life fruly!.. I+ so happens that Ihove	0.8739587664604187
+Ground Truth: A pleasant life truly ! ... It so happens that I have
+CER: 0.5094
+WER: 0.5833
+
+Image: lines/r02/r02-054/r02-054-05.png
+Prediction: n8s own bryfase key
+Ground Truth: his own briefcase key , a suitcase key and a
+CER: 0.6364
+WER: 0.8000
+
+Image: lines/p03/p03-004/p03-004-09.png
+Prediction: se1L as 5 sLAngw in Fhcge raLs	0.8026273250579834
+Ground Truth: self as a stranger in these parts
+CER: 1.0000
+WER: 0.8571
+
+Image: lines/g07/g07-034/g07-034-02.png
+Prediction: Convc(sros cifl foit)'. Se Toce vocireok
+Ground Truth: convulsed with grief ' . So love revived , and in
+CER: 0.6531
+WER: 1.0000
+
+Image: lines/m01/m01-110/m01-110-08.png
+Prediction: ifes.WhlMosewkeg	0.5766547322273254
+Ground Truth: interests . What those interests
+CER: 1.0312
+WER: 1.0000
+
+Image: lines/g06/g06-011k/g06-011k-10.png
+Prediction: verytine.	0.7979194521903992
+Ground Truth: very fine . '
+CER: 1.6154
+WER: 1.0000
+
+Image: lines/c04/c04-004/c04-004-06.png
+Prediction: doing better here
+Ground Truth: doing better here , before the platinum-plated Hollywood
+CER: 0.6964
+WER: 0.6250
+
+Image: lines/h07/h07-003/h07-003-04.png
+Prediction: manual wonncrs.sni analysis nade by erawteyPeelonnen	0.692467451095581
+Ground Truth: manual workers . An analysis made by Crawley Development
+CER: 0.5893
+WER: 0.6667
+
+Image: lines/f04/f04-057/f04-057-07.png
+Prediction: were many people uho believed Ihat fo travel	0.8955299258232117
+Ground Truth: were many people who believed that to travel
+CER: 0.5000
+WER: 0.5000
+
+Image: lines/d06/d06-056/d06-056-01.png
+Prediction: 4 bwoerfcLeit Hnrlie and Mei)f'ed	0.6152421236038208
+Ground Truth: a burden to their families and their friends .
+CER: 0.9130
+WER: 0.8889
+
+Image: lines/k07/k07-166/k07-166-04.png
+Prediction: Pehaps
+Ground Truth: Perhaps , in a way . All I know is
+CER: 0.8235
+WER: 1.0000
+
+Image: lines/d06/d06-003/d06-003-06.png
+Prediction: Other vide as victore.	0.7859957218170166
+Ground Truth: other side as victors .
+CER: 0.9565
+WER: 0.8000
+
+Image: lines/h01/h01-007/h01-007-08.png
+Prediction: byWiolouhoof or oli'vorcesu He euol	0.7450953722000122
+Ground Truth: by widowhood or divorce after the end
+CER: 0.9730
+WER: 0.8571
+
+Image: lines/e07/e07-072/e07-072-00.png
+Prediction: DESPITE Hu s+eooly iuf[ux of su6shiles	0.7256720662117004
+Ground Truth: DESPITE the steady influx of substitutes
+CER: 0.8250
+WER: 0.8333
+
+Image: lines/g07/g07-065/g07-065-04.png
+Prediction: withthoseunbearableDallases.Sallas	0.9566699862480164
+Ground Truth: with those unbearable Dallases . Dallas
+CER: 0.6410
+WER: 1.0000
+
+Image: lines/d06/d06-037/d06-037-04.png
+Prediction: to wndostandthioa uthe bete wnenwe	0.8062816262245178
+Ground Truth: to understand this a little better when we
+CER: 0.7857
+WER: 0.8750
+
+Image: lines/g06/g06-011e/g06-011e-02.png
+Prediction: nealth powited hiu teujoy cunything.'Th Pea1
+Ground Truth: health permitted him to enjoy anything . ' The Pearl ' , he
+CER: 0.4068
+WER: 1.0000
+
+Image: lines/g06/g06-045i/g06-045i-04.png
+Prediction: Ha1y
+Ground Truth: Italy , and that he himself was being treated under a
+CER: 0.9623
+WER: 1.0000
+
+Image: lines/n04/n04-068/n04-068-03.png
+Prediction: Would hare le leave the larand eiter nit i.	0.8424050211906433
+Ground Truth: would have to leave the bar and either sit in
+CER: 0.6222
+WER: 0.8000
+
+Image: lines/g07/g07-022b/g07-022b-02.png
+Prediction: lin: have teey en locrs Sem ba-Lhich les vee	0.659331738948822
+Ground Truth: him : I have today seen Count Gamba - which was very
+CER: 0.7885
+WER: 0.9167
+
+Image: lines/c03/c03-000e/c03-000e-06.png
+Prediction: derivedponHis unisy of conceptior aud	0.7801297903060913
+Ground Truth: derived from this unity of conception and
+CER: 0.7073
+WER: 1.0000
+
+Image: lines/c03/c03-081e/c03-081e-03.png
+Prediction: in our minds alout heri she remeinel	0.9147409796714783
+Ground Truth: in our minds about her if she remained
+CER: 0.6316
+WER: 0.6250
+
+Image: lines/c02/c02-078/c02-078-00.png
+Prediction: H has o great leol ofspecd Ond Fechnical fun	0.9125595688819885
+Ground Truth: It has a great look of speed and technical fun
+CER: 0.6087
+WER: 0.8000
+
+Image: lines/b06/b06-110/b06-110-02.png
+Prediction: ae daNed it. One ses ekdncity bosd in 19S8	0.7801021337509155
+Ground Truth: are denied it . One area electricity board in 1958
+CER: 0.7200
+WER: 0.9000
+
+Image: lines/g06/g06-018n/g06-018n-05.png
+Prediction: hepnhuli Hns
+Ground Truth: hoped , he told Arthur , ' to find
+CER: 0.8235
+WER: 1.0000
+
+Image: lines/b04/b04-187/b04-187-04.png
+Prediction: Wulinxtion of luthusisnu and shwd anticipotinr	0.7670451998710632
+Ground Truth: combination of enthusiasm and shrewd anticipation
+CER: 0.6939
+WER: 0.8333
+
+Image: lines/g01/g01-022/g01-022-07.png
+Prediction: ANCINe ARU UINgCLASsWHICH	0.6448862552642822
+Ground Truth: ANCING A RULING CLASS WHICH
+CER: 1.0000
+WER: 1.0000
+
+Image: lines/a02/a02-027/a02-027-04.png
+Prediction: Gana grnmet intodued mhly.Ghana's teny	0.6150434613227844
+Ground Truth: Ghana Government introduced in July . Ghana's strong
+CER: 0.7308
+WER: 1.0000
+
+Image: lines/k04/k04-115/k04-115-02.png
+Prediction: Hhexgitated LuCia
+Ground Truth: the agitated Lucia , her brain was working
+CER: 0.6667
+WER: 1.0000
+
+Image: lines/l01/l01-111/l01-111-07.png
+Prediction: l que
+Ground Truth: 2gime , hated alike by all the men ,
+CER: 0.9167
+WER: 1.0000
+
+Image: lines/r06/r06-044/r06-044-03.png
+Prediction: foHur-in-law
+Ground Truth: father-in-law , after muddling up some sheep
+CER: 0.7955
+WER: 1.0000
+
+Image: lines/b01/b01-004/b01-004-07.png
+Prediction: not clear-cuy	0.8285692930221558
+Ground Truth: not clear-cut .
+CER: 1.2667
+WER: 0.6667
+
+Image: lines/f01/f01-143/f01-143-05.png
+Prediction: of tle dlcctor who observes sigus
+Ground Truth: of the doctor who observes signs , and records symptoms ,
+CER: 0.5088
+WER: 0.7273
+
+Image: lines/a05/a05-039/a05-039-05.png
+Prediction: ReeoellchuhowraNcuwauatbemS	0.4664217531681061
+Ground Truth: general election showed Nationalists being
+CER: 1.0000
+WER: 1.0000
+
+Image: lines/c01/c01-009/c01-009-06.png
+Prediction: admiHed to the Clyndeboune canon.By wc	0.9206711649894714
+Ground Truth: admitted to the Glyndebourne canon . By no
+CER: 0.6429
+WER: 0.7500
+
+Image: lines/b05/b05-074/b05-074-08.png
+Prediction: to dath like catle interBls me owly in so far as we	0.8821810483932495
+Ground Truth: to death like cattle interests me only in so far as we
+CER: 0.4630
+WER: 0.4167
+
+Image: lines/d04/d04-071/d04-071-07.png
+Prediction: CTaluud Sauk.99 A)	0.8640055656433105
+Ground Truth: ( Talmud Sanh. 99A ) .
+CER: 1.1818
+WER: 1.0000
+
+Image: lines/c03/c03-096d/c03-096d-04.png
+Prediction: ineffectualirywih nhich he had endowed	0.8668556213378906
+Ground Truth: ineffectuality with which he had endowed
+CER: 0.5750
+WER: 0.6667
+
+Image: lines/h07/h07-071a/h07-071a-08.png
+Prediction: Youy pople in ndlustry aud cowace ci	0.8873341679573059
+Ground Truth: young people in industry and commerce will
+CER: 0.7381
+WER: 1.0000
+
+Image: lines/g01/g01-067/g01-067-03.png
+Prediction: Qdull wxs alkrel lo neael'ovev s'xleen'	0.844627857208252
+Ground Truth: adult was altered to read ' over sixteen ' ,
+CER: 0.7500
+WER: 1.0000
+
+Image: lines/c06/c06-138/c06-138-07.png
+Prediction: Bruuo Riddad #auphua
+Ground Truth: Bruno Richard Hauptmann , but
+CER: 0.5172
+WER: 1.0000
+
+Image: lines/c03/c03-081d/c03-081d-05.png
+Prediction: no! peard. Honeve
+Ground Truth: not heard . However , Miss Pinkie Johnstone
+CER: 0.6744
+WER: 1.0000
+
+Image: lines/f04/f04-053/f04-053-03.png
+Prediction: persons unKnowy"The most zifal c1ue of Hhe Wedgwood	0.8823089599609375
+Ground Truth: persons unknown . " The most vital clue of the Wedgwood
+CER: 0.5273
+WER: 0.7273
+
+Image: lines/g06/g06-011a/g06-011a-06.png
+Prediction: popla
+Ground Truth: people , and what a busy town . At Rome , every
+CER: 0.8936
+WER: 1.0000
+
+Image: lines/a01/a01-058u/a01-058u-08.png
+Prediction: Adeuoues
+Ground Truth: Adenauer , the West German Chancellor .
+CER: 0.8462
+WER: 1.0000
+
+Image: lines/m04/m04-246/m04-246-03.png
+Prediction: Au nand. Culd
+Ground Truth: he roared . Quelled , Mr. Price pulled out a grocery
+CER: 0.8462
+WER: 1.0000
+
+Image: lines/j07/j07-009/j07-009-07.png
+Prediction: of jins only O.o06 in. (o.ss mm.) thick.	0.9082385301589966
+Ground Truth: of fins only 0.006 in. ( 0.15 mm. ) thick .
+CER: 0.6279
+WER: 0.7273
+
+Image: lines/g06/g06-050c/g06-050c-08.png
+Prediction: Ovar beiny wred.	0.7543042898178101
+Ground Truth: ever being cured . '
+CER: 1.2000
+WER: 1.0000
+
+Image: lines/a06/a06-070/a06-070-05.png
+Prediction: of sus Euupean Free Tade Associatr parhuen	0.8647933006286621
+Ground Truth: of our European Free Trade Association partners
+CER: 0.6383
+WER: 0.8571
+
+Image: lines/k04/k04-115/k04-115-00.png
+Prediction: This moue today was a rewinth S that fact.	0.8261224031448364
+Ground Truth: This move today was a reminder of that fact .
+CER: 0.5778
+WER: 0.5000
+
+Image: lines/b04/b04-140/b04-140-05.png
+Prediction: nd h3 suyfnhrs haie hoen ald Nyourou Hes	0.7307798266410828
+Ground Truth: and his supporters have been able to pursue their
+CER: 0.8367
+WER: 1.0000
+
+Image: lines/f07/f07-081a/f07-081a-07.png
+Prediction: Propotion cs etists cmong her	0.9166496992111206
+Ground Truth: proportion as exists among her
+CER: 0.8000
+WER: 1.0000
+
+Image: lines/g06/g06-018n/g06-018n-04.png
+Prediction: Wm Mf ij k wMEl) hu)	0.466332346200943
+Ground Truth: was ' suffering as usual ' , but
+CER: 1.1250
+WER: 1.0000
+
+Image: lines/p03/p03-087/p03-087-04.png
+Prediction: One eyebros. ^ Actually she was brunet	0.9378687143325806
+Ground Truth: one eyebrow . " Actually she was brunette
+CER: 0.5610
+WER: 0.7500
+
+Image: lines/f04/f04-057/f04-057-09.png
+Prediction: hazardous business.	0.9502180218696594
+Ground Truth: hazardous business .
+CER: 0.9500
+WER: 0.6667
+
+Image: lines/a05/a05-104/a05-104-08.png
+Prediction: LeLeuuoeodkheunelisiuo he	0.5318889021873474
+Ground Truth: the temple of their religion is the
+CER: 1.1143
+WER: 1.0000
+
+Image: lines/b04/b04-154/b04-154-07.png
+Prediction: dusegre wih hu? The pcts auswr Hat.	0.800643265247345
+Ground Truth: disagree with him ? The facts answer that .
+CER: 0.7209
+WER: 0.8889
+
+Image: lines/g06/g06-031r/g06-031r-01.png
+Prediction: infatuation! Personally I au indiffeet
+Ground Truth: infatuation ! Personally I am indifferent , but I really
+CER: 0.3393
+WER: 0.8000
+
+Image: lines/f04/f04-064/f04-064-02.png
+Prediction: Said
+Ground Truth: said , " the deafening peal of thunder , the sudden
+CER: 0.9412
+WER: 1.0000
+
+Image: lines/g03/g03-064/g03-064-03.png
+Prediction: w0LfothyuovemhfMRnl	0.5576532483100891
+Ground Truth: work for the movement , was later
+CER: 1.0000
+WER: 1.0000
+
+Image: lines/b06/b06-012/b06-012-01.png
+Prediction: will bxk West Gumany's eononie dominahon of Lesten	0.9034278392791748
+Ground Truth: will back West Germany's economic domination of Western
+CER: 0.5455
+WER: 0.7500
+
+Image: lines/m03/m03-062/m03-062-02.png
+Prediction: rseinbiornee fcfe sluuk heads we Lad	0.7022042274475098
+Ground Truth: resemblance to the shrunk heads we had
+CER: 0.9211
+WER: 0.8571
+
+Image: lines/a05/a05-080/a05-080-02.png
+Prediction: ue cawisPcr Licuet cr oroeng wobiu5auicn	0.6996641159057617
+Ground Truth: recalling Parliament or ordering mobilisation
+CER: 0.9333
+WER: 1.4000
+
+Image: lines/f07/f07-101b/f07-101b-04.png
+Prediction: h if hiyut imld hn aapd le!	0.603655993938446
+Ground Truth: ask if his guest would have a cup of tea !
+CER: 0.8810
+WER: 0.9091
+
+Image: lines/b06/b06-079/b06-079-00.png
+Prediction: M u irpuill 1cr salou's ren Jkere tkl	0.7085614204406738
+Ground Truth: It is impossible for Labour's new Defence state-
+CER: 0.8958
+WER: 1.1250
+
+Image: lines/e01/e01-029/e01-029-05.png
+Prediction: ueutiaay huer.heu satihugi i	0.7413849234580994
+Ground Truth: to mention only three - how satisfying it is
+CER: 0.9773
+WER: 1.0000
+
+Image: lines/e07/e07-061/e07-061-07.png
+Prediction: diflicully i breecliy fuit flies aud
+Ground Truth: difficulty in breeding fruit flies and , after
+CER: 0.3696
+WER: 0.8750
+
+Image: lines/g06/g06-031e/g06-031e-01.png
+Prediction: Hhahon! Pesonally  aun indiggwewt
+Ground Truth: tuation ! Personally I am indifferent , but I really tremble
+CER: 0.6167
+WER: 1.0000
+
+Image: lines/l07/l07-080/l07-080-08.png
+Prediction: be causehe didnot Wnow the	0.8952401280403137
+Ground Truth: because he did not know the
+CER: 0.8519
+WER: 1.0000
+
+Image: lines/a06/a06-090/a06-090-04.png
+Prediction: . Mocnillon deolt withthe me'noyecto	0.8109573721885681
+Ground Truth: Mr. Macmillan dealt with the main objection
+CER: 0.7442
+WER: 1.0000
+
+Image: lines/f07/f07-084a/f07-084a-02.png
+Prediction: qmong ourseloes cnd it is Prepaied ct	0.9432203769683838
+Ground Truth: among ourselves and it is prepared at
+CER: 0.6757
+WER: 0.8571
+
+Image: lines/a04/a04-050/a04-050-02.png
+Prediction: alled. 3ut gorenmut shoul! ke fu to msobet	0.852013111114502
+Ground Truth: allied . But governments should be free to negotiate
+CER: 0.6923
+WER: 1.0000
+
+Image: lines/g01/g01-008/g01-008-05.png
+Prediction: the well-proteted fortress ofSt Halo. This	0.8973244428634644
+Ground Truth: the well-protected fortress of St Malo . This
+CER: 0.5111
+WER: 0.7500
+
+Image: lines/a03/a03-034/a03-034-02.png
+Prediction: uuc oallires in sone delail je accomplishmefs	0.8083369135856628
+Ground Truth: which outlines in some detail the accomplishments
+CER: 0.6531
+WER: 1.0000
+
+Image: lines/g01/g01-031/g01-031-05.png
+Prediction: guilds of o city. A medioeval tox wos	0.9168977737426758
+Ground Truth: guilds of a city . A mediaeval tax was
+CER: 0.6316
+WER: 0.7778
+
+Image: lines/g06/g06-045c/g06-045c-04.png
+Prediction: Fnance and Haly
+Ground Truth: France and Italy , and that he himself was being
+CER: 0.7292
+WER: 0.9000
+
+Image: lines/g06/g06-031g/g06-031g-03.png
+Prediction: lul Rar Nof he esayperakon cf the iecpe will le x greo.	0.7853483557701111
+Ground Truth: but fear that the exasperation of the People will be so great
+CER: 0.6721
+WER: 0.9167
+
+Image: lines/n04/n04-107/n04-107-02.png
+Prediction: He'o never befere met e preymon ano.	0.890685498714447
+Ground Truth: He 'd never before met a pressman and
+CER: 0.7297
+WER: 0.8750
+
+Image: lines/g06/g06-018e/g06-018e-01.png
+Prediction: Enqlaud
+Ground Truth: England , and returned to Rome for the winter . In late
+CER: 0.8909
+WER: 1.0000
+
+Image: lines/g06/g06-011c/g06-011c-06.png
+Prediction: s5ry hun.At lone
+Ground Truth: a busy town . At Rome , every other man was a
+CER: 0.8000
+WER: 1.0000
+
+Image: lines/c02/c02-017/c02-017-06.png
+Prediction: transplonked to an island in the North Sea.	0.8916953206062317
+Ground Truth: transplanted to an island in the North Sea .
+CER: 0.4773
+WER: 0.3333
+
+Image: lines/k04/k04-068/k04-068-00.png
+Prediction: Her husband's gentleness and auiabiei+y
+Ground Truth: Her husband's gentleness and amiability , his unselfish
+CER: 0.3455
+WER: 0.5000
+
+Image: lines/k04/k04-079/k04-079-10.png
+Prediction: Orsimi
+Ground Truth: Orsini , placing a chaplet of roses on the brows
+CER: 0.8958
+WER: 1.0000
+
+Image: lines/g07/g07-028b/g07-028b-00.png
+Prediction: Ie hec dreoned his otporngs I effeelon fe.	0.7800866961479187
+Ground Truth: She had dreaded his outpourings of affection for
+CER: 0.7500
+WER: 1.0000
+
+Image: lines/n06/n06-100/n06-100-08.png
+Prediction: donn wtL q g4ohun owmck tc Palae	0.722916841506958
+Ground Truth: down with a shotgun outside the Palace
+CER: 0.9211
+WER: 1.1429
+
+Image: lines/d07/d07-089/d07-089-10.png
+Prediction: lexts to supporf he fhesis of R. Joshuab.lehi.	0.8683634400367737
+Ground Truth: texts to support the thesis of R. Joshua b. Levi .
+CER: 0.5400
+WER: 0.7273
+
+Image: lines/a02/a02-042/a02-042-05.png
+Prediction: plee ou! 16 ermoured ecrs.Any how dy Fhe	0.8173784017562866
+Ground Truth: police and 16 armoured cars . And how did the
+CER: 0.7556
+WER: 0.9000
+
+Image: lines/c03/c03-016a/c03-016a-01.png
+Prediction: inknse realism in the siluahon.O young	0.8963539004325867
+Ground Truth: intense realism in the situation . A young
+CER: 0.6429
+WER: 0.6250
+
+Image: lines/j06/j06-026/j06-026-00.png
+Prediction: n view cf k nell hnsun ntrmal	0.7915562391281128
+Ground Truth: In view of its well-known normal
+CER: 0.9375
+WER: 1.1667
+
+Image: lines/a05/a05-104/a05-104-00.png
+Prediction: Ms.YeaeydencwcolMueGourJnuewtfr	0.6150117516517639
+Ground Truth: Mr. Healey denounced the Government for
+CER: 1.0256
+WER: 1.0000
+
+Image: lines/g01/g01-083/g01-083-01.png
+Prediction: 4o meciqevol eyes.H4 woolekesuinedHhot10o.000	0.8035734295845032
+Ground Truth: to mediaeval eyes . It was determined that 100,000
+CER: 0.7800
+WER: 1.0000
+
+Image: lines/b01/b01-027/b01-027-08.png
+Prediction: dlroppedJromJuhure Royol progrommes	0.8508625030517578
+Ground Truth: dropped from future Royal programmes .
+CER: 0.6842
+WER: 1.0000
+
+Image: lines/n06/n06-133/n06-133-08.png
+Prediction: fo hn a5oA ur1 Luyneed loA myy.	0.5721510648727417
+Ground Truth: to him about what happened last night . "
+CER: 0.9756
+WER: 1.0000
+
+Image: lines/a04/a04-019/a04-019-02.png
+Prediction: Wie should lel to fges tusad a las cgreweuf f th	0.6832463145256042
+Ground Truth: which should lead to progress toward a Laos agreement at the
+CER: 0.7000
+WER: 0.8182
+
+Image: lines/p03/p03-047/p03-047-09.png
+Prediction: Ao 9o jinto He soacl of loulle.	0.8293939828872681
+Ground Truth: to go into the Load of Trouble . "
+CER: 0.8824
+WER: 0.8889
+
+Image: lines/j06/j06-000/j06-000-06.png
+Prediction: obseranions.Thws in Euphausia superba	0.8951199650764465
+Ground Truth: observations . Thus in Euphausia superba
+CER: 0.6000
+WER: 0.6667
+
+Image: lines/h07/h07-030a/h07-030a-03.png
+Prediction: in Comrcial cuueCopmrt nhc Gave tal
+Ground Truth: in commercial development who have #
+CER: 0.4167
+WER: 0.8333
+
+Image: lines/f07/f07-028b/f07-028b-03.png
+Prediction: progress
+Ground Truth: progress , because they were men of taste
+CER: 0.8049
+WER: 0.8750
+
+Image: lines/c03/c03-094c/c03-094c-03.png
+Prediction: Comically abashel by the wtnk
+Ground Truth: comically abashed by the events , and Mr. Aubrey
+CER: 0.4792
+WER: 0.7778
+
+Image: lines/m01/m01-125/m01-125-01.png
+Prediction: was Cleas. Tl. shveet was qwiel ad	0.8522998690605164
+Ground Truth: was clear . The street was quiet and
+CER: 0.8056
+WER: 0.8750
+
+Image: lines/h01/h01-014/h01-014-07.png
+Prediction: houselolds occupyirg Eem
+Ground Truth: households occupying them , as the basis of the
+CER: 0.5532
+WER: 1.0000
+
+Image: lines/p02/p02-109/p02-109-07.png
+Prediction: foday but I thnK Ican sfely say Hhat i Know	0.899264931678772
+Ground Truth: today but I think I can safely say that I know
+CER: 0.5652
+WER: 0.8182
+
+Image: lines/l04/l04-147/l04-147-00.png
+Prediction: Onless we can get a oelnite line on him it's	0.970140814781189
+Ground Truth: Unless we can get a definite line on him it 's
+CER: 0.5000
+WER: 0.3636
+
+Image: lines/m02/m02-106/m02-106-00.png
+Prediction: Baf since starhis salarias wonfo Clepano Ongoacle 	0.7935735583305359
+Ground Truth: But since starting salaries would depend on grade A
+CER: 0.7255
+WER: 0.8889
+
+Image: lines/h04/h04-071/h04-071-04.png
+Prediction: ps       h ad	0.6456858515739441
+Ground Truth: potatoes and milk ; for fresh green vegetables , fruit , cheese , fish and
+CER: 0.8649
+WER: 1.0000
+
+Image: lines/g06/g06-026r/g06-026r-02.png
+Prediction: 2ves wds. But ue has not on2 word of Erghish' Whik	0.9036762714385986
+Ground Truth: ever was . But he has not one word of English . ' While
+CER: 0.5636
+WER: 0.6429
+
+Image: lines/j06/j06-056/j06-056-03.png
+Prediction: f gnvity . Liku aulhrs
+Ground Truth: of gravity . Later authors , in particular
+CER: 0.5952
+WER: 0.8750
+
+Image: lines/m04/m04-145/m04-145-02.png
+Prediction: passed ne af fffj HLousacd fecT
+Ground Truth: passed me at fifty thousand feet , sir . It was
+CER: 0.5319
+WER: 0.9091
+
+Image: lines/n03/n03-064/n03-064-04.png
+Prediction: elose lo Hhe rocls Hat it wold le otwled	0.7243214845657349
+Ground Truth: close to the rocks that it would be dashed
+CER: 0.7381
+WER: 1.0000
+
+Image: lines/a05/a05-029/a05-029-06.png
+Prediction: ccucouwakeaOu pooaiQuueeafNieoa	0.5089460611343384
+Ground Truth: concentrated on possible need for important
+CER: 0.9767
+WER: 1.0000
+
+Image: lines/e07/e07-083/e07-083-06.png
+Prediction: rlire ti. fulirg. On the omall to- mdliun	0.7617760300636292
+Ground Truth: relieve his feelings . On the small-to-medium
+CER: 0.7778
+WER: 1.1429
+
+Image: lines/g06/g06-011m/g06-011m-09.png
+Prediction: pariululy as 1he hoops ah very hne.	0.7627091407775879
+Ground Truth: particularly as the troops are very fine . '
+CER: 0.6818
+WER: 0.7778
+
+Image: lines/a03/a03-066/a03-066-00.png
+Prediction: Hr. Thorneycioft's main purpose will beto	0.9603211879730225
+Ground Truth: Mr. Thorneycroft's main purpose will be to
+CER: 0.5238
+WER: 0.5714
+
+Image: lines/a02/a02-027/a02-027-02.png
+Prediction: ueeh. Lctof tle dinontert: Ole autenty budget	0.8128187656402588
+Ground Truth: week . Root of the discontent : The austerity Budget ,
+CER: 0.6852
+WER: 1.0000
+
+Image: lines/h02/h02-004/h02-004-01.png
+Prediction: fist skp to seek informahon fom a number	0.945196270942688
+Ground Truth: first step to seek information from a number
+CER: 0.5455
+WER: 0.6250
+
+Image: lines/h04/h04-057/h04-057-08.png
+Prediction: their purchasesof Puddiugs
+Ground Truth: their purchases of puddings , cakes and biscuits ,
+CER: 0.5200
+WER: 0.8889
+
+Image: lines/p03/p03-135/p03-135-00.png
+Prediction: Her figue ns smol ond exquisite
+Ground Truth: Her figure was small and exquisite , like a schoolgirl's still , and
+CER: 0.5882
+WER: 0.8462
+
+Image: lines/a05/a05-009/a05-009-07.png
+Prediction: Or five month.	0.9576354026794434
+Ground Truth: or five months .
+CER: 1.2500
+WER: 0.7500
+
+Image: lines/j06/j06-056/j06-056-10.png
+Prediction: nM a sggeshtn Mat Guh	0.6600099205970764
+Ground Truth: with a suggestion that both
+CER: 1.1852
+WER: 1.0000
+
+Image: lines/g04/g04-017/g04-017-01.png
+Prediction: iBawa owm  Ja yfc an d o wer	0.5829485654830933
+Ground Truth: in Bavaria to witness the Passion Play . The place and its people were
+CER: 0.7714
+WER: 1.0000
+
+Image: lines/a03/a03-059/a03-059-07.png
+Prediction: ravgjiug frow forign wyestnwnt iu	0.8269491195678711
+Ground Truth: ranging from foreign investment in
+CER: 0.8824
+WER: 1.2000
+
+Image: lines/m04/m04-107/m04-107-08.png
+Prediction: Jotitude
+Ground Truth: fortitude , it now filled her with
+CER: 0.7941
+WER: 1.0000
+
+Image: lines/e06/e06-003/e06-003-00.png
+Prediction: Thu He can ul sho! hning	0.7414088249206543
+Ground Truth: Thus we can see that herring
+CER: 1.0714
+WER: 1.0000
+
+Image: lines/f03/f03-182/f03-182-04.png
+Prediction: Neion keep? peopl al home. Bul you
+Ground Truth: vision keeps people at home . But you , at any
+CER: 0.3696
+WER: 0.9091
+
+Image: lines/n06/n06-082/n06-082-00.png
+Prediction: Yes
+Ground Truth: " Yes , " he said . " I know . " " No harm must come
+CER: 0.9423
+WER: 0.9412
+
+Image: lines/h07/h07-003/h07-003-02.png
+Prediction: ite workr orid builoings.Manufachring cndustry alsod	0.796576201915741
+Ground Truth: site works and buildings . Manufacturing industry affords
+CER: 0.5614
+WER: 1.0000
+
+Image: lines/a04/a04-072/a04-072-07.png
+Prediction: queol hence th.l shscld Lo gospod.	0.7074218988418579
+Ground Truth: great chance that should be grasped .
+CER: 0.9189
+WER: 1.0000
+
+Image: lines/g07/g07-028b/g07-028b-06.png
+Prediction: Ucepenteroe piegeon cper lis fheyl.ts.	0.6922932863235474
+Ground Truth: unrepentance preyed upon his thoughts .
+CER: 0.9744
+WER: 1.0000
+
+Image: lines/b06/b06-082/b06-082-00.png
+Prediction: The otoknent of Podley Ond Cronman io nc	0.7806020379066467
+Ground Truth: The statement of Padley and Crossman is no
+CER: 0.7143
+WER: 0.8750
+
+Image: lines/f07/f07-002/f07-002-06.png
+Prediction: hro piM pou  syear He welcome gtte 	0.7159467339515686
+Ground Truth: hold forth from a spear the welcome gobbet of
+CER: 0.8444
+WER: 0.8889
+
+Image: lines/f07/f07-036/f07-036-02.png
+Prediction: esseuces Rell upon Qin; Qnd one of tee	0.9053474068641663
+Ground Truth: essences fell upon him ; and one of the
+CER: 0.6667
+WER: 0.7778
+
+Image: lines/m01/m01-017/m01-017-07.png
+Prediction: Ogars! the uall.	0.7568914890289307
+Ground Truth: against the wall .
+CER: 1.3333
+WER: 0.7500
+
+Image: lines/h01/h01-007/h01-007-07.png
+Prediction: Llef>es orouly marriafe was kmincke	0.6945347189903259
+Ground Truth: whose first or only marriage was terminated
+CER: 0.8140
+WER: 1.0000
+
+Image: lines/m02/m02-095/m02-095-03.png
+Prediction: f Qree men eerynRnere coued oneyy repee Anom.	0.8027238845825195
+Ground Truth: of free men everywhere , could only repel them .
+CER: 0.7083
+WER: 0.9000
+
+Image: lines/m01/m01-012/m01-012-04.png
+Prediction: Hhe fom of the fninishing in Dan	0.871651291847229
+Ground Truth: the form of the furnishings in Dan
+CER: 0.6765
+WER: 0.5714
+
+Image: lines/h05/h05-012/h05-012-04.png
+Prediction: work. paywh
+Ground Truth: works payments , the sums paid under these heads have the
+CER: 0.8421
+WER: 1.0000
+
+Image: lines/j04/j04-024/j04-024-03.png
+Prediction: Sulphnte. Leod ano! strontium fovm mixed cry	0.9006408452987671
+Ground Truth: sulphate . Lead and strontium form mixed cry-
+CER: 0.5778
+WER: 0.8750
+
+Image: lines/c03/c03-021d/c03-021d-08.png
+Prediction: sympathy-"you need someore to loveyou whil.	0.9291250705718994
+Ground Truth: sympathy - " you need someone to love you while
+CER: 0.5319
+WER: 0.8000
+
+Image: lines/a05/a05-022/a05-022-02.png
+Prediction: muRaunxauao eualLaoucw tC	0.4892091751098633
+Ground Truth: arms require and to enable each man to
+CER: 1.0263
+WER: 1.0000
+
+Image: lines/r06/r06-041/r06-041-08.png
+Prediction: Thirties	0.9358109831809998
+Ground Truth: Thirties .
+CER: 1.8000
+WER: 0.5000
+
+Image: lines/c03/c03-016b/c03-016b-09.png
+Prediction: hi child aro suh away	0.7613043785095215
+Ground Truth: his child and sails away .
+CER: 0.9615
+WER: 0.6667
+
+Image: lines/c04/c04-050/c04-050-06.png
+Prediction: Wa5 nct enough.A Ft1R CoP
+Ground Truth: was not enough . " A FAIR COP , " the B B C
+CER: 0.5581
+WER: 1.0000
+
+Image: lines/e01/e01-092/e01-092-02.png
+Prediction: are of He wwost importance to te worker	0.869669497013092
+Ground Truth: are of the utmost importance to the worker .
+CER: 0.5227
+WER: 0.4444
+
+Image: lines/b06/b06-053/b06-053-08.png
+Prediction: Gailskellies using the position	0.8853269815444946
+Ground Truth: Gaitskellites using the position
+CER: 0.6562
+WER: 0.5000
+
+Image: lines/r02/r02-000/r02-000-03.png
+Prediction: arviveol
+Ground Truth: arrived , the Inland Revenue had already taken
+CER: 0.8696
+WER: 1.0000
+
+Image: lines/d06/d06-025/d06-025-04.png
+Prediction: Becaug of Hhe plar That Joo
+Ground Truth: Because of the plan That God , Who
+CER: 0.3235
+WER: 0.7500
+
+Image: lines/b06/b06-059/b06-059-08.png
+Prediction: clanviclen of th iwe cer lriny 4	0.6717458963394165
+Ground Truth: clarification of the issues can bring a
+CER: 0.9231
+WER: 1.0000
+
+Image: lines/g04/g04-011/g04-011-02.png
+Prediction: h bcumc Ke S.Xuu4 fcnd] y Ke UrK Rudp	0.6758652329444885
+Ground Truth: to become the Southwark Secretary of the Church Reading
+CER: 0.8545
+WER: 1.1111
+
+Image: lines/g03/g03-058/g03-058-04.png
+Prediction: Socal
+Ground Truth: socialist thought in the city , but sought to create
+CER: 0.9231
+WER: 1.0000
+
+Image: lines/c04/c04-004/c04-004-04.png
+Prediction: treatment. But they havcn't done a thing For his Film	0.9514023661613464
+Ground Truth: treatment . But they haven't done a thing for his film
+CER: 0.4259
+WER: 0.5455
+
+Image: lines/k02/k02-018/k02-018-00.png
+Prediction: The gin palits
+Ground Truth: The gin pahits , and now the beer with the
+CER: 0.6905
+WER: 0.8000
+
+Image: lines/k07/k07-122/k07-122-03.png
+Prediction: lesslirkrirgkir and zee hesmow	0.7384347319602966
+Ground Truth: her glistening skin and see her move
+CER: 0.9722
+WER: 0.8571
+
+Image: lines/b02/b02-045/b02-045-08.png
+Prediction: the viclence which he Hriecl to pituent	0.8704606890678406
+Ground Truth: the violence which he tried to prevent .
+CER: 0.6250
+WER: 0.5000
+
+Image: lines/k02/k02-023/k02-023-00.png
+Prediction: I anyting
+Ground Truth: If anything , he had merely become a little more reserved , and
+CER: 0.8571
+WER: 1.0000
+
+Image: lines/a05/a05-029/a05-029-00.png
+Prediction: Si Naci. s lo uoud ooes lo SLcuwo	0.7030488848686218
+Ground Truth: Sir Francis is to hand over to Sir Richard
+CER: 0.8810
+WER: 1.0000
+
+Image: lines/c03/c03-003d/c03-003d-01.png
+Prediction: Nhroughout in Acrms of Ihe cinema
+Ground Truth: throughout in terms of the cinema , and again
+CER: 0.3556
+WER: 0.6667
+
+Image: lines/f07/f07-101a/f07-101a-07.png
+Prediction: HAVE A CUP OT TEA!	0.8275943398475647
+Ground Truth: HAVE A CUP OF TEA !
+CER: 1.1053
+WER: 0.5000
+
+Image: lines/p02/p02-017/p02-017-03.png
+Prediction: Kll fo H pi! Nmt a kw day ago	0.6379351615905762
+Ground Truth: table for the first time a few days ago .
+CER: 0.8780
+WER: 0.8000
+
+Image: lines/g01/g01-037/g01-037-04.png
+Prediction: Who  workedfor thehghestbidders
+Ground Truth: who worked for the highest bidders , free
+CER: 0.3171
+WER: 1.0000
+
+Image: lines/f04/f04-064/f04-064-03.png
+Prediction: 1mmesjo) iy gloom;and the clash y tevezbented	0.8320340514183044
+Ground Truth: immersion in gloom , and the clash of reverberated
+CER: 0.6600
+WER: 0.8889
+
+Image: lines/n03/n03-103/n03-103-09.png
+Prediction: Wu yawl up agaiwst Uu wowes	0.8041568398475647
+Ground Truth: the yawl up against the waves
+CER: 0.9655
+WER: 0.8333
+
+Image: lines/a05/a05-048/a05-048-09.png
+Prediction: mobiliseaeseuroneceoscytobmsMe	0.5786763429641724
+Ground Truth: mobilise reserves necessary to bring the
+CER: 0.8750
+WER: 1.0000
+
+Image: lines/k04/k04-079/k04-079-07.png
+Prediction: Comversotion of poels xnd dileHantiShe	0.9009446501731873
+Ground Truth: conversation of poets and dilettanti . She
+CER: 0.6667
+WER: 0.8571
+
+Image: lines/g06/g06-037o/g06-037o-10.png
+Prediction: we sire He nyptou
+Ground Truth: ever since the symptoms had first
+CER: 0.6364
+WER: 1.0000
+
+Image: lines/m04/m04-072/m04-072-10.png
+Prediction: Ward! NO	0.7051200866699219
+Ground Truth: Ward 10 .
+CER: 2.2222
+WER: 1.0000
+
+Image: lines/g07/g07-010b/g07-010b-09.png
+Prediction: het.	0.6782779693603516
+Ground Truth: here .
+CER: 3.3333
+WER: 1.0000
+
+Image: lines/p02/p02-008/p02-008-10.png
+Prediction: ofCeopairgayKanew Hcel efcowre	0.7450419068336487
+Ground Truth: of despair Gay knew that of course
+CER: 1.0000
+WER: 1.0000
+
+Image: lines/b01/b01-057/b01-057-04.png
+Prediction: of pollicr
+Ground Truth: of politics , perhaps , or carried away by the
+CER: 0.8043
+WER: 0.9000
+
+Image: lines/g07/g07-018a/g07-018a-06.png
+Prediction: hir gocd Ioete-for he' Cqrried the paerporl of q vQty	0.8447176218032837
+Ground Truth: his good looks - for he ' carried the passport of a very
+CER: 0.6429
+WER: 0.9231
+
+Image: lines/a06/a06-004/a06-004-04.png
+Prediction: peeplethe Chancllorhopes b fax.Chese	0.8273241519927979
+Ground Truth: people the Chancellor hopes to tax . These
+CER: 0.6905
+WER: 1.0000
+
+Image: lines/g05/g05-098/g05-098-01.png
+Prediction: Weewk" Mal wt hael corkiplakcl ke necerifyY cey	0.7489718198776245
+Ground Truth: " Werewolves " that we had contemplated the necessity of very
+CER: 0.8197
+WER: 1.0000
+
+Image: lines/h04/h04-049/h04-049-01.png
+Prediction: nauseholdg conknry chuldrty reduced Heir cnsumphoy	0.7710267901420593
+Ground Truth: households containing children reduced their consumption
+CER: 0.6607
+WER: 1.0000
+
+Image: lines/c03/c03-007e/c03-007e-07.png
+Prediction: The menory of'-are see as en ihkegral	0.8821821212768555
+Ground Truth: the memory of " - are seen as an integral
+CER: 0.7073
+WER: 1.0000
+
+Image: lines/f07/f07-042a/f07-042a-07.png
+Prediction: pieceyresutance	0.7865525484085083
+Ground Truth: piece of resistance .
+CER: 1.1429
+WER: 1.0000
+
+Image: lines/a01/a01-068u/a01-068u-08.png
+Prediction: owu dowcdsHecostofheepighericau	0.7628058195114136
+Ground Truth: sum towards the cost of keeping American
+CER: 0.9250
+WER: 1.0000
+
+Image: lines/g06/g06-042k/g06-042k-00.png
+Prediction: Nor is this +o be wondeed at
+Ground Truth: Nor is this to be wondered at , for even today , in
+CER: 0.4706
+WER: 0.6154
+
+Image: lines/b02/b02-105/b02-105-02.png
+Prediction: while i~JeroayitselfHe eourse of	0.746979832649231
+Ground Truth: while in Germany itself the course of
+CER: 0.7568
+WER: 0.8571
+
+Image: lines/e07/e07-098/e07-098-09.png
+Prediction: upmy Qud numevou
+Ground Truth: lupins and numerous others .
+CER: 0.6071
+WER: 1.0000
+
+Image: lines/g06/g06-047h/g06-047h-02.png
+Prediction: nore 1ite a Gd upL eK ton a huna beiyg1	0.7745499014854431
+Ground Truth: ' more like a God upon earth than a human being ' ,
+CER: 0.7255
+WER: 0.8462
+
+Image: lines/g06/g06-042i/g06-042i-01.png
+Prediction: l96Os no Core has Seen Aono1 fo- He 6tic Ooulourevx. As	0.8355262875556946
+Ground Truth: 1960s , no cure has been found for the 6tic douloureux . As
+CER: 0.6102
+WER: 0.7692
+
+Image: lines/m01/m01-149/m01-149-07.png
+Prediction: a siuqe all- exclusive pwpox	0.8427709341049194
+Ground Truth: a single all-exclusive purpose .
+CER: 0.7812
+WER: 1.0000
+
+Image: lines/g06/g06-050p/g06-050p-06.png
+Prediction: but he apptars to despair of ever Veing cured.	0.9514988660812378
+Ground Truth: ' but he appears to despair of ever being cured . '
+CER: 0.4510
+WER: 0.5000
+
+Image: lines/p02/p02-127/p02-127-00.png
+Prediction: jay noddd. " I krow Hhst you'r rgh1 Re
+Ground Truth: Gay nodded . " I know that you 're right Doc , I think
+CER: 0.4259
+WER: 0.8571
+
+Image: lines/f04/f04-093/f04-093-00.png
+Prediction: atCophon Junction a sicket-colletor	0.8235483765602112
+Ground Truth: At Clapham Junction a ticket-collector
+CER: 0.7105
+WER: 0.8000
+
+Image: lines/a05/a05-044/a05-044-07.png
+Prediction: UiuessGraatf
+Ground Truth: Villiers Graaff , have been returned unopposed .
+CER: 0.8333
+WER: 1.0000
+
+Image: lines/p02/p02-101/p02-101-03.png
+Prediction: ho1 wanhnj % imohe lx nuoLiy 1omt acho.	0.683990478515625
+Ground Truth: not wanting to smoke but needing some action
+CER: 0.9091
+WER: 1.1250
+
+Image: lines/a01/a01-058x/a01-058x-08.png
+Prediction: Talhwll .WdenanerTheMerl	0.6516218781471252
+Ground Truth: talks with Dr. Adenauer , the West
+CER: 1.1176
+WER: 1.0000
+
+Image: lines/g07/g07-014b/g07-014b-00.png
+Prediction: S hon tJen on esacf imxnfory 1 Mem.' Thu
+Ground Truth: I have taken an exact inventory of them . ' Thus on April 21st , several
+CER: 0.6111
+WER: 1.0000
+
+Image: lines/a02/a02-078/a02-078-05.png
+Prediction: Nahonn! Cougr
+Ground Truth: National Congress , which was led by Mr. Kaunda
+CER: 0.8085
+WER: 1.0000
+
+Image: lines/g06/g06-037j/g06-037j-02.png
+Prediction: K9 herej 1 mno<5+9nd
+Ground Truth: was here , I understand , but an express took
+CER: 0.7778
+WER: 1.0000
+
+Image: lines/a04/a04-099/a04-099-08.png
+Prediction: While
+Ground Truth: while , on the contrary , they impose upon
+CER: 0.9048
+WER: 1.0000
+
+Image: lines/g04/g04-039/g04-039-05.png
+Prediction: This was taKen by the Sullragan Bushop of Wowich	0.8618125915527344
+Ground Truth: This was taken by the Suffragan Bishop of Woolwich ,
+CER: 0.4808
+WER: 0.5000
+
+Image: lines/l07/l07-111/l07-111-02.png
+Prediction: Icould not endlurethe thought	0.9168712496757507
+Ground Truth: I could not endure the thought
+CER: 0.7333
+WER: 0.8333
+
+Image: lines/j04/j04-111/j04-111-03.png
+Prediction: ghters.Tle decoutawiuatiou factor falls below	0.9528592228889465
+Ground Truth: ghters . The decontamination factor falls below
+CER: 0.5532
+WER: 0.7143
+
+Image: lines/n03/n03-103/n03-103-01.png
+Prediction: as Wcugl Wis soue woud acWally	0.8496859669685364
+Ground Truth: as though his son would actually
+CER: 0.9062
+WER: 1.0000
+
+Image: lines/k07/k07-146/k07-146-04.png
+Prediction: as lat Dock sotjied endleff	0.7418025135993958
+Ground Truth: At last Derek got tired and left .
+CER: 0.9118
+WER: 1.0000
+
+Image: lines/g06/g06-026e/g06-026e-03.png
+Prediction: Wrihng Huis l#e We head of Hhu faU og twe Whigs
+Ground Truth: writing this letter he heard of the fall of the Whigs , and
+CER: 0.3898
+WER: 0.8462
+
+Image: lines/b04/b04-162/b04-162-03.png
+Prediction: nt prache.Tlee a UNO aruy f Ap'caus
+Ground Truth: into practice . There a UNO army of Africans ,
+CER: 0.3696
+WER: 0.8000
+
+Image: lines/c03/c03-021a/c03-021a-09.png
+Prediction: you ak lootirg fer someone to loue "	0.9240297675132751
+Ground Truth: you are looking for someone to love " .
+CER: 0.6154
+WER: 0.5556
+
+Image: lines/g06/g06-093/g06-093-07.png
+Prediction: Ahis oppointmenl.'	0.8568328619003296
+Ground Truth: this appointment . '
+CER: 1.1500
+WER: 1.0000
+
+Image: lines/j04/j04-065/j04-065-05.png
+Prediction: Hhat the Avaction Containing lead and bismuth axe Are	0.8832970261573792
+Ground Truth: that the fractions containing lead and bismuth are free
+CER: 0.4727
+WER: 0.6667
+
+Image: lines/a01/a01-020u/a01-020u-09.png
+Prediction: HauoeofCuies.	0.7452500462532043
+Ground Truth: House of Chiefs .
+CER: 1.4706
+WER: 1.0000
+
+Image: lines/b04/b04-010/b04-010-01.png
+Prediction: Britain. We hae fo ght beside Belgwi.	0.8387842774391174
+Ground Truth: Britain . We have fought beside Belgium
+CER: 0.6154
+WER: 1.0000
+
+Image: lines/f07/f07-081a/f07-081a-01.png
+Prediction: of qod fod and the gusto which they	0.9239358305931091
+Ground Truth: of good food and the gusto which they
+CER: 0.5946
+WER: 0.3750
+
+Image: lines/e07/e07-098/e07-098-08.png
+Prediction: Clablias 1 chrysun thtmums  sulvias
+Ground Truth: dahlias , chrysanthemums , salvias , sweet peas ,
+CER: 0.4898
+WER: 1.0000
+
+Image: lines/e01/e01-081/e01-081-04.png
+Prediction: on HLu lnen 4ooumg 4la outIne fthe cnchaF edgu	0.6619427800178528
+Ground Truth: on the linen following the outline of the crochet edges
+CER: 0.7455
+WER: 0.9000
+
+Image: lines/b05/b05-074/b05-074-03.png
+Prediction: they really believed Hiter when nu screawed al	0.8882655501365662
+Ground Truth: they really believed Hitler when he screamed at
+CER: 0.5106
+WER: 0.6250
+
+Image: lines/c06/c06-095/c06-095-06.png
+Prediction: tudson can take one more hillthan the	0.9319872260093689
+Ground Truth: Hudson can take one more hill than the
+CER: 0.5526
+WER: 0.5000
+
+Image: lines/f02/f02-076/f02-076-03.png
+Prediction: Reuelsaretebetesotepoores prepared	0.7751133441925049
+Ground Truth: levels are the better or the poorer prepared
+CER: 0.7500
+WER: 1.0000
+
+Image: lines/c06/c06-000/c06-000-05.png
+Prediction: gelherd aillclecolon arourl Brender Belen	0.665534496307373
+Ground Truth: gathered with devotion around Brendan Behan
+CER: 0.8140
+WER: 1.0000
+
+Image: lines/a01/a01-020u/a01-020u-08.png
+Prediction: todio cwrsHefuchicu ofapuopcseo	0.8114286065101624
+Ground Truth: to discuss the function of a proposed
+CER: 1.0000
+WER: 1.0000
+
+Image: lines/a03/a03-047/a03-047-10.png
+Prediction: in Algoma Zost.	0.8799685835838318
+Ground Truth: in Algoma East .
+CER: 1.3125
+WER: 0.5000
+
+Image: lines/m06/m06-019/m06-019-06.png
+Prediction: Jjoined us You are flymen
+Ground Truth: joined us . You are flymen , we are human . You
+CER: 0.5106
+WER: 0.6667
+
+Image: lines/g06/g06-037g/g06-037g-02.png
+Prediction: Iu an expen sool hin off yk day.	0.896884560585022
+Ground Truth: but an express took him off yesterday . '
+CER: 0.7561
+WER: 0.7778
+
+Image: lines/d03/d03-112/d03-112-05.png
+Prediction: paradise af hia diapnal Aut she 1	0.8008138537406921
+Ground Truth: paradise at his disposal but he is
+CER: 0.7941
+WER: 1.0000
+
+Image: lines/a02/a02-106/a02-106-06.png
+Prediction: to sHle tle relatimships beween nhem cnd tL	0.8190074563026428
+Ground Truth: to settle the relationships between them and the
+CER: 0.6042
+WER: 1.0000
+
+Image: lines/f04/f04-049/f04-049-02.png
+Prediction: the Knowledge that he had gone shopping in the town of Guil.	0.9576053619384766
+Ground Truth: the knowledge that he had gone shopping in the town of Guil-
+CER: 0.3500
+WER: 0.2500
+
+Image: lines/k04/k04-119/k04-119-04.png
+Prediction: t5 jaunty ylume blotted out the light; his haud	0.9179067611694336
+Ground Truth: its jaunty plume blotted out the light ; his hand
+CER: 0.4898
+WER: 0.6000
+
+Image: lines/h07/h07-075/h07-075-04.png
+Prediction: London new Fonn corfomhinshwe been nble to	0.8242847919464111
+Ground Truth: London new town corporations have been able to
+CER: 0.6522
+WER: 0.6250
+
+Image: lines/m04/m04-131/m04-131-03.png
+Prediction: On the boch neat Ltar Hayballenbracel	0.8665914535522461
+Ground Truth: On the back seat Stan Hayball embraced
+CER: 0.7105
+WER: 0.7143
+
+Image: lines/e07/e07-012/e07-012-02.png
+Prediction: praqiy wauhs sahsfies if5 voracity Sy	0.8618805408477783
+Ground Truth: praying mantis satisfies its voracity by
+CER: 0.7750
+WER: 1.0000
+
+Image: lines/b01/b01-122/b01-122-06.png
+Prediction: Concratxlh!. Ohertre
+Ground Truth: Commonwealth . Otherwise , he says , those inside the
+CER: 0.7736
+WER: 1.0000
+
+Image: lines/p03/p03-158/p03-158-04.png
+Prediction: swusement in Wis own lyls
+Ground Truth: of amusement in his own eyes , however , he took
+CER: 0.5833
+WER: 0.8182
+
+Image: lines/g02/g02-062/g02-062-05.png
+Prediction: the dissections of living animals
+Ground Truth: the dissections of living animals , Harvey noted that
+CER: 0.3774
+WER: 0.4444
+
+Image: lines/b02/b02-045/b02-045-04.png
+Prediction: thot the goutrnment shouicl euer have been lcl owey	0.8523942828178406
+Ground Truth: that the Government should ever have been led away
+CER: 0.6200
+WER: 0.7778
+
+Image: lines/k02/k02-067/k02-067-01.png
+Prediction: the coorie fo make youa prethlot ''J'd rathen	0.8220950365066528
+Ground Truth: the cookie to make you a fresh lot ? ' ' I 'd rather
+CER: 0.6154
+WER: 0.8571
+
+Image: lines/d01/d01-049/d01-049-01.png
+Prediction: case is that
+Ground Truth: case is that , in common with all his colleagues ,
+CER: 0.7600
+WER: 0.7273
+
+Image: lines/e04/e04-119/e04-119-01.png
+Prediction: Ve nubins shrakes andl yu are rady h i.ft 1e loat gf	0.7723921537399292
+Ground Truth: the rubbing strakes and you are ready to lift the boat off
+CER: 0.6207
+WER: 1.0000
+
+Image: lines/g06/g06-045p/g06-045p-01.png
+Prediction: Lord Ponsonby
+Ground Truth: Lord Ponsonby , had written to advise Anglesey to give the
+CER: 0.7759
+WER: 0.8182
+
+Image: lines/n04/n04-202/n04-202-01.png
+Prediction: anytime - knock toice and ase for Bawky
+Ground Truth: any time - knock twice and ask for Bawley , what ? "
+CER: 0.3077
+WER: 0.6923
+
+Image: lines/h07/h07-071/h07-071-08.png
+Prediction: indushnes.Shemes for Haining young people is	0.8622860312461853
+Ground Truth: industries . Schemes for training young people in
+CER: 0.5714
+WER: 0.7500
+
+Image: lines/g06/g06-050e/g06-050e-02.png
+Prediction: cCbd lns ditinguished pahewt aud luis squp+oms.H	0.8444140553474426
+Ground Truth: described his distinguished patient and his symptoms . He
+CER: 0.6667
+WER: 1.0000
+
+Image: lines/g07/g07-047/g07-047-05.png
+Prediction: sloclaig blarplunies lilu tu Vision f Juolgenes	0.7580578327178955
+Ground Truth: shocking blasphemies like the Vision of Judgement ,
+CER: 0.7059
+WER: 0.8750
+
+Image: lines/e04/e04-103/e04-103-03.png
+Prediction: rouns fhu hame to the stean an clany thee I	0.821661114692688
+Ground Truth: round the frame to the stern and clamp there . If
+CER: 0.5714
+WER: 0.8182
+
+Image: lines/a05/a05-080/a05-080-03.png
+Prediction: Ry pvOclcualicur) 3uchor wawlelbR	0.6616362929344177
+Ground Truth: by proclamation , such as would be
+CER: 1.1176
+WER: 1.0000
+
+Image: lines/a03/a03-017/a03-017-01.png
+Prediction: the mision
+Ground Truth: the mission , but recent statements made by him
+CER: 0.7872
+WER: 0.8889
+
+Image: lines/r02/r02-146/r02-146-03.png
+Prediction: exhavagomt.' "Kughty ! she called	0.8501317501068115
+Ground Truth: extravagant . ' " Naughty ! ' she called
+CER: 0.7500
+WER: 0.7778
+
+Image: lines/c01/c01-014/c01-014-09.png
+Prediction: or af least Hhe most sucesfilly execatel tai!	0.8788375854492188
+Ground Truth: or at least the most successfully executed trait
+CER: 0.5833
+WER: 0.7500
+
+Image: lines/a03/a03-034/a03-034-06.png
+Prediction: ook aK home Las fallen fr Ahe foue of	0.7920238971710205
+Ground Truth: stock at home has fallen in the face of
+CER: 0.7436
+WER: 0.7778
+
+Image: lines/a05/a05-108/a05-108-01.png
+Prediction: ueugiau as hact failet to oehect Hu. owll.	0.7622354626655579
+Ground Truth: religion as had failed to detect this cult .
+CER: 0.8182
+WER: 0.7778
+
+Image: lines/m04/m04-200/m04-200-05.png
+Prediction: attitude.Now if there'A blen a good ol dccident	0.9053138494491577
+Ground Truth: attitude . Now if there 'd been a good old accident ,
+CER: 0.4906
+WER: 0.7500
+
+Image: lines/m01/m01-079/m01-079-03.png
+Prediction: Cyartueut he gangd ls carad Fls sood	0.7990635633468628
+Ground Truth: apartment he garaged his car and then stood
+CER: 0.8140
+WER: 0.8750
+
+Image: lines/n04/n04-022/n04-022-03.png
+Prediction: Submannevs. You ought lo have married that fat	0.9369237422943115
+Ground Truth: submariners . You ought to have married that fat
+CER: 0.5208
+WER: 0.4444
+
+Image: lines/f04/f04-074/f04-074-09.png
+Prediction: Was found to hawe her ownsilk scarfolnawn	0.9311354756355286
+Ground Truth: was found to have her own silk scarf drawn
+CER: 0.5952
+WER: 0.6667
+
+Image: lines/g06/g06-011p/g06-011p-01.png
+Prediction: told Cloncurry that he cnjoycd it as much as his healt.	0.9347383379936218
+Ground Truth: told Cloncurry that he enjoyed it as much as his health
+CER: 0.4000
+WER: 0.2727
+
+Image: lines/c02/c02-007/c02-007-00.png
+Prediction: In A95o he 6egen to fawe pho+ogrophs m1	0.8253518342971802
+Ground Truth: In 1950 he began to take photographs not
+CER: 0.7250
+WER: 0.7500
+
+Image: lines/g01/g01-043/g01-043-09.png
+Prediction: enusofthe rotifornahrmrchany	0.7792493104934692
+Ground Truth: excess of the rate for native merchants .
+CER: 0.8537
+WER: 1.0000
+
+Image: lines/n02/n02-127/n02-127-07.png
+Prediction: pul Se. inkas!s Seexay owm	0.6441437005996704
+Ground Truth: put her interests before my own .
+CER: 1.0000
+WER: 1.0000
+
+Image: lines/g06/g06-047m/g06-047m-04.png
+Prediction: intanng number of olisigh amony	0.8410744071006775
+Ground Truth: increasing number of disciples among
+CER: 0.8889
+WER: 0.8000
+
+Image: lines/g06/g06-018m/g06-018m-04.png
+Prediction: plac ayu niMh me bHu han Naylr.Th jcmy	0.8098892569541931
+Ground Truth: place agree with me better than Naples . The journey
+CER: 0.7692
+WER: 0.9000
+
+Image: lines/d01/d01-024/d01-024-01.png
+Prediction: dislocatiotake itfor grauted that the Gospe! was	0.8959641456604004
+Ground Truth: dislocation take it for granted that the Gospel was
+CER: 0.4706
+WER: 0.7778
+
+Image: lines/k07/k07-122/k07-122-01.png
+Prediction: ane beas le kral conefafe
+Ground Truth: and hear her breath come faster , to see
+CER: 0.5750
+WER: 1.0000
+
+Image: lines/a06/a06-051/a06-051-01.png
+Prediction: all pon4 A 4he Conservahve side. tMr.	0.7940305471420288
+Ground Truth: all parts of the Conservative side . Mr.
+CER: 0.7500
+WER: 0.8750
+
+Image: lines/a01/a01-122/a01-122-04.png
+Prediction: indlustry." The healhof children toclay owecl much	0.8464385867118835
+Ground Truth: industry . " The health of children today owed much
+CER: 0.5490
+WER: 0.8000
+
+Image: lines/b06/b06-015/b06-015-04.png
+Prediction: bases all ouer Westemn Eeurope	0.9140627384185791
+Ground Truth: bases all over Western Europe .
+CER: 0.6774
+WER: 0.6667
+
+Image: lines/a04/a04-085/a04-085-08.png
+Prediction: bases in this County . Hn open leHe	0.9200597405433655
+Ground Truth: bases in this country . An open letter
+CER: 0.6316
+WER: 0.5000
+
+Image: lines/g06/g06-037p/g06-037p-06.png
+Prediction: numcrous covventional remedies t which ht had been	0.9409487247467041
+Ground Truth: numerous conventional remedies to which he had been
+CER: 0.4510
+WER: 0.6250
+
+Image: lines/m01/m01-038/m01-038-08.png
+Prediction: He eupty-mindey rephiotwer Hul	0.7302648425102234
+Ground Truth: the empty-minded receptiveness that
+CER: 0.9714
+WER: 1.2500
+
+Image: lines/b06/b06-027/b06-027-01.png
+Prediction: fepo1ted to le hafway twaud	0.7357227802276611
+Ground Truth: reported to be halfway toward
+CER: 0.8621
+WER: 1.0000
+
+Image: lines/c03/c03-081f/c03-081f-03.png
+Prediction: in our mnds dbout her ip she remined q	0.8266503214836121
+Ground Truth: in our minds about her if she remained a
+CER: 0.6000
+WER: 0.6667
+
+Image: lines/a01/a01-014x/a01-014x-02.png
+Prediction: ptur. Jaid Nr.Ntumtula dast nught.	0.8615800738334656
+Ground Truth: future . Said Mr. Nkumbula last night :
+CER: 0.7949
+WER: 1.0000
+
+Image: lines/g04/g04-011/g04-011-01.png
+Prediction: wo4 in connecin wK Kig Rlgioue Gdchos
+Ground Truth: work in connection with Higher Religious Education , and
+CER: 0.4643
+WER: 0.8889
+
+Image: lines/g01/g01-037/g01-037-09.png
+Prediction: in the payoflandedLords.	0.9201173782348633
+Ground Truth: in the pay of landed Lords .
+CER: 0.7857
+WER: 0.7143
+
+Image: lines/f04/f04-053/f04-053-06.png
+Prediction: dacgloscopy wus onlg in its heginnings	0.8623987436294556
+Ground Truth: dactyloscopy was only in its beginnings .
+CER: 0.5610
+WER: 0.7143
+
+Image: lines/e04/e04-119/e04-119-03.png
+Prediction: shiff Kem nght ouf f H wag. Ylace h Lawt nght sl	0.8524438738822937
+Ground Truth: shift them right out of the way . Place the boat right side
+CER: 0.6780
+WER: 1.0000
+
+Image: lines/c03/c03-081d/c03-081d-07.png
+Prediction: insdale landen
+Ground Truth: Dinsdale Landen , in the longest and most
+CER: 0.6829
+WER: 1.0000
+
+Image: lines/n04/n04-022/n04-022-05.png
+Prediction: mishesses. Rnyway it mght be muI worse.	0.8900665640830994
+Ground Truth: mistresses . Anyway it might be much worse .
+CER: 0.5909
+WER: 0.7778
+
+Image: lines/e04/e04-034/e04-034-05.png
+Prediction: d suitabh pustel shade
+Ground Truth: a suitable pastel shade , using a contrasting colour
+CER: 0.6346
+WER: 0.8889
+
+Image: lines/a01/a01-096u/a01-096u-08.png
+Prediction: whoepnuciple ofMeStcte oesbice auo	0.7417376041412354
+Ground Truth: whole principle of the State service and
+CER: 0.8500
+WER: 1.0000
+
+Image: lines/l04/l04-179/l04-179-07.png
+Prediction: uCe'
+Ground Truth: nce ' , he added , looking at Hugh .
+CER: 0.9444
+WER: 1.0000
+
+Image: lines/l07/l07-138/l07-138-04.png
+Prediction: onthe watar. At lost he pronounceo	0.8533958792686462
+Ground Truth: on the water . At last he pronounced
+CER: 0.6667
+WER: 0.8750
+
+Image: lines/g06/g06-050p/g06-050p-03.png
+Prediction: that hc found Anglscy a strong
+Ground Truth: that he found Anglesey a strong , energetic man with a
+CER: 0.4815
+WER: 0.6364
+
+Image: lines/d04/d04-071/d04-071-00.png
+Prediction: And we wMl uowl He Diviue haw on the	0.8483436107635498
+Ground Truth: And we will nail the Divine Law on the
+CER: 0.7368
+WER: 0.6667
+
+Image: lines/m02/m02-048/m02-048-05.png
+Prediction: Hhnking Hhot he ard Angelina would hoe	0.8606614470481873
+Ground Truth: thinking that he and Angelina would have
+CER: 0.6500
+WER: 0.7143
+
+Image: lines/p06/p06-088/p06-088-00.png
+Prediction: Hs eye
+Ground Truth: Her eyes darkened in torment . ' Are
+CER: 0.8611
+WER: 1.0000
+
+Image: lines/b02/b02-102/b02-102-04.png
+Prediction: itVesternCoveromentshadaotbeenconvinced	0.8768690824508667
+Ground Truth: if Western Governments had not been convinced
+CER: 0.6667
+WER: 1.0000
+
+Image: lines/g06/g06-011k/g06-011k-06.png
+Prediction: people
+Ground Truth: people , and what a busy town . At Rome , every
+CER: 0.8723
+WER: 0.9167
+
+Image: lines/l04/l04-174/l04-174-04.png
+Prediction: l war tellgj your friend hou he lome	0.8552792072296143
+Ground Truth: ' I was telling your friend how he come
+CER: 0.7179
+WER: 0.7778
+
+Image: lines/g04/g04-003/g04-003-03.png
+Prediction: when we mct at ta at the xectony	0.8758125305175781
+Ground Truth: when we met at tea at the rectory
+CER: 0.6970
+WER: 0.5000
+
+Image: lines/b01/b01-084/b01-084-03.png
+Prediction: Fhe UN forres were Huide euoupl or He proud
+Ground Truth: If the UN forces were thick enough on the ground ,
+CER: 0.3800
+WER: 0.8182
+
+Image: lines/d04/d04-047/d04-047-01.png
+Prediction: mind together we cannot solve the futher	0.9561927914619446
+Ground Truth: mind together we cannot solve the further
+CER: 0.4878
+WER: 0.2857
+
+Image: lines/h07/h07-060b/h07-060b-02.png
+Prediction: facby Qlemises) iu the foun of Lildigs peially	0.851847767829895
+Ground Truth: factory premises ) in the form of buildings specially
+CER: 0.6038
+WER: 0.8889
+
+Image: lines/c01/c01-009/c01-009-02.png
+Prediction: Story into a concentrated comprehensive	0.9559683203697205
+Ground Truth: story into a concentrated comprehensive
+CER: 0.5128
+WER: 0.4000
+
+Image: lines/c06/c06-111/c06-111-04.png
+Prediction: Stdies atkched t Some Ameni<an univesiHes	0.8980122208595276
+Ground Truth: Studies attached to some American universities
+CER: 0.6304
+WER: 1.1667
+
+Image: lines/j07/j07-000/j07-000-00.png
+Prediction: This resLltediu uuits qF much lighfer weight than could 6e	0.9366028308868408
+Ground Truth: This resulted in units of much lighter weight than could be
+CER: 0.4576
+WER: 0.6364
+
+Image: lines/m02/m02-083/m02-083-04.png
+Prediction: Prepane Br somethi^g UnpQasqt
+Ground Truth: prepared for something unpleasant , for this was
+CER: 0.5417
+WER: 1.0000
+
+Image: lines/r03/r03-110/r03-110-04.png
+Prediction: oueof yow publshen
+Ground Truth: one of your publishers , get two books commissioned
+CER: 0.6863
+WER: 1.0000
+
+Image: lines/g04/g04-014/g04-014-02.png
+Prediction: s4 8oo pet Lg dor He ou hR!T.	0.6046236157417297
+Ground Truth: was 800 feet high above the sea level ! The
+CER: 0.9535
+WER: 1.0000
+
+Image: lines/f04/f04-083/f04-083-02.png
+Prediction: reuaned a mysiery until later tne following day	0.9477120041847229
+Ground Truth: remained a mystery until later the following day .
+CER: 0.4400
+WER: 0.4444
+
+Image: lines/p02/p02-115/p02-115-01.png
+Prediction: Gaj
+Ground Truth: Gay , and don't even contemplate throwing
+CER: 0.9512
+WER: 1.0000
+
+Image: lines/n03/n03-120/n03-120-05.png
+Prediction: lahe trout and saic!- 3"Bill hes Seter	0.8957095146179199
+Ground Truth: lake trout and said - 3" Bill , he 's better
+CER: 0.6591
+WER: 0.8182
+
+Image: lines/a03/a03-027/a03-027-06.png
+Prediction: Aty ou hourn a noctonal couferenrc heue wth	0.7252966165542603
+Ground Truth: Party are holding a national conference here with
+CER: 0.7551
+WER: 1.0000
+
+Image: lines/g06/g06-050b/g06-050b-08.png
+Prediction: despair of wver heing cuned.	0.8916996121406555
+Ground Truth: despair of ever being cured . '
+CER: 0.7097
+WER: 0.7143
+
+Image: lines/g04/g04-036/g04-036-00.png
+Prediction: In  1913 Dr. Burge
+Ground Truth: IN 1913 Dr. Burge , Bishop of Southwark , asked me to go as
+CER: 0.7458
+WER: 0.7857
+
+Image: lines/n04/n04-068/n04-068-04.png
+Prediction: te leurge os Teturn Ho lisbedroon	0.7975674867630005
+Ground Truth: the lounge or return to his bedroom .
+CER: 0.7297
+WER: 1.0000
+
+Image: lines/b04/b04-047/b04-047-04.png
+Prediction: Lef M. Neutn leme. by prtetig yaunt Sothind he	0.7593150734901428
+Ground Truth: Let Mr. Newton beware . By protesting against Scotland he
+CER: 0.6842
+WER: 1.0000
+
+Image: lines/f07/f07-084a/f07-084a-01.png
+Prediction: institution in tran<e as is tea drinking	0.9448068737983704
+Ground Truth: institution in France as is tea drinking
+CER: 0.5250
+WER: 0.2857
+
+Image: lines/l07/l07-172/l07-172-09.png
+Prediction: Sgomdto bnow exoetLy what to 0o	0.8513694405555725
+Ground Truth: seemed to know exactly what to do
+CER: 0.8788
+WER: 0.8571
+
+Image: lines/l07/l07-172/l07-172-08.png
+Prediction: wore two 9odsto negptae
+Ground Truth: were two locks to negotiate , but Max
+CER: 0.4865
+WER: 0.8750
+
+Image: lines/m04/m04-012/m04-012-09.png
+Prediction: Ally -f/o dyid Schoolhachu.	0.6916371583938599
+Ground Truth: fully-fledged schoolteacher .
+CER: 1.0690
+WER: 1.6667
+
+Image: lines/a04/a04-003/a04-003-06.png
+Prediction: laid oown t meet thu Commonwelth	0.8914839625358582
+Ground Truth: laid down to meet the Commonwealth
+CER: 0.6765
+WER: 0.8333
+
+Image: lines/l04/l04-179/l04-179-00.png
+Prediction: Hugh wasyt impressed with this ingratiatig bar.	0.8901391625404358
+Ground Truth: Hugh wasn't impressed with this ingratiating bar-
+CER: 0.4694
+WER: 0.5714
+
+Image: lines/b04/b04-175/b04-175-03.png
+Prediction: Couhy's listoy Khe oll-fashioued uirhue of Manft	0.8104438781738281
+Ground Truth: country's history the old-fashioned virtue of thrift
+CER: 0.6538
+WER: 1.0000
+
+Image: lines/g06/g06-018d/g06-018d-06.png
+Prediction: damp
+Ground Truth: damp , but the temperature is high & I have not yet
+CER: 0.9216
+WER: 0.9167
+
+Image: lines/a06/a06-114/a06-114-04.png
+Prediction: BuOGE7TE cr no Budqe#teYoy ae	0.8883007764816284
+Ground Truth: BUDGETTE or no Budgette YOU are
+CER: 0.9355
+WER: 0.8333
+
+Image: lines/g06/g06-109/g06-109-01.png
+Prediction: Kins.. vemembeied Hheic woy a laxgixs old becI	0.7405999898910522
+Ground Truth: King ... remembered there was a luxurious old bed
+CER: 0.7347
+WER: 0.8889
+
+Image: lines/n04/n04-171/n04-171-05.png
+Prediction: sayjing 3"John wa
+Ground Truth: saying ? " John was furious . The little squirt !
+CER: 0.7143
+WER: 1.0000
+
+Image: lines/a05/a05-113/a05-113-01.png
+Prediction: GouenwuthacanholAuNeolicalReoRaucs	0.506072461605072
+Ground Truth: Government had asked the Medical Research
+CER: 1.0244
+WER: 1.0000
+
+Image: lines/n06/n06-074/n06-074-00.png
+Prediction: Ie rode donto whee 1way vaHiy. 1wa	0.7508428692817688
+Ground Truth: He rode down to where I was waiting . I was
+CER: 0.7674
+WER: 0.9091
+
+Image: lines/a04/a04-066/a04-066-01.png
+Prediction: uniltnb wos ut pouih
+Ground Truth: unilateralists was not possible , though
+CER: 0.6250
+WER: 1.0000
+
+Image: lines/h07/h07-028a/h07-028a-00.png
+Prediction: Distrhuh'cn olr fh Hwn os a nhole	0.7613344192504883
+Ground Truth: Distribution over the town as a whole
+CER: 0.8649
+WER: 1.0000
+
+Image: lines/b06/b06-093/b06-093-03.png
+Prediction: Culd ylay a loding Qud ndepeudent	0.8178949356079102
+Ground Truth: could play a leading and independent
+CER: 0.7778
+WER: 1.0000
+
+Image: lines/g06/g06-018i/g06-018i-00.png
+Prediction: When He sailng season wqs past
+Ground Truth: When the sailing season was past , he sent Pearl back to
+CER: 0.5000
+WER: 0.7500
+
+Image: lines/e01/e01-062/e01-062-01.png
+Prediction: tableclohs
+Ground Truth: tablecloths , traycloths and runners , and edgings
+CER: 0.8000
+WER: 1.0000
+
+Image: lines/n02/n02-000/n02-000-06.png
+Prediction: drireu 9way
+Ground Truth: driven away , invited them casually to come to
+CER: 0.8261
+WER: 1.0000
+
+Image: lines/g06/g06-050k/g06-050k-03.png
+Prediction: distngnished pomhent omd his sgmptoms. He	0.8678922057151794
+Ground Truth: distinguished patient and his symptoms . He
+CER: 0.6512
+WER: 0.8571
+
+Image: lines/f04/f04-083/f04-083-03.png
+Prediction: During tnat tiue a descriqtiou of tne girl was	0.9545460343360901
+Ground Truth: During that time a description of the girl was
+CER: 0.5217
+WER: 0.5556
+
+Image: lines/a06/a06-095/a06-095-04.png
+Prediction: fribnte to 4he olevelopuaf 0/ Ve	0.7396235466003418
+Ground Truth: tribute to the development of the
+CER: 0.9697
+WER: 1.0000
+
+Image: lines/g06/g06-047c/g06-047c-05.png
+Prediction: Cihes ofEirpe. One of thex xas the	0.819730281829834
+Ground Truth: cities of Europe . One of these was the
+CER: 0.7179
+WER: 0.7778
+
+Image: lines/g06/g06-037m/g06-037m-00.png
+Prediction: Gd gnnt
+Ground Truth: God grant , however , that I may be a false
+CER: 0.8605
+WER: 1.0000
+
+Image: lines/h02/h02-017/h02-017-04.png
+Prediction: Pnscniphou wuder thi Daugercus Onags Nt
+Ground Truth: prescription under the Dangerous Drugs Act , 1951 ,
+CER: 0.5098
+WER: 1.0000
+
+Image: lines/g01/g01-034/g01-034-04.png
+Prediction: be bold enough to demondthe production of	0.9133186340332031
+Ground Truth: be bold enough to demand the production of
+CER: 0.5000
+WER: 0.3750
+
+Image: lines/g06/g06-045o/g06-045o-05.png
+Prediction: sueer i Froce o Smly
+Ground Truth: success in France and Italy , and that
+CER: 0.6316
+WER: 1.0000
+
+Image: lines/d04/d04-101/d04-101-00.png
+Prediction: We dip into both
+Ground Truth: We dip into both , at the Seder . And we want to understand
+CER: 0.7288
+WER: 0.7143
+
+Image: lines/h01/h01-030/h01-030-05.png
+Prediction: and oHe Chamckishcs.Sampk.-	0.8648979663848877
+Ground Truth: and other characteristics . Sample . -
+CER: 0.8947
+WER: 0.8571
+
+Image: lines/g06/g06-089/g06-089-04.png
+Prediction: annoyedl af not oLfainins 14e Admivally in pl<c	0.7496311068534851
+Ground Truth: annoyed at not obtaining the Admiralty in place
+CER: 0.6170
+WER: 0.8750
+
+Image: lines/d01/d01-019/d01-019-05.png
+Prediction: corahl ol ll choos by plooing I egens
+Ground Truth: could of the chaos by placing the fragments , or sheets , or pages , in order .
+CER: 0.6962
+WER: 0.9444
+
+Image: lines/l04/l04-102/l04-102-03.png
+Prediction: Pawrol nose and stvaighd ling of tAe mouth
+Ground Truth: parrot nose and straight line of the mouth ,
+CER: 0.2045
+WER: 0.5556
+
+Image: lines/p02/p02-135/p02-135-04.png
+Prediction: wasbeharngsicetheyghadl Been them	0.8093658685684204
+Ground Truth: was behaving since they had seen them
+CER: 0.7568
+WER: 1.0000
+
+Image: lines/a06/a06-141/a06-141-06.png
+Prediction: feueasand ofticers.	0.7017662525177002
+Ground Truth: generals and officers .
+CER: 1.0870
+WER: 1.0000
+
+Image: lines/g06/g06-089/g06-089-09.png
+Prediction: soP:	0.4786088764667511
+Ground Truth: sop .
+CER: 4.0000
+WER: 1.0000
+
+Image: lines/n01/n01-031/n01-031-06.png
+Prediction: particular area within its range
+Ground Truth: particular area within its range . Geoffrey
+CER: 0.2558
+WER: 0.2857
+
+Image: lines/j06/j06-030/j06-030-07.png
+Prediction: oceumence cK Me mface	0.8044137358665466
+Ground Truth: occurrence at the surface
+CER: 1.1600
+WER: 1.2500
+
+Image: lines/r06/r06-049/r06-049-02.png
+Prediction: Jw1 ter was no Hon8eu V.t fuphoned	0.8088204264640808
+Ground Truth: but there was no Monsieur V. He telephoned
+CER: 0.8333
+WER: 0.7500
+
+Image: lines/f01/f01-135/f01-135-07.png
+Prediction: and this feeliny F queermes	0.7923926711082458
+Ground Truth: and this feeling of queerness
+CER: 0.7931
+WER: 0.8000
+
+Image: lines/k07/k07-122/k07-122-02.png
+Prediction: Hlight beadof nweat con ont on	0.7311957478523254
+Ground Truth: the slight beads of sweat come out on
+CER: 0.8108
+WER: 1.0000
+
+Image: lines/m04/m04-222/m04-222-03.png
+Prediction: the minister. "No
+Ground Truth: the minister . " No , we have another way of signalling
+CER: 0.6909
+WER: 0.9167
+
+Image: lines/g06/g06-026g/g06-026g-04.png
+Prediction: anumphon of 1he Fvernment by she Duke of Welleizon	0.8237742781639099
+Ground Truth: assumption of the government by the Duke of Wellington .
+CER: 0.5357
+WER: 0.6000
+
+Image: lines/f07/f07-042b/f07-042b-05.png
+Prediction: wlile mice oesved alive
+Ground Truth: white mice served alive , dipped in treacle
+CER: 0.5581
+WER: 0.7500
+
+Image: lines/l04/l04-062/l04-062-04.png
+Prediction: S+evie Hewitf.By cowparision with the	0.9068785905838013
+Ground Truth: Stevie Hewitt . By comparison with the
+CER: 0.6579
+WER: 0.8571
+
+Image: lines/p03/p03-142/p03-142-03.png
+Prediction: Nl we?" "No" he eyRCl her shaugely."1 w3l wJ	0.7980918884277344
+Ground Truth: will we ? " " No , " he eyed her strangely . " I wish we
+CER: 0.7321
+WER: 0.8824
+
+Image: lines/e06/e06-003/e06-003-10.png
+Prediction: hu. Kusing ynnn akong hh mohen	0.685806930065155
+Ground Truth: the herring spawn along the northern
+CER: 1.0000
+WER: 1.1667
+
+Image: lines/b04/b04-121/b04-121-03.png
+Prediction: Must safeguoud Rhoolesie. agang chaos. Amd Ty To	0.8931267857551575
+Ground Truth: must safeguard Rhodesia against chaos . And try to
+CER: 0.6800
+WER: 1.0000
+
+Image: lines/a04/a04-047/a04-047-08.png
+Prediction: fo the msnle	0.7682176232337952
+Ground Truth: to the missile .
+CER: 1.3750
+WER: 0.7500
+
+Image: lines/b06/b06-064/b06-064-09.png
+Prediction: donbhfr1psihang .gnnnfan corsiste	0.6812562346458435
+Ground Truth: doubtful positions , and for a consistent
+CER: 0.9512
+WER: 1.0000
+
+Image: lines/n02/n02-009/n02-009-06.png
+Prediction: Said the frst tWing that came into her head.	0.9292507767677307
+Ground Truth: said the first thing that came into her head .
+CER: 0.4783
+WER: 0.5000
+
+Image: lines/f07/f07-032a/f07-032a-03.png
+Prediction: ethereal enjoyment to the grosser pleasures of the	0.9481313824653625
+Ground Truth: ethereal enjoyment to the grosser pleasures of the
+CER: 0.3800
+WER: 0.1250
+
+Image: lines/a05/a05-069/a05-069-10.png
+Prediction: Haia	0.6619323492050171
+Ground Truth: Asia .
+CER: 3.3333
+WER: 1.0000
+
+Image: lines/a05/a05-004/a05-004-04.png
+Prediction: Co mplele co-cperation at all levels in training	0.9083855152130127
+Ground Truth: complete co-operation at all levels in training
+CER: 0.4894
+WER: 0.5714
+
+Image: lines/g07/g07-050/g07-050-02.png
+Prediction: seu liges in wich nle saw tu proposd bool	0.8562116622924805
+Ground Truth: the light in which she saw the proposed book
+CER: 0.7045
+WER: 0.8889
+
+Image: lines/j01/j01-059/j01-059-01.png
+Prediction: thesomethermoelectc cortibwnonstothe	0.9018767476081848
+Ground Truth: the same , thermoelectric contributions to the
+CER: 0.7174
+WER: 1.0000
+
+Image: lines/b01/b01-079/b01-079-08.png
+Prediction: Mr. Hauwarskjold fo ose force if uecessary to	0.890172004699707
+Ground Truth: Mr. Hammarskjold to use force if necessary to
+CER: 0.5111
+WER: 0.6250
+
+Image: lines/g06/g06-050j/g06-050j-05.png
+Prediction: psn sih s Jt1 9n) chrniJ chancle	0.6935122013092041
+Ground Truth: man with a gentle and charming character ,
+CER: 0.9048
+WER: 1.0000
+
+Image: lines/g06/g06-042a/g06-042a-00.png
+Prediction: Ner is fhis % be wondnel af
+Ground Truth: Nor is this to be wondered at , for even today ,
+CER: 0.5417
+WER: 0.8333
+
+Image: lines/h07/h07-040b/h07-040b-00.png
+Prediction: FU fyps oJ tach huce hun lncourg	0.7513868808746338
+Ground Truth: All types of trader have been encouraged ,
+CER: 0.8571
+WER: 1.0000
+
+Image: lines/a04/a04-010/a04-010-02.png
+Prediction: House f Commowsthis otewnoon. Loubowr M.P. s alzecoly	0.8438525795936584
+Ground Truth: House of Commons this afternoon . Labour M.P.s already
+CER: 0.6296
+WER: 0.8889
+
+Image: lines/a01/a01-122u/a01-122u-05.png
+Prediction: uenucuaceuhicai wcohy. Theheal	0.7387513518333435
+Ground Truth: the pharmaceutical industry . " The health
+CER: 0.9524
+WER: 1.0000
+
+Image: lines/h04/h04-000/h04-000-07.png
+Prediction: Incme beteen (95l ancl 1959 wa3reat-	0.847507894039154
+Ground Truth: incomes between 1954 and 1959 was great-
+CER: 0.7250
+WER: 0.8571
+
+Image: lines/p02/p02-115/p02-115-02.png
+Prediction: yourself qway on a chop lire that. You're o	0.9244804382324219
+Ground Truth: yourself away on a chap like that . You 're a
+CER: 0.5556
+WER: 0.7273
+
+Image: lines/k04/k04-054/k04-054-02.png
+Prediction: n ehe cenere of tne gollery
+Ground Truth: in the centre of the gallery , leaving him standing
+CER: 0.5490
+WER: 0.9000
+
+Image: lines/a02/a02-086/a02-086-06.png
+Prediction: nuel 8Hmulaled ooleuce
+Ground Truth: had stimulated violence , but he had done
+CER: 0.7073
+WER: 1.0000
+
+Image: lines/d04/d04-005/d04-005-07.png
+Prediction: wuld be found.	0.7877341508865356
+Ground Truth: could be found .
+CER: 1.3125
+WER: 0.7500
+
+Image: lines/j06/j06-018/j06-018-06.png
+Prediction: forms someHme mgnt arl on ohe	0.7888538241386414
+Ground Truth: forms sometimes migrate and on other
+CER: 0.8056
+WER: 0.8333
+
+Image: lines/h02/h02-004/h02-004-02.png
+Prediction: of organisahons qnd persons having an inlerest	0.9133158922195435
+Ground Truth: of organisations and persons having an interest
+CER: 0.4894
+WER: 0.5714
+
+Image: lines/b01/b01-094/b01-094-02.png
+Prediction: would be afreenant between if rval	0.8090591430664062
+Ground Truth: would be agreement between its rival
+CER: 0.6944
+WER: 0.6667
+
+Image: lines/m04/m04-138/m04-138-05.png
+Prediction: Jromthenlethorgy.tomethingwa	0.8911734819412231
+Ground Truth: from their lethargy . Something was
+CER: 0.8286
+WER: 1.0000
+
+Image: lines/k02/k02-093/k02-093-00.png
+Prediction: Knowing Nigel
+Ground Truth: Knowing Nigel , I would have been surprised if he
+CER: 0.7347
+WER: 0.8000
+
+Image: lines/g05/g05-098/g05-098-04.png
+Prediction: Hne who Rac1
+Ground Truth: those who had , over the years , spread such ghastly havoc , destruction
+CER: 0.8889
+WER: 0.9286
+
+Image: lines/h01/h01-004/h01-004-03.png
+Prediction: fee Giuih of the ceusn % inclde pat'culon ahor	0.7343329787254333
+Ground Truth: the limits of the census to include particulars about
+CER: 0.7170
+WER: 0.8889
+
+Image: lines/h07/h07-033/h07-033-03.png
+Prediction: convenien of shoppers
+Ground Truth: convenience of shoppers , and a
+CER: 0.3226
+WER: 0.6667
+
+Image: lines/a04/a04-035/a04-035-02.png
+Prediction: Sooe Seginnig." Mr. Krushchsu veuaiueck at1e	0.8009330630302429
+Ground Truth: good beginning . ' " Mr. Krushchov remained at the
+CER: 0.7200
+WER: 0.9000
+
+Image: lines/b02/b02-045/b02-045-02.png
+Prediction: iery unnitely; if formula Tniee rtstores th onginal	0.9026636481285095
+Ground Truth: very unlikely ; if Formula Three restores the original
+CER: 0.5556
+WER: 1.0000
+
+Image: lines/k04/k04-110/k04-110-05.png
+Prediction: WaS qhegttd to taUe it wiAu+ S4hple.	0.734788179397583
+Ground Truth: was prepared to take it without scruple ,
+CER: 0.8780
+WER: 0.7500
+
+Image: lines/g06/g06-047o/g06-047o-08.png
+Prediction: cornled i May1834.	0.821943998336792
+Ground Truth: consulted in May 1834 .
+CER: 1.0435
+WER: 1.0000
+
+Image: lines/b04/b04-128/b04-128-05.png
+Prediction: up om 196o . Bzitaim's busness men ae sughato bau	0.8650769591331482
+Ground Truth: up on 1960 . Britain's business men are right to back
+CER: 0.5660
+WER: 0.7273
+
+Image: lines/a03/a03-034/a03-034-03.png
+Prediction: of Hhr parfy sInceif came le office Huee ad	0.7907398343086243
+Ground Truth: of the party since it came to office three and
+CER: 0.6739
+WER: 0.8000
+
+Image: lines/e04/e04-011/e04-011-08.png
+Prediction: the feeding tray.	0.9162583947181702
+Ground Truth: the feeding tray .
+CER: 1.0556
+WER: 0.5000
+
+Image: lines/c03/c03-016d/c03-016d-04.png
+Prediction: suroundingssheleans sest issomething	0.8684588074684143
+Ground Truth: surroundings she learns sex is something
+CER: 0.6500
+WER: 1.0000
+
+Image: lines/a01/a01-053/a01-053-01.png
+Prediction: Allyd amecialir nit ngauicahins bhacl.	0.6441527009010315
+Ground Truth: alleged association with organisations black-
+CER: 0.8889
+WER: 1.2000
+
+Image: lines/f07/f07-039a/f07-039a-03.png
+Prediction: is saidthatthere is mothing hew uude.	0.8666641712188721
+Ground Truth: is said that there is nothing new under
+CER: 0.6410
+WER: 0.8750
+
+Image: lines/m04/m04-072/m04-072-09.png
+Prediction: robb4rs
+Ground Truth: robbers , or being whisked off to Emergency
+CER: 0.8605
+WER: 1.0000
+
+Image: lines/d06/d06-041/d06-041-03.png
+Prediction: Nety whe pyly thereoghly Hitd! Sepper.	0.6717137694358826
+Ground Truth: body who feels thoroughly tired . Suppose
+CER: 0.9512
+WER: 1.0000
+
+Image: lines/g04/g04-088/g04-088-02.png
+Prediction: DRIno 9ivehx num6Qr which ds they Cdme Into	0.7224258184432983
+Ground Truth: being given a number which , as they came into
+CER: 0.7609
+WER: 0.9000
+
+Image: lines/a01/a01-049u/a01-049u-04.png
+Prediction: Coruunistaffiiah`aus.TheSeuatBauling	0.7580642104148865
+Ground Truth: Communist affiliations . The Senate Banking
+CER: 0.8140
+WER: 1.0000
+
+Image: lines/b04/b04-202/b04-202-01.png
+Prediction: utucitd outy i duad ujccks.Tbw Canmwige hr	0.7035823464393616
+Ground Truth: interested only in dead subjects . Now Cambridge has
+CER: 0.8269
+WER: 1.0000
+
+Image: lines/a01/a01-091u/a01-091u-08.png
+Prediction: uauy pR0pfcsBRycuc We vouL oA	0.6509842276573181
+Ground Truth: many people far beyond the ranks of
+CER: 1.1143
+WER: 1.0000
+
+Image: lines/b01/b01-118/b01-118-00.png
+Prediction: ye) nughlu 1 Nhor Afrcen h nel) con	0.6173952221870422
+Ground Truth: A good neighbour to those Africans who will con-
+CER: 0.8958
+WER: 1.0000
+
+Image: lines/c03/c03-016d/c03-016d-09.png
+Prediction: wholeavesner4ovearnischild and sail	0.8558843731880188
+Ground Truth: who leaves her to bear his child and sails
+CER: 0.6905
+WER: 1.0000
+
+Image: lines/r02/r02-117/r02-117-07.png
+Prediction: Dlinne redy.	0.8546979427337646
+Ground Truth: dinner ready . '
+CER: 1.4375
+WER: 1.0000
+
+Image: lines/n02/n02-127/n02-127-04.png
+Prediction: xs-oso grsudr8 cfh D*H SRk suik	0.6813983917236328
+Ground Truth: as - as a grounded whale ! " He had to smile
+CER: 0.9545
+WER: 1.0000
+
+Image: lines/b04/b04-175/b04-175-01.png
+Prediction: Certaily duey speud une. But lnw sphudid	0.8100293874740601
+Ground Truth: Certainly they spend more . But how splendid
+CER: 0.7273
+WER: 1.0000
+
+Image: lines/b06/b06-042/b06-042-06.png
+Prediction: bell 's artide
+Ground Truth: bell's article , for , as president of a union
+CER: 0.7391
+WER: 1.0000
+
+Image: lines/e06/e06-021/e06-021-09.png
+Prediction: in 9neusirg Haf llxfy 9flr Aafcing	0.7201846241950989
+Ground Truth: in ensuring that the fry after hatching
+CER: 0.9487
+WER: 0.8571
+
+Image: lines/a01/a01-007u/a01-007u-00.png
+Prediction: Siucesq8
+Ground Truth: Since 1958 , 13 Labour life Peers and
+CER: 0.8649
+WER: 1.0000
+
+Image: lines/m04/m04-190/m04-190-09.png
+Prediction: it was c pity at all; ds
+Ground Truth: it was a pity at all ; as , indeed , they didn't .
+CER: 0.5600
+WER: 0.7143
+
+Image: lines/r02/r02-117/r02-117-04.png
+Prediction: nohe nobed with ndestanding. Oon'n t tied	0.7087507843971252
+Ground Truth: mother nodded with understanding . ' You 're not tired .
+CER: 0.6429
+WER: 0.9091
+
+Image: lines/n04/n04-044/n04-044-04.png
+Prediction: neo appountmeud
+Ground Truth: new appointment , at nine a.m. precisely , dressed
+CER: 0.7600
+WER: 1.0000
+
+Image: lines/d06/d06-000/d06-000-00.png
+Prediction: In the first ploce it is not a great deq	0.9708368182182312
+Ground Truth: In the first place it is not a great deal
+CER: 0.5122
+WER: 0.3000
+
+Image: lines/d01/d01-049/d01-049-08.png
+Prediction: Rxt of the Gospel.	0.9221370220184326
+Ground Truth: text of the Gospel .
+CER: 1.0500
+WER: 0.6000
+
+Image: lines/m04/m04-012/m04-012-08.png
+Prediction: .Fvning fo hi Lome tonn as c	0.7668085098266602
+Ground Truth: returning to her home town as a
+CER: 0.9677
+WER: 1.0000
+
+Image: lines/c06/c06-039/c06-039-06.png
+Prediction: will puta poshge shaup ut onis byor you	0.8490336537361145
+Ground Truth: will put a postage stamp into orbit before you
+CER: 0.7174
+WER: 0.8889
+
+Image: lines/l04/l04-141/l04-141-06.png
+Prediction: Without danger.	0.9836165904998779
+Ground Truth: without danger .
+CER: 1.2500
+WER: 1.0000
+
+Image: lines/p02/p02-144/p02-144-04.png
+Prediction: tc Hhe man che hocl sent so much timc	0.8124115467071533
+Ground Truth: to the man she had spent so much time
+CER: 0.7297
+WER: 0.7778
+
+Image: lines/c06/c06-011/c06-011-02.png
+Prediction: t ta/E t6 te author of Bonstal Soyqud	0.7805024981498718
+Ground Truth: to talk to the author of Borstal Boy and
+CER: 0.7250
+WER: 0.7778
+
+Image: lines/m01/m01-022/m01-022-01.png
+Prediction: aS+houyh his uose had beeu pushed kack aud his eyes aud cheeus	0.922773003578186
+Ground Truth: as though his nose had been pushed back and his eyes and cheeks
+CER: 0.4444
+WER: 0.6923
+
+Image: lines/b04/b04-116/b04-116-07.png
+Prediction: digfiaulties fom Afucem politicians gzeedy foz powei.	0.8746636509895325
+Ground Truth: difficulties from African politicians greedy for power .
+CER: 0.5179
+WER: 0.8750
+
+Image: lines/d06/d06-091/d06-091-09.png
+Prediction: us to adventure
+Ground Truth: us to adventure , do not strangle us before
+CER: 0.6512
+WER: 0.6667
+
+Image: lines/r02/r02-013/r02-013-02.png
+Prediction: 0g0
+Ground Truth: to go , was left almost alone in the
+CER: 0.9722
+WER: 1.0000
+
+Image: lines/r03/r03-035/r03-035-07.png
+Prediction: Sure.""ET
+Ground Truth: sure . " " Er , yes . You have some securities ,
+CER: 0.8542
+WER: 1.0000
+
+Image: lines/a01/a01-072u/a01-072u-06.png
+Prediction: to pcy wonr - cud u cnQaae tatah'cuto do	0.817417323589325
+Ground Truth: to pay more - and increase taxation to do
+CER: 0.8537
+WER: 0.7778
+
+Image: lines/m04/m04-216/m04-216-05.png
+Prediction: flag on a palm tree. And he tries to enscre	0.9211674332618713
+Ground Truth: flag on a palm tree . And he tries to ensure
+CER: 0.4773
+WER: 0.3636
+
+Image: lines/p02/p02-076/p02-076-01.png
+Prediction: Re te+aoe tiwwiuq Kai pekaps qawii	0.7060472965240479
+Ground Truth: the terrace thinking that perhaps Gavin
+CER: 0.9487
+WER: 1.1667
+
+Image: lines/a06/a06-044/a06-044-06.png
+Prediction: fo Stop	0.690631091594696
+Ground Truth: to stop .
+CER: 2.1111
+WER: 1.0000
+
+Image: lines/h02/h02-024/h02-024-04.png
+Prediction: Oscertainedthet the incidente Ofthis irregular-	0.9016507863998413
+Ground Truth: ascertained that the incidence of this irregular-
+CER: 0.5102
+WER: 0.8571
+
+Image: lines/b04/b04-047/b04-047-03.png
+Prediction: Suf -and sr wee Anu of hius pudeanns this ety cnty	0.7904678583145142
+Ground Truth: Scot - and so were four of his predecessors this # century .
+CER: 0.7000
+WER: 0.8462
+
+Image: lines/c03/c03-094f/c03-094f-01.png
+Prediction: Hoely pushing
+Ground Truth: tively pushing , Miss Sheila Allen his wife ,
+CER: 0.7556
+WER: 0.8889
+
+Image: lines/e06/e06-010/e06-010-03.png
+Prediction: He ohaor nh Hhe mil ide lyur digw  #	0.6884058117866516
+Ground Truth: in the shallower water the mile wide layers disappear from the
+CER: 0.7258
+WER: 1.0000
+
+Image: lines/g06/g06-037l/g06-037l-00.png
+Prediction: bod gront
+Ground Truth: God grant , however , that I may be a false prophet & that
+CER: 0.8793
+WER: 1.0000
+
+Image: lines/a04/a04-006/a04-006-09.png
+Prediction: xatity offcirs
+Ground Truth: security affairs , were brought in , the two
+CER: 0.7955
+WER: 1.0000
+
+Image: lines/g04/g04-088/g04-088-10.png
+Prediction: Clamouhfor6ackStdmpsdchild	0.6660528779029846
+Ground Truth: clamour for back stamps if a child
+CER: 0.9412
+WER: 1.0000
+
+Image: lines/l03/l03-000/l03-000-02.png
+Prediction: nalne was discoueiuyth muth i4	0.7885233163833618
+Ground Truth: Malone was discovering the truth in
+CER: 0.8571
+WER: 0.8333
+
+Image: lines/g06/g06-011k/g06-011k-02.png
+Prediction: mwh ns his heaHh pemHed hm+o enjoy	0.9000430107116699
+Ground Truth: much as his health permitted him to enjoy
+CER: 0.7561
+WER: 0.8750
+
+Image: lines/a06/a06-147/a06-147-03.png
+Prediction: euUigaHon Haf West Guweny coU uof prvive even a few anws	0.7248817682266235
+Ground Truth: realization that West Germany would not survive even a few hours
+CER: 0.6875
+WER: 0.7273
+
+Image: lines/g06/g06-011a/g06-011a-08.png
+Prediction: 1supuudid by the seldic -a faronrab/i chany	0.8300920724868774
+Ground Truth: 1superceded by the soldier - a favourable change
+CER: 0.6875
+WER: 0.7500
+
+Image: lines/d06/d06-020/d06-020-08.png
+Prediction: Livev qydHat #e nearer ue Ft% HZu	0.7617627382278442
+Ground Truth: lives and that the nearer we get to Him ,
+CER: 0.8537
+WER: 0.9000
+
+Image: lines/g07/g07-069a/g07-069a-03.png
+Prediction: nad formerly been reluctant to approve the	0.9313418865203857
+Ground Truth: had formerly been reluctant to approve the
+CER: 0.4762
+WER: 0.2857
+
+Image: lines/g07/g07-047/g07-047-10.png
+Prediction: ou uuloh merer couceirabey nueet in olecent society.	0.8180387020111084
+Ground Truth: on would never conceivably meet in decent society .
+CER: 0.6471
+WER: 0.8889
+
+Image: lines/d01/d01-060/d01-060-03.png
+Prediction: the paragr9pG 7
+Ground Truth: the paragraph 7.53-8.11 , the Woman
+CER: 0.6286
+WER: 0.8333
+
+Image: lines/g06/g06-011r/g06-011r-01.png
+Prediction: He told C&oncurry thH he enjoyed it cs wuch cs his	0.9103639721870422
+Ground Truth: He told Cloncurry that he enjoyed it as much as his
+CER: 0.4902
+WER: 0.5455
+
+Image: lines/a01/a01-132/a01-132-07.png
+Prediction: aack u "ewwowic chouges' for weulane	0.8490342497825623
+Ground Truth: attack on " economic charges " for welfare
+CER: 0.8333
+WER: 1.0000
+
+Image: lines/e06/e06-041/e06-041-03.png
+Prediction: probably through waves or vibrations in	0.9657692313194275
+Ground Truth: probably through waves or vibrations in
+CER: 0.4872
+WER: 0.1667
+
+Image: lines/g06/g06-045b/g06-045b-02.png
+Prediction: Ponsonby
+Ground Truth: Ponsonby , had written to advise Anglesey to
+CER: 0.8182
+WER: 0.8750
+
+Image: lines/j01/j01-045/j01-045-03.png
+Prediction: l uoh'uu npakd Knu l coolat F a	0.7164707183837891
+Ground Truth: with niobium separated from the coolant by a
+CER: 1.0000
+WER: 1.0000
+
+Image: lines/a06/a06-141/a06-141-04.png
+Prediction: nof alamd.... Nexfdon
+Ground Truth: not alarmed ... . Next door , in West Germany , before everyone's
+CER: 0.7077
+WER: 1.0000
+
+Image: lines/p03/p03-047/p03-047-03.png
+Prediction: NUF M21."
+Ground Truth: NUF 121 . " " He probably loaned his car
+CER: 0.8000
+WER: 0.9000
+
+Image: lines/b06/b06-110/b06-110-06.png
+Prediction: boys who posed the Admirhty exams fr Resyth	0.8735001087188721
+Ground Truth: boys who passed the Admiralty exams for Rosyth
+CER: 0.5435
+WER: 0.6250
+
+Image: lines/m04/m04-024/m04-024-05.png
+Prediction: hn nov1d shc dus inHving thwe nigL)	0.7574813365936279
+Ground Truth: new world she was entering there might
+CER: 0.9737
+WER: 1.1429
+
+Image: lines/g06/g06-047k/g06-047k-04.png
+Prediction: disciples among wnorthodox medical men in He	0.8864355683326721
+Ground Truth: disciples among unorthodox medical men in the
+CER: 0.4889
+WER: 0.4286
+
+Image: lines/l01/l01-129/l01-129-02.png
+Prediction: eos He mosl wexpeaed words Nick hod	0.833589494228363
+Ground Truth: ear the most unexpected words Nick had
+CER: 0.7368
+WER: 0.8571
